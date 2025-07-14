@@ -20,12 +20,15 @@ Dataset
 
 Results
 ----------
- - **Explanation Quality**: *explanation_comparison.xlsx* files within the DPP and RCPSP folders contain the textual explanations and the data of the quantitative analysis. 
- - **Empirical Hardness**: *iis* folder contains files that save the extracted IIS. Within such files, there is saved the runtime to compute the IIS. 
+ - **Explanation Quality**: [`explanation_comparison.xlsx`](DPP/explanation_comparison.xlsx) files within the DPP and RCPSP folders contain the textual explanations and the data of the quantitative analysis. 
+ - **Empirical Hardness**: [`iis.py`](DPP/iis.py) folder contains files that save the extracted IIS. Within such files, there is saved the runtime to compute the IIS. 
 
-Execution
+Reproducibility
 ----------
-To solve the optimisation problem, execute [`problem.py`](problem.py) Python script,
+
+Here, we describe the steps to reproduce the results of the experimental section. 
+
+ 1. **Solve an optimisation problem instance**, run [`problem.py`](DPP/problem.py) Python script,
 ```
 usage: python3 problem.py [--time TIME] [--threads THREADS] [--file file] [specific problem arguments]
 
@@ -35,8 +38,9 @@ optional arguments:
   --threads THREADS  query type (default: 1)
   
 ```
+We can solve all the problem instances by varying the input arguments (which are specific for each problem). Furthermore, in the folder [`solutions`](DPP/solutions), we store all the optimal solutions and their runtime.  
 
-Our approach must be executed by means of the [`iis.py`](iis.py) Python script to compute an IIS,
+ 2. **Compute an IIS**, run [`iis.py`](DPP/iis.py) Python script,
 
 ```
 usage: python3 iis.py [-s S] [-q Q] [--file file] [specific problem arguments]
@@ -48,8 +52,9 @@ optional arguments:
   --file FILE instance file
   
 ```
+We can extract iis for all the generated queries by varying the input arguments (which are specific for each problem). Furthermore, in the folder [`iis`](DPP/iis), we store all the extracted iis and their runtime.  
 
-Execute [`llm.py`](llm.py) Python script to compute a prompt for an LLM,
+ 3. **Compute a prompt for an LLM**, run [`llm.py`](DPP/llm.py) Python script,
 
 ```
 usage: python3 llm.py [-q Q] [specific problem arguments]
@@ -59,3 +64,4 @@ optional arguments:
   -q Q        query type (default: 1)
   
 ```
+We can compute a prompt for generating an explanation by varying the input arguments (which are specific for each problem). Furthermore, in the folder [`prompt`](DPP/prompt), we store all the generated prompts for the selection of queries.  
