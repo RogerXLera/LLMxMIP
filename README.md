@@ -52,12 +52,10 @@ optional arguments:
 Execute [`llm.py`](llm.py) Python script to compute a prompt for an LLM,
 
 ```
-usage: python3 prompt.py [-s S] [-q Q] [--file file] [specific problem arguments]
+usage: python3 llm.py [-q Q] [specific problem arguments]
 
 optional arguments:
   -h, --help  show this help message and exit
-  -s S        time limit (default: 60)
   -q Q        query type (default: 1)
-  --file FILE instance file
   
 ```
