@@ -1,0 +1,4 @@
+activity;start_time;completion_time;duration;predecessors;resources
+23;46;52;7;19;r2(7)
+30;53;61;9;23, 27, 28;r1(9),r2(5),r4(8)
+32;61;61;0;29, 30, 31;-

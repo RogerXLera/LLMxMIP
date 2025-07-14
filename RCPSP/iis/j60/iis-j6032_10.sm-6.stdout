@@ -1,0 +1,17 @@
+IIS generation
+Instance: j6032_10
+----------------------------
+Query: 6
+Query element:30,39
+Query element:41,39
+Query element:57,39
+Query element:42,37
+Query element:45,37
+Query scope: 7737
+Query scope: 10734
+Query scope: 14869
+Query scope: 10994
+Query scope: 11780
+----------------------------
+IIS optimality: optimal
+IIS solution time: 1.42423

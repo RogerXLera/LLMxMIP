@@ -1,0 +1,64 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                          | semesters  | credits | compulsory | 
+|-----------------------------------|------------|---------|------------| 
+| Human-Computer Interaction        | 1 (Autumn) | 10      | Yes        | 
+| Professional Development          | 1 (Autumn) | 10      | Yes        | 
+| Statistical Decision Making       | 1 (Autumn) | 10      | Yes        | 
+| Discrete Mathematics              | 3 (Autumn) | 10      | No         | 
+| Data Structures and Algorithms    | 3 (Autumn) | 10      | No         | 
+| Systems Analysis and Design       | 3 (Autumn) | 10      | Yes        | 
+| Operating Systems Programming     | 3 (Autumn) | 10      | Yes        | 
+| Computer Networks and Internets   | 5 (Autumn) | 10      | Yes        | 
+| Object Oriented Analysis          | 5 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications | 5 (Autumn) | 10      | Yes        | 
+| Wireless and Mobile Networks      | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Wireless and Mobile Networks planned instead of Analysis? 
+Reasons: 
+0: Wireless and Mobile Networks is planned instead of Analysis 
+1: Analysis cannot be planned during spring semesters 
+2: Discrete Mathematics cannot be planned during spring semesters 
+3: Advanced Calculus cannot be planned during spring semesters 
+4: Abstract Algebra cannot be planned during spring semesters 
+5: Computer Graphics cannot be planned during spring semesters 
+6: Computer Networks and Internets  cannot be planned during spring semesters 
+7: Data Structures and Algorithms cannot be planned during spring semesters 
+8: Object Oriented Analysis cannot be planned during spring semesters 
+9: Games Technology cannot be planned during spring semesters 
+10: Human-Computer Interaction cannot be planned during spring semesters 
+11: Professional Development cannot be planned during spring semesters 
+12: Technologies for Web Applications cannot be planned during spring semesters 
+13: Systems Analysis and Design cannot be planned during spring semesters 
+14: Operating Systems Programming cannot be planned during spring semesters 
+15: Statistical Decision Making cannot be planned during spring semesters 
+16: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+17: Clinical Classification and Coding cannot be planned during spring semesters 
+18: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+19: 40 must be planned during semester 1 
+20: 40 must be planned during semester 3 
+21: 40 must be planned during semester 5 
+22: Advanced Calculus must be planned before Analysis 
+23: Mathematics 1B must be planned before Advanced Calculus 
+24: Mathematics 1A must be planned before Mathematics 1B 
+25: Computer Networks and Internets  is compulsory 
+26: Object Oriented Analysis is compulsory 
+27: Human-Computer Interaction is compulsory 
+28: Professional Development is compulsory 
+29: Technologies for Web Applications is compulsory 
+30: Systems Analysis and Design is compulsory 
+31: Operating Systems Programming is compulsory 
+32: Statistical Decision Making is compulsory 
+33: students must complete one major 
+34: Data Structures and Algorithms is compulsory for completing Cyber Security major 
+35: Ethical Hacking Principles and Practice is compulsory for completing Cyber Security major 
+36: Computer Graphics is compulsory for completing Entertainment Computing major 
+37: Games Technology is compulsory for completing Entertainment Computing major 
+38: Clinical Classification and Coding is compulsory for completing Health Informatics major 
+39: Fundamentals of Medical Concepts and Terminology is compulsory for completing Health Informatics major 
+40: Discrete Mathematics is compulsory for completing Mathematics major 
+41: Abstract Algebra is compulsory for completing Mathematics major 
+42: Wireless and Mobile Networks is compulsory for completing Mobile Computing major 
+43: Wireless and Mobile Networks is compulsory for completing Networking major 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

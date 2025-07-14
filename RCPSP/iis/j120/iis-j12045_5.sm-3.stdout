@@ -1,0 +1,44 @@
+IIS generation
+Instance: j12045_5
+----------------------------
+Query: 3
+Query element:120,116
+Query scope: 71356
+Query scope: 71357
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 11150.595
+IIS Constraint: 70; completion; {activity:71}
+IIS Constraint: 79; completion; {activity:80}
+IIS Constraint: 87; completion; {activity:88}
+IIS Constraint: 90; completion; {activity:91}
+IIS Constraint: 97; completion; {activity:98}
+IIS Constraint: 119; completion; {activity:120}
+IIS Constraint: 233; precedence; {activity:72,predecessor:71}
+IIS Constraint: 307; precedence; {activity:99,predecessor:80}
+IIS Constraint: 312; precedence; {activity:100,predecessor:98}
+IIS Constraint: 315; precedence; {activity:101,predecessor:99}
+IIS Constraint: 320; precedence; {activity:103,predecessor:72}
+IIS Constraint: 326; precedence; {activity:105,predecessor:88}
+IIS Constraint: 328; precedence; {activity:106,predecessor:91}
+IIS Constraint: 329; precedence; {activity:106,predecessor:100}
+IIS Constraint: 330; precedence; {activity:106,predecessor:103}
+IIS Constraint: 336; precedence; {activity:108,predecessor:101}
+IIS Constraint: 339; precedence; {activity:109,predecessor:106}
+IIS Constraint: 350; precedence; {activity:113,predecessor:105}
+IIS Constraint: 353; precedence; {activity:114,predecessor:108}
+IIS Constraint: 356; precedence; {activity:115,predecessor:113}
+IIS Constraint: 363; precedence; {activity:117,predecessor:114}
+IIS Constraint: 365; precedence; {activity:118,predecessor:109}
+IIS Constraint: 369; precedence; {activity:119,predecessor:115}
+IIS Constraint: 372; precedence; {activity:120,predecessor:117}
+IIS Constraint: 375; precedence; {activity:121,predecessor:118}
+IIS Constraint: 376; precedence; {activity:122,predecessor:119}
+IIS Constraint: 378; precedence; {activity:122,predecessor:121}
+IIS Constraint: 1144; renewable; {resource:2,t:71}
+IIS Constraint: 1165; renewable; {resource:2,t:92}
+IIS Constraint: 1166; renewable; {resource:2,t:93}
+IIS Constraint: 1850; renewable; {resource:3,t:83}
+IIS Constraint: 1856; renewable; {resource:3,t:89}
+IIS Constraint: 3155; query; {activity:120,t:116,query:3}
+IIS Constraint: 3156; max; {f:116.0,objective:max}

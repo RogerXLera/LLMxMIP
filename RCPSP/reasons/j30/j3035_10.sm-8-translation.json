@@ -1,0 +1,1 @@
+{"query": "The subset of activities 21, 17, 24 is not completed at the same time period", "c:21": "activity 21 must be completed", "p:21/17": "activity 17 must be completed before starting activity 21", "m": "extends the length of the project beyond time period 59"}

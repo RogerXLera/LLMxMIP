@@ -1,0 +1,405 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                                   | semesters  | credits | compulsory | 
+|--------------------------------------------|------------|---------|------------| 
+| Human-Computer Interaction                 | 1 (Autumn) | 10      | Yes        | 
+| Professional Development                   | 1 (Autumn) | 10      | Yes        | 
+| Programming Fundamentals                   | 1 (Autumn) | 10      | Yes        | 
+| Statistical Decision Making                | 1 (Autumn) | 10      | Yes        | 
+| Programming Techniques                     | 2 (Spring) | 10      | Yes        | 
+| Computer Graphics                          | 3 (Autumn) | 10      | No         | 
+| Games Technology                           | 3 (Autumn) | 10      | No         | 
+| Systems Analysis and Design                | 3 (Autumn) | 10      | Yes        | 
+| Operating Systems Programming              | 3 (Autumn) | 10      | Yes        | 
+| Database Design and Development            | 4 (Spring) | 10      | Yes        | 
+| Computer Networking                        | 4 (Spring) | 10      | Yes        | 
+| Social Web Analytics                       | 4 (Spring) | 10      | Yes        | 
+| Computer Networks and Internets            | 5 (Autumn) | 10      | Yes        | 
+| Object Oriented Analysis                   | 5 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications          | 5 (Autumn) | 10      | Yes        | 
+| Principles of Professional Communication 1 | 6 (Spring) | 10      | Yes        | 
+| Professional Experience                    | 6 (Spring) | 10      | Yes        | 
+| Web Systems Development                    | 6 (Spring) | 10      | Yes        | 
+
+Question: Why is Analysis not planned? 
+Reasons: 
+0: Analysis is not planned 
+1: Analysis cannot be planned during spring semesters 
+2: 40 must be planned during semester 1 
+3: 40 must be planned during semester 2 
+4: 40 must be planned during semester 3 
+5: 40 must be planned during semester 4 
+6: 40 must be planned during semester 5 
+7: 40 must be planned during semester 6 
+8: Advanced Calculus must be planned before Analysis 
+9: Mathematics 1B must be planned before Advanced Calculus 
+10: Mathematics 1A must be planned before Mathematics 1B 
+11: Programming Techniques,  or Object Oriented Programming must be planned before Operating Systems Programming 
+12: Fundamentals of Medical Concepts and Terminology must be planned before Clinical Classification and Coding 
+13: Principles of Professional Communication 1 is compulsory 
+14: Computer Networks and Internets  is compulsory 
+15: Database Design and Development is compulsory 
+16: Object Oriented Analysis is compulsory 
+17: Computer Networking is compulsory 
+18: Human-Computer Interaction is compulsory 
+19: Professional Development is compulsory 
+20: Professional Experience is compulsory 
+21: Programming Fundamentals is compulsory 
+22: Technologies for Web Applications is compulsory 
+23: Web Systems Development is compulsory 
+24: Systems Analysis and Design is compulsory 
+25: Operating Systems Programming is compulsory 
+26: Statistical Decision Making is compulsory 
+27: Social Web Analytics is compulsory 
+28: Data Structures and Algorithms is compulsory for completing Cyber Security major 
+29: Ethical Hacking Principles and Practice is compulsory for completing Cyber Security major 
+30: Computer Graphics is compulsory for completing Entertainment Computing major 
+31: Games Technology is compulsory for completing Entertainment Computing major 
+32: Clinical Classification and Coding is compulsory for completing Health Informatics major 
+33: Discrete Mathematics is compulsory for completing Mathematics major 
+34: Abstract Algebra is compulsory for completing Mathematics major 
+35: Mobile Applications Development is compulsory for completing Mobile Computing major 
+36: Network Security is compulsory for completing Mobile Computing major 
+37: Social Computing is compulsory for completing Mobile Computing major 
+38: Wireless and Mobile Networks is compulsory for completing Mobile Computing major 
+39: Information Systems Deployment and Management is compulsory for completing Mobile Computing major 
+40: Networked Systems Design is compulsory for completing Networking major 
+41: Wireless and Mobile Networks is compulsory for completing Networking major 
+42: Discrete Mathematics cannot be planned during spring semesters 
+43: Advanced Calculus cannot be planned during spring semesters 
+44: Abstract Algebra cannot be planned during spring semesters 
+45: Computer Graphics cannot be planned during spring semesters 
+46: Computer Networks and Internets  cannot be planned during spring semesters 
+47: Data Structures and Algorithms cannot be planned during spring semesters 
+48: Object Oriented Analysis cannot be planned during spring semesters 
+49: Games Technology cannot be planned during spring semesters 
+50: Human-Computer Interaction cannot be planned during spring semesters 
+51: Networked Systems Design cannot be planned during spring semesters 
+52: Professional Development cannot be planned during spring semesters 
+53: Technologies for Web Applications cannot be planned during spring semesters 
+54: Systems Analysis and Design cannot be planned during spring semesters 
+55: Operating Systems Programming cannot be planned during spring semesters 
+56: Statistical Decision Making cannot be planned during spring semesters 
+57: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+58: Clinical Classification and Coding cannot be planned during spring semesters 
+59: Wireless and Mobile Networks cannot be planned during spring semesters 
+60: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+61: students must complete one major 
+Connections: 
+(0-1) 
+(0-2) 
+(0-3) 
+(0-4) 
+(0-5) 
+(0-6) 
+(0-7) 
+(0-8) 
+(1-3) 
+(1-5) 
+(1-7) 
+(2-8) 
+(2-9) 
+(2-10) 
+(2-11) 
+(2-12) 
+(2-13) 
+(2-14) 
+(2-15) 
+(2-16) 
+(2-17) 
+(2-18) 
+(2-19) 
+(2-20) 
+(2-21) 
+(2-22) 
+(2-23) 
+(2-24) 
+(2-25) 
+(2-26) 
+(2-27) 
+(2-28) 
+(2-29) 
+(2-30) 
+(2-31) 
+(2-32) 
+(2-33) 
+(2-34) 
+(2-35) 
+(2-36) 
+(2-37) 
+(2-38) 
+(2-39) 
+(2-40) 
+(2-41) 
+(3-42) 
+(3-43) 
+(3-44) 
+(3-45) 
+(3-46) 
+(3-47) 
+(3-48) 
+(3-49) 
+(3-50) 
+(3-51) 
+(3-52) 
+(3-53) 
+(3-54) 
+(3-55) 
+(3-56) 
+(3-57) 
+(3-58) 
+(3-59) 
+(3-60) 
+(3-8) 
+(3-9) 
+(3-10) 
+(3-11) 
+(3-12) 
+(3-13) 
+(3-14) 
+(3-15) 
+(3-16) 
+(3-17) 
+(3-18) 
+(3-19) 
+(3-20) 
+(3-21) 
+(3-22) 
+(3-23) 
+(3-24) 
+(3-25) 
+(3-26) 
+(3-27) 
+(3-28) 
+(3-29) 
+(3-30) 
+(3-31) 
+(3-32) 
+(3-33) 
+(3-34) 
+(3-35) 
+(3-36) 
+(3-37) 
+(3-38) 
+(3-39) 
+(3-40) 
+(3-41) 
+(4-8) 
+(4-9) 
+(4-11) 
+(4-12) 
+(4-13) 
+(4-14) 
+(4-15) 
+(4-16) 
+(4-17) 
+(4-18) 
+(4-19) 
+(4-20) 
+(4-21) 
+(4-22) 
+(4-23) 
+(4-24) 
+(4-25) 
+(4-26) 
+(4-27) 
+(4-28) 
+(4-29) 
+(4-30) 
+(4-31) 
+(4-32) 
+(4-33) 
+(4-34) 
+(4-35) 
+(4-36) 
+(4-37) 
+(4-38) 
+(4-39) 
+(4-40) 
+(4-41) 
+(5-42) 
+(5-43) 
+(5-44) 
+(5-45) 
+(5-46) 
+(5-47) 
+(5-48) 
+(5-49) 
+(5-50) 
+(5-51) 
+(5-52) 
+(5-53) 
+(5-54) 
+(5-55) 
+(5-56) 
+(5-57) 
+(5-58) 
+(5-59) 
+(5-60) 
+(5-8) 
+(5-11) 
+(5-12) 
+(5-13) 
+(5-14) 
+(5-15) 
+(5-16) 
+(5-17) 
+(5-18) 
+(5-19) 
+(5-20) 
+(5-21) 
+(5-22) 
+(5-23) 
+(5-24) 
+(5-25) 
+(5-26) 
+(5-27) 
+(5-28) 
+(5-29) 
+(5-30) 
+(5-31) 
+(5-32) 
+(5-33) 
+(5-34) 
+(5-35) 
+(5-36) 
+(5-37) 
+(5-38) 
+(5-39) 
+(5-40) 
+(5-41) 
+(6-8) 
+(6-11) 
+(6-12) 
+(6-13) 
+(6-14) 
+(6-15) 
+(6-16) 
+(6-17) 
+(6-18) 
+(6-19) 
+(6-20) 
+(6-21) 
+(6-22) 
+(6-23) 
+(6-24) 
+(6-25) 
+(6-26) 
+(6-27) 
+(6-28) 
+(6-29) 
+(6-30) 
+(6-31) 
+(6-32) 
+(6-33) 
+(6-34) 
+(6-35) 
+(6-36) 
+(6-37) 
+(6-38) 
+(6-39) 
+(6-40) 
+(6-41) 
+(7-42) 
+(7-43) 
+(7-44) 
+(7-45) 
+(7-46) 
+(7-47) 
+(7-48) 
+(7-49) 
+(7-50) 
+(7-51) 
+(7-52) 
+(7-53) 
+(7-54) 
+(7-55) 
+(7-56) 
+(7-57) 
+(7-58) 
+(7-59) 
+(7-60) 
+(7-13) 
+(7-14) 
+(7-15) 
+(7-16) 
+(7-17) 
+(7-18) 
+(7-19) 
+(7-20) 
+(7-21) 
+(7-22) 
+(7-23) 
+(7-24) 
+(7-25) 
+(7-26) 
+(7-27) 
+(7-28) 
+(7-29) 
+(7-30) 
+(7-31) 
+(7-32) 
+(7-33) 
+(7-34) 
+(7-35) 
+(7-36) 
+(7-37) 
+(7-38) 
+(7-39) 
+(7-40) 
+(7-41) 
+(8-43) 
+(8-9) 
+(9-10) 
+(11-25) 
+(12-57) 
+(12-32) 
+(14-46) 
+(16-48) 
+(18-50) 
+(19-52) 
+(22-53) 
+(24-54) 
+(25-55) 
+(26-56) 
+(28-47) 
+(28-61) 
+(28-29) 
+(29-60) 
+(29-61) 
+(30-45) 
+(30-61) 
+(30-31) 
+(31-49) 
+(31-61) 
+(32-58) 
+(32-61) 
+(33-42) 
+(33-61) 
+(33-34) 
+(34-44) 
+(34-61) 
+(35-61) 
+(35-36) 
+(35-37) 
+(35-38) 
+(35-39) 
+(36-61) 
+(36-37) 
+(36-38) 
+(36-39) 
+(37-61) 
+(37-38) 
+(37-39) 
+(38-59) 
+(38-61) 
+(38-39) 
+(38-41) 
+(39-61) 
+(40-51) 
+(40-61) 
+(40-41) 
+(41-59) 
+(41-61) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

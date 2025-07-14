@@ -1,0 +1,272 @@
+IIS generation
+Instance: j3039_9
+----------------------------
+Query: 7
+Query element:19,40
+Query element:20,40
+Query scope: 2251
+Query scope: 2369
+Query scope: 2252
+Query scope: 2370
+Query scope: 2253
+Query scope: 2371
+Query scope: 2254
+Query scope: 2372
+Query scope: 2255
+Query scope: 2373
+Query scope: 2256
+Query scope: 2374
+Query scope: 2257
+Query scope: 2375
+Query scope: 2258
+Query scope: 2376
+Query scope: 2259
+Query scope: 2377
+Query scope: 2260
+Query scope: 2378
+Query scope: 2261
+Query scope: 2379
+Query scope: 2262
+Query scope: 2380
+Query scope: 2263
+Query scope: 2381
+Query scope: 2264
+Query scope: 2382
+Query scope: 2265
+Query scope: 2383
+Query scope: 2266
+Query scope: 2384
+Query scope: 2267
+Query scope: 2385
+Query scope: 2268
+Query scope: 2386
+Query scope: 2269
+Query scope: 2387
+Query scope: 2270
+Query scope: 2388
+Query scope: 2271
+Query scope: 2389
+Query scope: 2272
+Query scope: 2390
+Query scope: 2273
+Query scope: 2391
+Query scope: 2274
+Query scope: 2392
+Query scope: 2275
+Query scope: 2393
+Query scope: 2276
+Query scope: 2394
+Query scope: 2277
+Query scope: 2395
+Query scope: 2278
+Query scope: 2396
+Query scope: 2279
+Query scope: 2397
+Query scope: 2280
+Query scope: 2398
+Query scope: 2281
+Query scope: 2399
+Query scope: 2282
+Query scope: 2400
+Query scope: 2283
+Query scope: 2401
+Query scope: 2284
+Query scope: 2402
+Query scope: 2285
+Query scope: 2403
+Query scope: 2286
+Query scope: 2404
+Query scope: 2287
+Query scope: 2405
+Query scope: 2288
+Query scope: 2406
+Query scope: 2289
+Query scope: 2407
+Query scope: 2290
+Query scope: 2408
+Query scope: 2291
+Query scope: 2409
+Query scope: 2292
+Query scope: 2410
+Query scope: 2293
+Query scope: 2411
+Query scope: 2294
+Query scope: 2412
+Query scope: 2295
+Query scope: 2413
+Query scope: 2296
+Query scope: 2414
+Query scope: 2297
+Query scope: 2415
+Query scope: 2298
+Query scope: 2416
+Query scope: 2299
+Query scope: 2417
+Query scope: 2300
+Query scope: 2418
+Query scope: 2301
+Query scope: 2419
+Query scope: 2302
+Query scope: 2420
+Query scope: 2303
+Query scope: 2421
+Query scope: 2304
+Query scope: 2422
+Query scope: 2305
+Query scope: 2423
+Query scope: 2306
+Query scope: 2424
+Query scope: 2307
+Query scope: 2425
+Query scope: 2308
+Query scope: 2426
+Query scope: 2309
+Query scope: 2427
+Query scope: 2310
+Query scope: 2428
+Query scope: 2311
+Query scope: 2429
+Query scope: 2312
+Query scope: 2430
+Query scope: 2313
+Query scope: 2431
+Query scope: 2314
+Query scope: 2432
+Query scope: 2315
+Query scope: 2433
+Query scope: 2316
+Query scope: 2434
+Query scope: 2317
+Query scope: 2435
+Query scope: 2318
+Query scope: 2436
+Query scope: 2319
+Query scope: 2437
+Query scope: 2320
+Query scope: 2438
+Query scope: 2321
+Query scope: 2439
+Query scope: 2322
+Query scope: 2440
+Query scope: 2323
+Query scope: 2441
+Query scope: 2324
+Query scope: 2442
+Query scope: 2325
+Query scope: 2443
+Query scope: 2326
+Query scope: 2444
+Query scope: 2327
+Query scope: 2445
+Query scope: 2328
+Query scope: 2446
+Query scope: 2329
+Query scope: 2447
+Query scope: 2330
+Query scope: 2448
+Query scope: 2331
+Query scope: 2449
+Query scope: 2332
+Query scope: 2450
+Query scope: 2333
+Query scope: 2451
+Query scope: 2334
+Query scope: 2452
+Query scope: 2335
+Query scope: 2453
+Query scope: 2336
+Query scope: 2454
+Query scope: 2337
+Query scope: 2455
+Query scope: 2338
+Query scope: 2456
+Query scope: 2339
+Query scope: 2457
+Query scope: 2340
+Query scope: 2458
+Query scope: 2341
+Query scope: 2459
+Query scope: 2342
+Query scope: 2460
+Query scope: 2343
+Query scope: 2461
+Query scope: 2344
+Query scope: 2462
+Query scope: 2345
+Query scope: 2463
+Query scope: 2346
+Query scope: 2464
+Query scope: 2347
+Query scope: 2465
+Query scope: 2348
+Query scope: 2466
+Query scope: 2349
+Query scope: 2467
+Query scope: 2350
+Query scope: 2468
+Query scope: 2351
+Query scope: 2469
+Query scope: 2352
+Query scope: 2470
+Query scope: 2353
+Query scope: 2471
+Query scope: 2354
+Query scope: 2472
+Query scope: 2355
+Query scope: 2473
+Query scope: 2356
+Query scope: 2474
+Query scope: 2357
+Query scope: 2475
+Query scope: 2358
+Query scope: 2476
+Query scope: 2359
+Query scope: 2477
+Query scope: 2360
+Query scope: 2478
+Query scope: 2361
+Query scope: 2479
+Query scope: 2362
+Query scope: 2480
+Query scope: 2363
+Query scope: 2481
+Query scope: 2364
+Query scope: 2482
+Query scope: 2365
+Query scope: 2483
+Query scope: 2366
+Query scope: 2484
+Query scope: 2367
+Query scope: 2485
+Query scope: 2368
+Query scope: 2486
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 968.21216
+IIS Constraint: 6; completion; {activity:7}
+IIS Constraint: 10; completion; {activity:11}
+IIS Constraint: 13; completion; {activity:14}
+IIS Constraint: 14; completion; {activity:15}
+IIS Constraint: 25; completion; {activity:26}
+IIS Constraint: 41; precedence; {activity:9,predecessor:7}
+IIS Constraint: 47; precedence; {activity:13,predecessor:11}
+IIS Constraint: 54; precedence; {activity:16,predecessor:9}
+IIS Constraint: 58; precedence; {activity:17,predecessor:13}
+IIS Constraint: 59; precedence; {activity:17,predecessor:14}
+IIS Constraint: 60; precedence; {activity:18,predecessor:15}
+IIS Constraint: 61; precedence; {activity:19,predecessor:18}
+IIS Constraint: 63; precedence; {activity:20,predecessor:16}
+IIS Constraint: 64; precedence; {activity:20,predecessor:17}
+IIS Constraint: 78; precedence; {activity:25,predecessor:19}
+IIS Constraint: 85; precedence; {activity:28,predecessor:20}
+IIS Constraint: 87; precedence; {activity:28,predecessor:25}
+IIS Constraint: 90; precedence; {activity:29,predecessor:28}
+IIS Constraint: 96; precedence; {activity:31,predecessor:26}
+IIS Constraint: 97; precedence; {activity:32,predecessor:29}
+IIS Constraint: 99; precedence; {activity:32,predecessor:31}
+IIS Constraint: 116; renewable; {resource:1,t:16}
+IIS Constraint: 296; renewable; {resource:2,t:20}
+IIS Constraint: 493; renewable; {resource:3,t:41}
+IIS Constraint: 500; renewable; {resource:3,t:48}
+IIS Constraint: 807; query; {activities:[19,20],t:40,query:7}
+IIS Constraint: 922; max; {f:64.0,objective:max}

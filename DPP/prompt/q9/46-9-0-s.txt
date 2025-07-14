@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects             | semesters  | credits | compulsory | 
+|----------------------|------------|---------|------------| 
+| Games Technology     | 3 (Autumn) | 10      | No         | 
+| Quantitative Project | 6 (Spring) | 10      | No         | 
+
+Question: Why is Games Technology planned at semester 3 instead of Quantitative Project? 
+Reasons: 
+0: Games Technology is planned at semester 3 instead of course Quantitative Project 
+1: Quantitative Project cannot be planned during autumn semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

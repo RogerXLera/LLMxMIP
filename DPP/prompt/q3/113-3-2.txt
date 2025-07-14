@@ -1,0 +1,25 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                               | semesters  | credits | compulsory | 
+|----------------------------------------|------------|---------|------------| 
+| Programming Fundamentals               | 1 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications      | 3 (Autumn) | 10      | Yes        | 
+| Information Systems in Context         | 4 (Spring) | 10      | No         | 
+| Emerging Trends in Information Systems | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Emerging Trends in Information Systems not planned before semester 5? 
+Reasons: 
+0: Emerging Trends in Information Systems is not planned before semester 5 
+1: Emerging Trends in Information Systems cannot be planned during spring semesters 
+2: Information Systems in Context must be planned before Emerging Trends in Information Systems 
+3: Technologies for Web Applications must be planned before Emerging Trends in Information Systems 
+4: Technologies for Web Applications cannot be planned during spring semesters 
+5: Programming Fundamentals must be planned before Technologies for Web Applications 
+Connections: 
+(0-1) 
+(0-2) 
+(0-3) 
+(3-4) 
+(3-5) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

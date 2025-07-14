@@ -1,0 +1,37 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 5
+Query element: 300961,4
+Query scope: 378
+Query scope: 379
+Query scope: 380
+Query scope: 381
+Query scope: 382
+Query scope: 383
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.146
+IIS Constraint: 617; unit_skill; {skill:EMRG,level:3}
+IIS Constraint: 619; unit_skill; {skill:EMRG,level:4}
+IIS Constraint: 621; unit_skill; {skill:EMRG,level:5}
+IIS Constraint: 627; unit_skill; {skill:CORE,level:3}
+IIS Constraint: 629; unit_skill; {skill:CORE,level:4}
+IIS Constraint: 639; unit_skill; {skill:METL,level:5}
+IIS Constraint: 643; unit_skill; {skill:CNSL,level:2}
+IIS Constraint: 645; unit_skill; {skill:CNSL,level:3}
+IIS Constraint: 647; unit_skill; {skill:CNSL,level:4}
+IIS Constraint: 649; unit_skill; {skill:CNSL,level:5}
+IIS Constraint: 659; unit_skill; {skill:TECH,level:5}
+IIS Constraint: 667; unit_skill; {skill:UNAN,level:4}
+IIS Constraint: 669; unit_skill; {skill:UNAN,level:5}
+IIS Constraint: 671; unit_skill; {skill:URCH,level:1}
+IIS Constraint: 673; unit_skill; {skill:URCH,level:2}
+IIS Constraint: 675; unit_skill; {skill:URCH,level:3}
+IIS Constraint: 677; unit_skill; {skill:URCH,level:4}
+IIS Constraint: 679; unit_skill; {skill:URCH,level:5}
+IIS Constraint: 685; unit_skill; {skill:RSCH,level:3}
+IIS Constraint: 687; unit_skill; {skill:RSCH,level:4}
+IIS Constraint: 689; unit_skill; {skill:RSCH,level:5}
+IIS Constraint: 690; query; {unit:300961,query:5}
+IIS Constraint: 691; max; {f:19.0,objective:max}

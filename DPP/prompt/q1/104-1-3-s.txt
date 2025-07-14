@@ -1,0 +1,22 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                                | semesters  | credits | compulsory | 
+|-----------------------------------------|------------|---------|------------| 
+| Programming Fundamentals                | 1 (Autumn) | 10      | Yes        | 
+| Computer Networking                     | 2 (Spring) | 10      | Yes        | 
+| Technologies for Web Applications       | 3 (Autumn) | 10      | Yes        | 
+| Ethical Hacking Principles and Practice | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Technologies for Web Applications planned at semester 3? 
+Reasons: 
+0: Technologies for Web Applications is planned at semester 3 
+1: Technologies for Web Applications cannot be planned during spring semesters 
+2: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+3: Programming Fundamentals must be planned before Technologies for Web Applications 
+4: Computer Networking must be planned before Ethical Hacking Principles and Practice 
+5: Technologies for Web Applications must be planned before Ethical Hacking Principles and Practice 
+6: Level 3 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+7: Level 4 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+8: reduce the percentage of skills learnt below 93%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

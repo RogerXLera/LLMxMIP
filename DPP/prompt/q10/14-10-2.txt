@@ -1,0 +1,19 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                         | semesters  | credits | compulsory | 
+|----------------------------------|------------|---------|------------| 
+| Computer Networking              | 2 (Spring) | 10      | Yes        | 
+| Computer Networks and Internets  | 5 (Autumn) | 10      | Yes        | 
+
+Question: Why is Computer Networking planned instead of Quantitative Project? 
+Reasons: 
+0: Computer Networking is planned instead of Quantitative Project 
+1: Computer Networking must be planned before Computer Networks and Internets  
+2: Computer Networks and Internets  is compulsory 
+3: Computer Networks and Internets  cannot be planned during spring semesters 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

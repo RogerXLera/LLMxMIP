@@ -1,0 +1,15 @@
+IIS generation
+Instance: j3044_1
+----------------------------
+Query: 2
+Query element:15,122
+Query scope: 1592
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.08657
+IIS Constraint: 58; precedence; {activity:18,predecessor:15}
+IIS Constraint: 76; precedence; {activity:25,predecessor:18}
+IIS Constraint: 95; precedence; {activity:31,predecessor:25}
+IIS Constraint: 99; precedence; {activity:32,predecessor:31}
+IIS Constraint: 700; query; {activity:15,t:122,query:2}
+IIS Constraint: 701; max; {f:50.0,objective:max}

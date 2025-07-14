@@ -1,0 +1,18 @@
+subjects;semesters;credits;compulsory
+Professional Development;1 (Autumn);10;Yes
+Systems Analysis and Design;1 (Autumn);10;Yes
+Statistical Decision Making;1 (Autumn);10;Yes
+Computer Networking;2 (Spring);10;Yes
+Programming Fundamentals;2 (Spring);10;Yes
+Computer Networks and Internets ;3 (Autumn);10;Yes
+Object Oriented Analysis;3 (Autumn);10;Yes
+Technologies for Web Applications;3 (Autumn);10;Yes
+Introduction to Cloud Computing ;3 (Autumn);10;No
+Database Design and Development;4 (Spring);10;Yes
+Programming Techniques;4 (Spring);10;Yes
+Computer Graphics;5 (Autumn);10;No
+Human-Computer Interaction;5 (Autumn);10;Yes
+Operating Systems Programming;5 (Autumn);10;Yes
+Ethical Hacking Principles and Practice;5 (Autumn);10;No
+Professional Experience;6 (Spring);10;Yes
+Cloud Computing Architecture;6 (Spring);10;No

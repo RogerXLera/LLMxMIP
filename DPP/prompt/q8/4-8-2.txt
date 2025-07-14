@@ -1,0 +1,20 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                        | semesters  | credits | compulsory | 
+|---------------------------------|------------|---------|------------| 
+| Database Design and Development | 2 (Spring) | 10      | Yes        | 
+| Professional Experience         | 4 (Spring) | 10      | Yes        | 
+| Formal Software Engineering     | 6 (Spring) | 10      | No         | 
+
+Question: Why is the subset of courses Formal Software Engineering, Database Design and Development not planned at semester 6? 
+Reasons: 
+0: The subset of courses Formal Software Engineering, Database Design and Development is not planned at semester 6 
+1: Database Design and Development cannot be planned more than ones 
+2: Database Design and Development must be planned before Professional Experience 
+3: Professional Experience is compulsory 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

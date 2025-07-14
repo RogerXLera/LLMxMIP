@@ -1,0 +1,29 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects             | semesters  | credits | compulsory | 
+|----------------------|------------|---------|------------| 
+| Management Analytics | 2 (Spring) | 10      | No         | 
+
+Question: Why is Management Analytics planned instead of Analytics Programming? 
+Reasons: 
+0: Management Analytics is planned instead of Analytics Programming 
+1: Level 3 of skill Requirement Definition and Management is acquired by coursing Object Oriented Analysis,  or Systems Analysis and Design 
+2: Level 4 of skill Requirement Definition and Management is acquired by coursing Object Oriented Analysis,  or Systems Analysis and Design 
+3: Level 3 of skill Business Process Improvement is acquired by coursing Social Computing 
+4: Level 4 of skill Business Process Improvement is acquired by coursing Social Computing 
+5: Level 5 of skill Business Process Improvement is acquired by coursing Social Computing 
+6: Level 3 of skill Data Modelling and Design is acquired by coursing Database Design and Development,  or Introduction to Health Informatics 
+7: There is no course that teaches level 1 of skill Business Analysis 
+8: There is no course that teaches level 2 of skill Business Analysis 
+9: There is no course that teaches level 3 of skill Business Analysis 
+10: There is no course that teaches level 4 of skill Business Analysis 
+11: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+12: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+13: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+14: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+15: Level 3 of skill Business Modelling is acquired by coursing Introduction to Health Informatics, Healthcare Software and Systems,  or Management Analytics 
+16: Level 1 of skill Measurement is acquired by coursing Management Analytics 
+17: Level 2 of skill Measurement is acquired by coursing Management Analytics 
+18: reduce the percentage of skills learnt below 45%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

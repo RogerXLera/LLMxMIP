@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/iis.py", line 159, in <module>
+    Q = query_generation(I,args.q)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/generate_query.py", line 424, in query_generation
+    function(I,Q,n_q)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/generate_query.py", line 19, in generate_query_1
+    n = rd.randint(0,len_-1)
+  File "/spack/opt/spack/linux-centos7-cascadelake/gcc-10.2.0/python-3.8.15-zr5ndqmduzhoydghq47abxudkyerrjuc/lib/python3.8/random.py", line 248, in randint
+    return self.randrange(a, b+1)
+  File "/spack/opt/spack/linux-centos7-cascadelake/gcc-10.2.0/python-3.8.15-zr5ndqmduzhoydghq47abxudkyerrjuc/lib/python3.8/random.py", line 226, in randrange
+    raise ValueError("empty range for randrange() (%d, %d, %d)" % (istart, istop, width))
+ValueError: empty range for randrange() (0, 0, 0)
+srun: error: c02: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5969713.0

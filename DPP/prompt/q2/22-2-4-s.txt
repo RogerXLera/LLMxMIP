@@ -1,0 +1,14 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                        | semesters  | credits | compulsory | 
+|---------------------------------|------------|---------|------------| 
+| Programming Techniques          | 4 (Spring) | 10      | Yes        | 
+| Mobile Applications Development | 6 (Spring) | 10      | No         | 
+
+Question: Why is Mobile Applications Development not planned at semester 2? 
+Reasons: 
+0: Mobile Applications Development is not planned at semester 2 
+1: Programming Techniques cannot be planned during autumn semesters 
+2: Programming Techniques must be planned before Mobile Applications Development 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

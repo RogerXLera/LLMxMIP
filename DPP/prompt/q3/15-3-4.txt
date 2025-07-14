@@ -1,0 +1,22 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                                         | semesters  | credits | compulsory | 
+|--------------------------------------------------|------------|---------|------------| 
+| Introduction to Health Informatics               | 1 (Autumn) | 10      | No         | 
+| Fundamentals of Medical Concepts and Terminology | 3 (Autumn) | 10      | No         | 
+| Clinical Classification and Coding               | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Clinical Classification and Coding not planned before semester 5? 
+Reasons: 
+0: Clinical Classification and Coding is not planned before semester 5 
+1: Clinical Classification and Coding cannot be planned during spring semesters 
+2: Fundamentals of Medical Concepts and Terminology must be planned before Clinical Classification and Coding 
+3: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+4: Introduction to Health Informatics must be planned before Fundamentals of Medical Concepts and Terminology 
+Connections: 
+(0-1) 
+(0-2) 
+(2-3) 
+(2-4) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

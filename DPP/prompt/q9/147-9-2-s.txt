@@ -1,0 +1,14 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                        | semesters  | credits | compulsory | 
+|---------------------------------|------------|---------|------------| 
+| Professional Development        | 1 (Autumn) | 10      | Yes        | 
+| Database Design and Development | 4 (Spring) | 10      | Yes        | 
+| Professional Experience         | 6 (Spring) | 10      | Yes        | 
+
+Question: Why is Professional Development planned at semester 1 instead of Professional Experience? 
+Reasons: 
+0: Professional Development is planned at semester 1 instead of course Professional Experience 
+1: Database Design and Development must be planned before Professional Experience 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

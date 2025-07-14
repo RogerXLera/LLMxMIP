@@ -1,0 +1,12 @@
+query,text
+1,Why is activity {a} completed at time period {t}?
+2,Why is activity {a} not completed at time period {t}?
+3,Why is activity {a} not completed before time period {t}?
+4,Why is activity {a} not completed after time period {t}?
+5,Why is the subset of activities {A} completed at time period {t}?
+6,Why is the subset of activities {A} not completed at time period {t}?
+7,Why is the subset of activities {A} completed at the same time period?
+8,Why is the subset of activities {A} not completed at the same time period?
+9,Why is activity {a} completed at time period {t} instead of time period {t_}?
+10,Why is activity {a} completed at time period {t} instead of activity {a_}?
+11,Why are {type_} than {n_t} activities finished at time period {t}?

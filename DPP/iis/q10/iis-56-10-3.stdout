@@ -1,0 +1,69 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300952,1
+Query element: 200023,1
+Query scope: 336
+Query scope: 12
+Query scope: 337
+Query scope: 13
+Query scope: 338
+Query scope: 14
+Query scope: 339
+Query scope: 15
+Query scope: 340
+Query scope: 16
+Query scope: 341
+Query scope: 17
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 1.135
+IIS Constraint: 83; offer; {unit:200023,season:sp}
+IIS Constraint: 84; offer; {unit:200025,season:sp}
+IIS Constraint: 86; offer; {unit:200028,season:sp}
+IIS Constraint: 89; offer; {unit:200193,season:sp}
+IIS Constraint: 90; offer; {unit:300093,season:sp}
+IIS Constraint: 91; offer; {unit:300095,season:sp}
+IIS Constraint: 93; offer; {unit:300103,season:sp}
+IIS Constraint: 102; offer; {unit:300144,season:sp}
+IIS Constraint: 109; offer; {unit:300491,season:sp}
+IIS Constraint: 112; offer; {unit:300570,season:sp}
+IIS Constraint: 115; offer; {unit:300578,season:sp}
+IIS Constraint: 117; offer; {unit:300582,season:sp}
+IIS Constraint: 120; offer; {unit:300585,season:sp}
+IIS Constraint: 122; offer; {unit:300698,season:sp}
+IIS Constraint: 123; offer; {unit:300700,season:sp}
+IIS Constraint: 126; offer; {unit:300950,season:sp}
+IIS Constraint: 127; offer; {unit:300951,season:sp}
+IIS Constraint: 146; offer; {unit:301124,season:sp}
+IIS Constraint: 153; credits; {semester:1}
+IIS Constraint: 155; credits; {semester:3}
+IIS Constraint: 157; credits; {semester:5}
+IIS Constraint: 165; precedence; {unit:200023,predecessors:[200028],semester:1}
+IIS Constraint: 167; precedence; {unit:200023,predecessors:[200028],semester:3}
+IIS Constraint: 169; precedence; {unit:200023,predecessors:[200028],semester:5}
+IIS Constraint: 171; precedence; {unit:200028,predecessors:[300673],semester:1}
+IIS Constraint: 173; precedence; {unit:200028,predecessors:[300673],semester:3}
+IIS Constraint: 376; precedence; {unit:300673,predecessors:[300672],semester:2}
+IIS Constraint: 550; core; {unit:300095}
+IIS Constraint: 552; core; {unit:300144}
+IIS Constraint: 554; core; {unit:300570}
+IIS Constraint: 555; core; {unit:300578}
+IIS Constraint: 559; core; {unit:300582}
+IIS Constraint: 561; core; {unit:300585}
+IIS Constraint: 562; core; {unit:300698}
+IIS Constraint: 563; core; {unit:300700}
+IIS Constraint: 565; major_completion; }
+IIS Constraint: 567; major_core; {major:M3116,unit:300103}
+IIS Constraint: 568; major_core; {major:M3116,unit:301124}
+IIS Constraint: 571; major_core; {major:M3068,unit:300093}
+IIS Constraint: 574; major_core; {major:M3068,unit:300491}
+IIS Constraint: 579; major_core; {major:M3097,unit:300951}
+IIS Constraint: 581; major_core; {major:M3097,unit:300950}
+IIS Constraint: 587; major_core; {major:M3054,unit:200025}
+IIS Constraint: 590; major_core; {major:M3054,unit:200193}
+IIS Constraint: 599; major_core; {major:M3074,unit:300952}
+IIS Constraint: 607; major_core; {major:M3095,unit:300952}
+IIS Constraint: 646; query; {unit:300952,query:10}
+IIS Constraint: 647; query; {unit:300952,query:10}

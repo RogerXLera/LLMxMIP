@@ -1,0 +1,14 @@
+IIS generation
+Instance: j604_1
+----------------------------
+Query: 1
+Query element:55,76
+Query scope: 17470
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.22777
+IIS Constraint: 54; completion; {activity:55}
+IIS Constraint: 145; precedence; {activity:59,predecessor:55}
+IIS Constraint: 152; precedence; {activity:62,predecessor:59}
+IIS Constraint: 1683; query; {activity:55,t:76,query:1}
+IIS Constraint: 1684; max; {f:84.0,objective:max}

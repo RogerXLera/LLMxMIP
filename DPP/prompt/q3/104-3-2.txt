@@ -1,0 +1,20 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Programming Techniques         | 2 (Spring) | 10      | Yes        | 
+| Data Structures and Algorithms | 3 (Autumn) | 10      | No         | 
+| Formal Software Engineering    | 4 (Spring) | 10      | No         | 
+
+Question: Why is Formal Software Engineering not planned before semester 4? 
+Reasons: 
+0: Formal Software Engineering is not planned before semester 4 
+1: Formal Software Engineering cannot be planned during autumn semesters 
+2: Data Structures and Algorithms must be planned before Formal Software Engineering 
+3: Object Oriented Programming,  or Programming Techniques must be planned before Data Structures and Algorithms 
+Connections: 
+(0-1) 
+(0-2) 
+(2-3) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

@@ -1,0 +1,54 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Data Structures and Algorithms | 5 (Autumn) | 10      | No         | 
+| Artificial Intelligence        | 6 (Spring) | 10      | No         | 
+
+Question: Why is Data Structures and Algorithms planned? 
+Reasons: 
+0: Data Structures and Algorithms is planned 
+1: Formal Software Engineering cannot be planned during autumn semesters 
+2: Artificial Intelligence cannot be planned during autumn semesters 
+3: Data Structures and Algorithms must be planned before Formal Software Engineering 
+4: Data Structures and Algorithms must be planned before Artificial Intelligence 
+5: There is no course that teaches level 1 of skill Portfolio management 
+6: There is no course that teaches level 2 of skill Portfolio management 
+7: There is no course that teaches level 3 of skill Portfolio management 
+8: There is no course that teaches level 4 of skill Portfolio management 
+9: There is no course that teaches level 5 of skill Portfolio management 
+10: There is no course that teaches level 6 of skill Portfolio management 
+11: Level 5 of skill Project Management is acquired by coursing Object Oriented Analysis, Information Systems Deployment and Management, Professional Development,  or Professional Experience 
+12: Level 6 of skill Project Management is acquired by coursing Object Oriented Analysis, Information Systems Deployment and Management, Professional Development,  or Professional Experience 
+13: Level 7 of skill Project Management is acquired by coursing Object Oriented Analysis, Information Systems Deployment and Management, Professional Development,  or Professional Experience 
+14: There is no course that teaches level 1 of skill Quality Assurance 
+15: There is no course that teaches level 2 of skill Quality Assurance 
+16: There is no course that teaches level 3 of skill Quality Assurance 
+17: There is no course that teaches level 4 of skill Quality Assurance 
+18: There is no course that teaches level 5 of skill Quality Assurance 
+19: There is no course that teaches level 6 of skill Quality Assurance 
+20: Level 3 of skill Measurement is acquired by coursing Management Analytics 
+21: Level 4 of skill Measurement is acquired by coursing Management Analytics 
+22: Level 5 of skill Measurement is acquired by coursing Management Analytics 
+23: Level 6 of skill Measurement is acquired by coursing Management Analytics 
+24: There is no course that teaches level 1 of skill Financial management 
+25: There is no course that teaches level 2 of skill Financial management 
+26: There is no course that teaches level 3 of skill Financial management 
+27: There is no course that teaches level 4 of skill Financial management 
+28: There is no course that teaches level 5 of skill Financial management 
+29: Level 4 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+30: Level 5 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+31: Level 6 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+32: There is no course that teaches level 1 of skill Strategic planning 
+33: There is no course that teaches level 2 of skill Strategic planning 
+34: There is no course that teaches level 3 of skill Strategic planning 
+35: There is no course that teaches level 4 of skill Strategic planning 
+36: There is no course that teaches level 5 of skill Strategic planning 
+37: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+38: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+39: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+40: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+41: There is no course that teaches level 5 of skill Stakeholder Relationship Management 
+42: reduce the percentage of skills learnt below 22%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

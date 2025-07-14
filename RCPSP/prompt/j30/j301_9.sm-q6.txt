@@ -1,0 +1,120 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, use the reasons below, which are related to the project schedule restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 13       | 21         | 25              | 5        | 6            | 1             | 2              | 
+| 15       | 16         | 22              | 7        | 10           | 1             | 4              | 
+| 16       | 33         | 39              | 7        | 8            | 1             | 7              | 
+| 18       | 23         | 28              | 6        | 15           | 2             | 8              | 
+| 19       | 26         | 32              | 7        | 9            | 1             | 6              | 
+| 21       | 21         | 29              | 9        | 9            | 1             | 6              | 
+| 22       | 29         | 38              | 10       | 9, 18        | 4             | 7              | 
+| 23       | 41         | 47              | 7        | 19           | 4             | 5              | 
+| 25       | 34         | 38              | 5        | 17, 18, 21   | 4             | 3              | 
+| 26       | 40         | 40              | 1        | 16, 20, 21   | 4             | 9              | 
+| 28       | 41         | 45              | 5        | 25, 26, 27   | 3             | 8              | 
+| 29       | 48         | 48              | 1        | 20, 22, 23   | 1             | 5              | 
+| 30       | 46         | 49              | 4        | 12, 24, 28   | 2             | 1              | 
+| 32       | 49         | 49              | 0        | 29, 30, 31   | -             | -              | 
+Question: Why is the subset of activities 13, 15 not completed at time period 25? 
+Reasons: 
+0: The subset of activities 13, 15 is not completed at time period 25 
+1: activity 15 must be completed before starting activity 18 
+2: resource 1 is scarce at time period 21 due to activities 13, 15, 16, 19, 21, 4, 7, 8, 9 
+3: resource 1 is scarce at time period 25 due to activities 13, 15, 16, 19, 21, 4, 7, 8, 9 
+4: activity 18 must be completed before starting activity 22 
+5: resource 1 is scarce at time period 28 due to activities 13, 15, 16, 19, 21, 4, 7, 8, 9 
+6: resource 1 is scarce at time period 32 due to activities 13, 15, 16, 19, 21, 27, 4, 7, 8, 9 
+7: resource 1 is scarce at time period 35 due to activities 13, 15, 16, 19, 21, 27, 4, 7, 8, 9 
+8: activity 16 must be completed 
+9: activity 19 must be completed 
+10: activity 21 must be completed 
+11: activity 19 must be completed before starting activity 23 
+12: activity 21 must be completed before starting activity 25 
+13: activity 16 must be completed before starting activity 26 
+14: activity 22 must be completed before starting activity 29 
+15: resource 4 is scarce at time period 40 due to activities 17, 2, 22, 23, 24, 25, 26 
+16: activity 23 must be completed before starting activity 29 
+17: activity 25 must be completed before starting activity 28 
+18: activity 26 must be completed before starting activity 28 
+19: activity 29 must be completed before starting activity 32 
+20: activity 28 must be completed before starting activity 30 
+21: activity 30 must be completed before starting activity 32 
+22: extends the length of the project beyond time period 49 
+Connections: 
+(0-1) 
+(0-2) 
+(0-3) 
+(1-4) 
+(1-2) 
+(1-3) 
+(1-5) 
+(1-6) 
+(1-7) 
+(2-8) 
+(2-9) 
+(2-10) 
+(2-11) 
+(2-12) 
+(2-13) 
+(2-3) 
+(2-5) 
+(3-8) 
+(3-9) 
+(3-10) 
+(3-11) 
+(3-12) 
+(3-13) 
+(3-5) 
+(3-6) 
+(4-14) 
+(4-15) 
+(5-8) 
+(5-9) 
+(5-10) 
+(5-11) 
+(5-12) 
+(5-13) 
+(5-6) 
+(5-7) 
+(6-8) 
+(6-9) 
+(6-10) 
+(6-11) 
+(6-12) 
+(6-13) 
+(6-7) 
+(7-8) 
+(7-9) 
+(7-10) 
+(7-11) 
+(7-12) 
+(7-13) 
+(8-13) 
+(9-11) 
+(10-12) 
+(11-16) 
+(11-15) 
+(12-17) 
+(12-15) 
+(13-18) 
+(13-15) 
+(14-16) 
+(14-19) 
+(14-15) 
+(15-17) 
+(15-18) 
+(15-16) 
+(16-19) 
+(17-18) 
+(17-20) 
+(18-20) 
+(19-21) 
+(19-22) 
+(20-21) 
+(21-22) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
+
+OUTPUT:

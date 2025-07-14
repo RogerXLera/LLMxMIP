@@ -1,0 +1,36 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects         | semesters  | credits | compulsory | 
+|------------------|------------|---------|------------| 
+| Social Computing | 2 (Spring) | 10      | No         | 
+
+Question: Why is Social Computing planned instead of I.T. Support Practicum? 
+Reasons: 
+0: Social Computing is planned instead of I.T. Support Practicum 
+1: Level 3 of skill Business Modelling is acquired by coursing Introduction to Health Informatics, Healthcare Software and Systems,  or Management Analytics 
+2: Level 4 of skill Business Modelling is acquired by coursing Introduction to Health Informatics, Healthcare Software and Systems,  or Management Analytics 
+3: Level 1 of skill Business Process Improvement is acquired by coursing Social Computing 
+4: Level 2 of skill Business Process Improvement is acquired by coursing Social Computing 
+5: Level 3 of skill Business Process Improvement is acquired by coursing Social Computing 
+6: Level 4 of skill Business Process Improvement is acquired by coursing Social Computing 
+7: Level 5 of skill Business Process Improvement is acquired by coursing Social Computing 
+8: Level 2 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+9: Level 3 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+10: Level 4 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+11: Level 5 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+12: Level 5 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+13: There is no course that teaches level 1 of skill Strategic planning 
+14: There is no course that teaches level 2 of skill Strategic planning 
+15: There is no course that teaches level 3 of skill Strategic planning 
+16: There is no course that teaches level 4 of skill Strategic planning 
+17: There is no course that teaches level 5 of skill Strategic planning 
+18: Level 3 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+19: Level 4 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+20: Level 3 of skill Information Assurance is acquired by coursing Network Security,  or Healthcare Data Environments 
+21: Level 4 of skill Information Assurance is acquired by coursing Network Security,  or Healthcare Data Environments 
+22: Level 5 of skill Information Assurance is acquired by coursing Network Security,  or Healthcare Data Environments 
+23: There is no course that teaches level 1 of skill Enterprise and Business Architecture 
+24: There is no course that teaches level 2 of skill Enterprise and Business Architecture 
+25: reduce the percentage of skills learnt below 39%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

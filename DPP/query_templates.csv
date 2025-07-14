@@ -1,0 +1,11 @@
+query,text
+1,Why is {u} planned at semester {l}?
+2,Why is {u} not planned at semester {l}?
+3,Why is {u} not planned before semester {l}?
+4,Why is {u} not planned after semester {l}?
+5,Why is {u} planned?
+6,Why is {u} not planned?
+7,Why is the subset of courses {U} planned at semester {l}?
+8,Why is the subset of courses {U} not planned at semester {l}?
+9,Why is {u} planned at semester {l} instead of {u_}?
+10,Why is {u} planned instead of {u_}?

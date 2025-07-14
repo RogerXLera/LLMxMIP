@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                    | semesters  | credits | compulsory | 
+|-----------------------------|------------|---------|------------| 
+| Computer Networking         | 2 (Spring) | 10      | Yes        | 
+| Systems Analysis and Design | 3 (Autumn) | 10      | Yes        | 
+
+Question: Why is the subset of courses Computer Networking, Systems Analysis and Design not planned at semester 2? 
+Reasons: 
+0: The subset of courses Computer Networking, Systems Analysis and Design is not planned at semester 2 
+1: Systems Analysis and Design cannot be planned during spring semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

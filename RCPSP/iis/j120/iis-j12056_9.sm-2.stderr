@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/iis.py", line 163, in <module>
+    iis.compute(e=args.e,time_limit=args.s,conflict_algorithm=args.conflict,n_threads=args.t)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/definitions.py", line 303, in compute
+    maximality_constraint(self,e)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/iis.py", line 19, in maximality_constraint
+    f_value = I.objective_value + e
+TypeError: unsupported operand type(s) for +: '_io.TextIOWrapper' and 'float'
+srun: error: c07: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5969714.0

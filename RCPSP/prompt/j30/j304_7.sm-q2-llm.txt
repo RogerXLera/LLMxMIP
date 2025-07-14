@@ -1,0 +1,42 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, reason about the provided solution and the restrictions related to project scheduling. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 1        | 0          | 0               | 0        | nan          | -             | -              | 
+| 2        | 1          | 3               | 3        | 1            | 1             | 7              | 
+| 3        | 1          | 5               | 5        | 1            | 2             | 1              | 
+| 4        | 1          | 4               | 4        | 1            | 4             | 2              | 
+| 5        | 4          | 13              | 10       | 2            | 1             | 1              | 
+| 6        | 5          | 12              | 8        | 4            | 4             | 10             | 
+| 7        | 4          | 4               | 1        | 2            | 3             | 8              | 
+| 8        | 13         | 18              | 6        | 6            | 1             | 6              | 
+| 9        | 4          | 13              | 10       | 2            | 4             | 5              | 
+| 10       | 19         | 24              | 6        | 8            | 3             | 6              | 
+| 11       | 6          | 11              | 6        | 3            | 1             | 6              | 
+| 12       | 25         | 29              | 5        | 3, 10        | 2             | 6              | 
+| 13       | 14         | 16              | 3        | 5            | 2             | 4              | 
+| 14       | 19         | 25              | 7        | 8            | 3             | 6              | 
+| 15       | 14         | 20              | 7        | 9            | 1             | 9              | 
+| 16       | 21         | 28              | 8        | 11, 15       | 3             | 2              | 
+| 17       | 17         | 26              | 10       | 13           | 1             | 3              | 
+| 18       | 29         | 31              | 3        | 16           | 3             | 3              | 
+| 19       | 5          | 12              | 8        | 7            | 3             | 2              | 
+| 20       | 6          | 15              | 10       | 3            | 4             | 6              | 
+| 21       | 27         | 31              | 5        | 15, 17       | 1             | 5              | 
+| 22       | 30         | 38              | 9        | 5, 12        | 1             | 7              | 
+| 23       | 21         | 24              | 4        | 15, 19       | 1             | 4              | 
+| 24       | 39         | 45              | 7        | 20, 22, 23   | 2             | 1              | 
+| 25       | 46         | 49              | 4        | 16, 21, 24   | 1             | 7              | 
+| 26       | 14         | 21              | 8        | 5            | 2             | 2              | 
+| 27       | 22         | 29              | 8        | 13, 26       | 1             | 8              | 
+| 28       | 26         | 32              | 7        | 9, 14        | 2             | 7              | 
+| 29       | 30         | 39              | 10       | 8, 17, 27    | 4             | 10             | 
+| 30       | 50         | 56              | 7        | 25           | 2             | 3              | 
+| 31       | 33         | 38              | 6        | 18, 20, 28   | 4             | 4              | 
+| 32       | 56         | 56              | 0        | 29, 30, 31   | -             | -              | 
+Question: Why is activity 21 not completed at time period 157? 
+
+Write a brief explanation without listing reasons. 
+
+OUTPUT:

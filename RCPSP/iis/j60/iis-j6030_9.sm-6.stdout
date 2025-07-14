@@ -1,0 +1,16 @@
+IIS generation
+Instance: j6030_9
+----------------------------
+Query: 6
+Query element:28,45
+Query element:19,44
+Query element:24,44
+Query scope: 7582
+Query scope: 4998
+Query scope: 6441
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.34193
+IIS Constraint: 27; completion; {activity:28}
+IIS Constraint: 91; precedence; {activity:28,predecessor:19}
+IIS Constraint: 1582; query; {activities:[28,19,24],t:45,query:6}

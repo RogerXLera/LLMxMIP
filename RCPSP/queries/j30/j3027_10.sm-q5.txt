@@ -1,0 +1,1 @@
+query;Why is the subset of activities 29, 32 completed at time period 62?

@@ -1,0 +1,24 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                    | semesters  | credits | compulsory | 
+|-----------------------------|------------|---------|------------| 
+| Formal Software Engineering | 6 (Spring) | 10      | No         | 
+
+Question: Why is Formal Software Engineering planned instead of Games Technology? 
+Reasons: 
+0: Formal Software Engineering is planned instead of Games Technology 
+1: Level 3 of skill Software Design is acquired by coursing Object Oriented Analysis, Formal Software Engineering, Human-Computer Interaction,  or Systems Analysis and Design 
+2: reduce the percentage of skills learnt below 85%  
+3: Level 4 of skill Porting/software Integration is acquired by coursing Computer Networks and Internets , I.T. Support Practicum, PC Workshop, Systems Administration Programming, Technologies for Web Applications, Web Systems Development, Video Games Development, Mobile Applications Development,  or Robotic Programming 
+4: Level 3 of skill Testing is acquired by coursing Data Structures and Algorithms, Internet Programming, Systems Programming 1, Programming Fundamentals, Programming Techniques, Web Systems Development, Video Games Development,  or Mobile Applications Development 
+5: Level 4 of skill Systems Integration is acquired by coursing Information Systems Deployment and Management, Professional Experience,  or Web Systems Development 
+6: Level 5 of skill Systems Integration is acquired by coursing Information Systems Deployment and Management, Professional Experience,  or Web Systems Development 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+(2-4) 
+(2-5) 
+(2-6) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

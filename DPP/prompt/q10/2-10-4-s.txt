@@ -1,0 +1,23 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects    | semesters  | credits | compulsory | 
+|-------------|------------|---------|------------| 
+| PC Workshop | 3 (Autumn) | 10      | No         | 
+
+Question: Why is PC Workshop planned instead of Visual Analytics? 
+Reasons: 
+0: PC Workshop is planned instead of Visual Analytics 
+1: There is no course that teaches level 1 of skill Problem Management 
+2: There is no course that teaches level 2 of skill Problem Management 
+3: There is no course that teaches level 3 of skill Problem Management 
+4: There is no course that teaches level 1 of skill Availability Management 
+5: There is no course that teaches level 2 of skill Availability Management 
+6: There is no course that teaches level 3 of skill Availability Management 
+7: There is no course that teaches level 4 of skill Availability Management 
+8: Level 4 of skill IT Infrastructure is acquired by coursing Distributed Systems and Programming, Applications of Big Data,  or Introduction to Cloud Computing  
+9: Level 1 of skill Systems Installation/decommissioning is acquired by coursing PC Workshop 
+10: Level 2 of skill Systems Installation/decommissioning is acquired by coursing PC Workshop 
+11: Level 3 of skill Systems Installation/decommissioning is acquired by coursing PC Workshop 
+12: reduce the percentage of skills learnt below 52%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

@@ -1,0 +1,34 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, use the reasons below, which are related to the project schedule restrictions. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 19       | 15         | 21              | 7        | 6            | 1             | 7              | 
+| 21       | 31         | 37              | 7        | 8            | 1             | 8              | 
+| 23       | 22         | 30              | 9        | 18           | 1             | 9              | 
+| 26       | 38         | 47              | 10       | 20, 21, 23   | 3             | 6              | 
+| 27       | 27         | 36              | 10       | 11, 14, 19   | 3             | 7              | 
+| 28       | 48         | 56              | 9        | 17, 26, 27   | 4             | 2              | 
+| 31       | 57         | 65              | 9        | 10, 24, 28   | 4             | 8              | 
+Question: Why is activity 31 not completed before time period 65? 
+Reasons: 
+0: Activity 31 is not completed before time period 65 
+1: activity 19 must be completed 
+2: activity 21 must be completed 
+3: activity 23 must be completed 
+4: activity 31 must be completed 
+5: activity 21 must be completed before starting activity 26 
+6: activity 23 must be completed before starting activity 26 
+7: activity 19 must be completed before starting activity 27 
+8: activity 26 must be completed before starting activity 28 
+9: activity 27 must be completed before starting activity 28 
+10: activity 28 must be completed before starting activity 31 
+11: resource 1 is scarce at time period 20 due to activities 14, 18, 19, 23, 7, 8 
+12: resource 1 is scarce at time period 21 due to activities 14, 18, 19, 23, 7, 8 
+13: resource 1 is scarce at time period 28 due to activities 14, 18, 19, 21, 23, 7, 8 
+14: resource 1 is scarce at time period 30 due to activities 14, 18, 19, 21, 23, 7, 8 
+15: resource 3 is scarce at time period 37 due to activities 12, 13, 16, 20, 26, 27, 4 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
+
+OUTPUT:

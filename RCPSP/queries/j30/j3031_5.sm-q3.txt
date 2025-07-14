@@ -1,0 +1,1 @@
+query;Why is activity 26 not completed before time period 33?

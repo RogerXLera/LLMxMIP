@@ -1,0 +1,74 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                           | semesters  | credits | compulsory | 
+|------------------------------------|------------|---------|------------| 
+| Introduction to Health Informatics | 2 (Spring) | 10      | No         | 
+| Healthcare Data Environments       | 4 (Spring) | 10      | No         | 
+
+Question: Why is Introduction to Health Informatics planned? 
+Reasons: 
+0: Introduction to Health Informatics is planned 
+1: Introduction to Health Informatics must be planned before Fundamentals of Medical Concepts and Terminology 
+2: Introduction to Health Informatics must be planned before Healthcare Data Environments 
+3: Fundamentals of Medical Concepts and Terminology must be planned before Clinical Classification and Coding 
+4: Level 1 of skill Conformance Review is acquired by coursing Clinical Classification and Coding,  or Healthcare Data Environments 
+5: Level 2 of skill Conformance Review is acquired by coursing Clinical Classification and Coding,  or Healthcare Data Environments 
+6: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+7: Clinical Classification and Coding cannot be planned during spring semesters 
+8: Healthcare Data Environments cannot be planned during autumn semesters 
+9: reduce the percentage of skills learnt below 49%  
+10: Level 3 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+11: Level 4 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+12: Level 5 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+13: Level 3 of skill Conformance Review is acquired by coursing Clinical Classification and Coding,  or Healthcare Data Environments 
+14: Level 4 of skill Conformance Review is acquired by coursing Clinical Classification and Coding,  or Healthcare Data Environments 
+15: Level 5 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+16: Level 4 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+17: Level 5 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+18: Level 5 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+19: Level 4 of skill User Experience Analysis is acquired by coursing Human-Computer Interaction 
+20: Level 5 of skill User Experience Analysis is acquired by coursing Human-Computer Interaction 
+21: There is no course that teaches level 1 of skill User Research 
+22: There is no course that teaches level 2 of skill User Research 
+23: There is no course that teaches level 3 of skill User Research 
+24: There is no course that teaches level 4 of skill User Research 
+25: There is no course that teaches level 5 of skill User Research 
+26: Level 3 of skill Research is acquired by coursing Biometry, Human-Computer Interaction, Information Systems in Context, Emerging Trends in Information Systems,  or Social Computing 
+27: Level 4 of skill Research is acquired by coursing Biometry, Human-Computer Interaction, Information Systems in Context, Emerging Trends in Information Systems,  or Social Computing 
+28: Level 5 of skill Research is acquired by coursing Biometry, Human-Computer Interaction, Information Systems in Context, Emerging Trends in Information Systems,  or Social Computing 
+Connections: 
+(0-1) 
+(0-2) 
+(1-3) 
+(1-2) 
+(2-4) 
+(2-5) 
+(3-6) 
+(3-4) 
+(4-7) 
+(4-8) 
+(4-5) 
+(4-9) 
+(5-8) 
+(5-9) 
+(9-10) 
+(9-11) 
+(9-12) 
+(9-13) 
+(9-14) 
+(9-15) 
+(9-16) 
+(9-17) 
+(9-18) 
+(9-19) 
+(9-20) 
+(9-21) 
+(9-22) 
+(9-23) 
+(9-24) 
+(9-25) 
+(9-26) 
+(9-27) 
+(9-28) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

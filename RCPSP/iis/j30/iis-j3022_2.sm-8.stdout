@@ -1,0 +1,235 @@
+IIS generation
+Instance: j3022_2
+----------------------------
+Query: 8
+Query element:20,32
+Query element:19,25
+Query scope: 2092
+Query scope: 1992
+Query scope: 3583
+Query scope: 2093
+Query scope: 1993
+Query scope: 2094
+Query scope: 1994
+Query scope: 2095
+Query scope: 1995
+Query scope: 2096
+Query scope: 1996
+Query scope: 2097
+Query scope: 1997
+Query scope: 2098
+Query scope: 1998
+Query scope: 2099
+Query scope: 1999
+Query scope: 2100
+Query scope: 2000
+Query scope: 2101
+Query scope: 2001
+Query scope: 2102
+Query scope: 2002
+Query scope: 2103
+Query scope: 2003
+Query scope: 2104
+Query scope: 2004
+Query scope: 2105
+Query scope: 2005
+Query scope: 2106
+Query scope: 2006
+Query scope: 2107
+Query scope: 2007
+Query scope: 2108
+Query scope: 2008
+Query scope: 2109
+Query scope: 2009
+Query scope: 2110
+Query scope: 2010
+Query scope: 2111
+Query scope: 2011
+Query scope: 2112
+Query scope: 2012
+Query scope: 2113
+Query scope: 2013
+Query scope: 2114
+Query scope: 2014
+Query scope: 2115
+Query scope: 2015
+Query scope: 2116
+Query scope: 2016
+Query scope: 2117
+Query scope: 2017
+Query scope: 2118
+Query scope: 2018
+Query scope: 2119
+Query scope: 2019
+Query scope: 2120
+Query scope: 2020
+Query scope: 2121
+Query scope: 2021
+Query scope: 2122
+Query scope: 2022
+Query scope: 2123
+Query scope: 2023
+Query scope: 2124
+Query scope: 2024
+Query scope: 2125
+Query scope: 2025
+Query scope: 2126
+Query scope: 2026
+Query scope: 2127
+Query scope: 2027
+Query scope: 2128
+Query scope: 2028
+Query scope: 2129
+Query scope: 2029
+Query scope: 2130
+Query scope: 2030
+Query scope: 2131
+Query scope: 2031
+Query scope: 2132
+Query scope: 2032
+Query scope: 2133
+Query scope: 2033
+Query scope: 2134
+Query scope: 2034
+Query scope: 2135
+Query scope: 2035
+Query scope: 2136
+Query scope: 2036
+Query scope: 2137
+Query scope: 2037
+Query scope: 2138
+Query scope: 2038
+Query scope: 2139
+Query scope: 2039
+Query scope: 2140
+Query scope: 2040
+Query scope: 2141
+Query scope: 2041
+Query scope: 2142
+Query scope: 2042
+Query scope: 2143
+Query scope: 2043
+Query scope: 2144
+Query scope: 2044
+Query scope: 2145
+Query scope: 2045
+Query scope: 2146
+Query scope: 2046
+Query scope: 2147
+Query scope: 2047
+Query scope: 2148
+Query scope: 2048
+Query scope: 2149
+Query scope: 2049
+Query scope: 2150
+Query scope: 2050
+Query scope: 2151
+Query scope: 2051
+Query scope: 2152
+Query scope: 2052
+Query scope: 2153
+Query scope: 2053
+Query scope: 2154
+Query scope: 2054
+Query scope: 2155
+Query scope: 2055
+Query scope: 2156
+Query scope: 2056
+Query scope: 2157
+Query scope: 2057
+Query scope: 2158
+Query scope: 2058
+Query scope: 2159
+Query scope: 2059
+Query scope: 2160
+Query scope: 2060
+Query scope: 2161
+Query scope: 2061
+Query scope: 2162
+Query scope: 2062
+Query scope: 2163
+Query scope: 2063
+Query scope: 2164
+Query scope: 2064
+Query scope: 2165
+Query scope: 2065
+Query scope: 2166
+Query scope: 2066
+Query scope: 2167
+Query scope: 2067
+Query scope: 2168
+Query scope: 2068
+Query scope: 2169
+Query scope: 2069
+Query scope: 2170
+Query scope: 2070
+Query scope: 2171
+Query scope: 2071
+Query scope: 2172
+Query scope: 2072
+Query scope: 2173
+Query scope: 2073
+Query scope: 2174
+Query scope: 2074
+Query scope: 2175
+Query scope: 2075
+Query scope: 2176
+Query scope: 2076
+Query scope: 2177
+Query scope: 2077
+Query scope: 2178
+Query scope: 2078
+Query scope: 2179
+Query scope: 2079
+Query scope: 2180
+Query scope: 2080
+Query scope: 2181
+Query scope: 2081
+Query scope: 2182
+Query scope: 2082
+Query scope: 2183
+Query scope: 2083
+Query scope: 2184
+Query scope: 2084
+Query scope: 2185
+Query scope: 2085
+Query scope: 2186
+Query scope: 2086
+Query scope: 2187
+Query scope: 2087
+Query scope: 2188
+Query scope: 2088
+Query scope: 2189
+Query scope: 2089
+Query scope: 2190
+Query scope: 2090
+Query scope: 2191
+Query scope: 2091
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 6.49194
+IIS Constraint: 11; completion; {activity:12}
+IIS Constraint: 13; completion; {activity:14}
+IIS Constraint: 15; completion; {activity:16}
+IIS Constraint: 16; completion; {activity:17}
+IIS Constraint: 46; precedence; {activity:13,predecessor:12}
+IIS Constraint: 54; precedence; {activity:18,predecessor:16}
+IIS Constraint: 57; precedence; {activity:19,predecessor:14}
+IIS Constraint: 58; precedence; {activity:20,predecessor:17}
+IIS Constraint: 59; precedence; {activity:21,predecessor:13}
+IIS Constraint: 63; precedence; {activity:22,predecessor:18}
+IIS Constraint: 64; precedence; {activity:22,predecessor:20}
+IIS Constraint: 69; precedence; {activity:25,predecessor:19}
+IIS Constraint: 72; precedence; {activity:26,predecessor:21}
+IIS Constraint: 74; precedence; {activity:27,predecessor:22}
+IIS Constraint: 76; precedence; {activity:27,predecessor:25}
+IIS Constraint: 84; precedence; {activity:30,predecessor:27}
+IIS Constraint: 86; precedence; {activity:31,predecessor:26}
+IIS Constraint: 88; precedence; {activity:32,predecessor:30}
+IIS Constraint: 89; precedence; {activity:32,predecessor:31}
+IIS Constraint: 116; renewable; {resource:1,t:26}
+IIS Constraint: 253; renewable; {resource:2,t:17}
+IIS Constraint: 258; renewable; {resource:2,t:22}
+IIS Constraint: 557; renewable; {resource:4,t:29}
+IIS Constraint: 676; query; {activities:[20,19],t:32,query:8}
+IIS Constraint: 677; query; {activities:[20,19],t:33,query:8}

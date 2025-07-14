@@ -1,0 +1,13 @@
+IIS generation
+Instance: j9020_8
+----------------------------
+Query: 5
+Query element:22,20
+Query element:39,20
+Query element:42,20
+Query scope: 10015
+Query scope: 18380
+Query scope: 19860
+----------------------------
+IIS optimality: optimal
+IIS solution time: 2.31227

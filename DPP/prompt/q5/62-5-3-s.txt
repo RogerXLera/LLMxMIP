@@ -1,0 +1,22 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Information Systems in Context | 6 (Spring) | 10      | No         | 
+
+Question: Why is Information Systems in Context planned? 
+Reasons: 
+0: Information Systems in Context is planned 
+1: There is no course that teaches level 1 of skill User Research 
+2: There is no course that teaches level 2 of skill User Research 
+3: There is no course that teaches level 3 of skill User Research 
+4: There is no course that teaches level 1 of skill Information Content Publishing 
+5: There is no course that teaches level 2 of skill Information Content Publishing 
+6: There is no course that teaches level 3 of skill Information Content Publishing 
+7: There is no course that teaches level 4 of skill Information Content Publishing 
+8: Level 1 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+9: Level 2 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+10: Level 3 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+11: reduce the percentage of skills learnt below 55%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

@@ -1,0 +1,1 @@
+query;Why is Object Oriented Programming planned at semester 4 instead of Systems Analysis and Design?

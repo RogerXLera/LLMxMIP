@@ -1,0 +1,1 @@
+query;Why is the subset of activities 11, 25, 14 not completed at time period 29?

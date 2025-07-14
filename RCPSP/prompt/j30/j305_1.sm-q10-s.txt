@@ -1,0 +1,49 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, use the reasons below, which are related to the project schedule restrictions. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 2        | 6          | 15              | 10       | 1            | 1             | 5              | 
+| 3        | 2          | 5               | 4        | 1            | 1             | 10             | 
+| 5        | 6          | 8               | 3        | 3            | 3             | 10             | 
+| 10       | 16         | 21              | 6        | 5            | 1             | 1              | 
+| 12       | 23         | 29              | 7        | 2            | 2             | 10             | 
+| 13       | 23         | 29              | 7        | 10           | 1             | 10             | 
+| 14       | 30         | 33              | 4        | 13           | 2             | 6              | 
+| 15       | 30         | 32              | 3        | 11           | 1             | 9              | 
+| 20       | 41         | 47              | 7        | 14, 19       | 2             | 6              | 
+| 26       | 42         | 47              | 6        | 5, 12        | 2             | 3              | 
+| 28       | 34         | 40              | 7        | 6, 14        | 2             | 9              | 
+| 29       | 48         | 53              | 6        | 20, 26, 27   | 2             | 7              | 
+| 31       | 42         | 45              | 4        | 25, 28       | 1             | 9              | 
+| 32       | 53         | 53              | 0        | 29, 30, 31   | -             | -              | 
+Question: Why is activity 13 completed at time period 29 instead of activity 15? 
+Reasons: 
+0: Activity 13 completed at time period 29 instead of activity 15 
+1: activity 2 must be completed 
+2: activity 3 must be completed 
+3: activity 3 must be completed before starting activity 5 
+4: activity 5 must be completed before starting activity 10 
+5: activity 2 must be completed before starting activity 12 
+6: activity 10 must be completed before starting activity 13 
+7: activity 13 must be completed before starting activity 14 
+8: activity 14 must be completed before starting activity 20 
+9: activity 12 must be completed before starting activity 26 
+10: activity 14 must be completed before starting activity 28 
+11: activity 20 must be completed before starting activity 29 
+12: activity 26 must be completed before starting activity 29 
+13: activity 28 must be completed before starting activity 31 
+14: activity 29 must be completed before starting activity 32 
+15: activity 31 must be completed before starting activity 32 
+16: resource 1 is scarce at time period 4 due to activities 19, 2, 3, 4, 6 
+17: resource 1 is scarce at time period 7 due to activities 11, 16, 17, 19, 2, 3, 4, 6 
+18: resource 1 is scarce at time period 20 due to activities 10, 11, 13, 15, 16, 17, 19, 2, 22, 25, 3, 4, 6, 9 
+19: resource 1 is scarce at time period 27 due to activities 10, 11, 13, 15, 16, 17, 19, 2, 22, 24, 25, 3, 4, 6, 9 
+20: resource 2 is scarce at time period 43 due to activities 10, 12, 14, 16, 17, 18, 19, 20, 22, 26, 28, 29, 8 
+21: resource 4 is scarce at time period 10 due to activities 10, 11, 17, 18, 19, 2, 5 
+22: resource 4 is scarce at time period 14 due to activities 10, 11, 12, 13, 15, 17, 18, 19, 2, 22, 5 
+23: extends the length of the project beyond time period 53 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
+
+OUTPUT:

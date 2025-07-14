@@ -1,0 +1,32 @@
+The bachelor's degree planning problem is the problem of finding a bachelor's degree plan of university subjects that respect some precedence and university restrictions (e.g., subjects can only be completed once, subjects are offered in particular semesters, there are compulsory subjects, and not to plan more than 40 credits per semester) while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, reason about the provided solution and the restrictions of a bachelor's degree. 
+Solution: 
+| subjects                                   | semesters  | offered        | predecessors                                                                                 | compulsory | preferred job skills (level) | 
+|--------------------------------------------|------------|----------------|----------------------------------------------------------------------------------------------|------------|------------------------------| 
+| Games Technology                           | 1 (Autumn) | Autumn         | -                                                                                            | No         | -                            | 
+| Professional Development                   | 1 (Autumn) | Autumn, Summer | -                                                                                            | Yes        | -                            | 
+| Systems Analysis and Design                | 1 (Autumn) | Autumn         | -                                                                                            | Yes        | SWDN (2), DESN (3)           | 
+| Statistical Decision Making                | 1 (Autumn) | Autumn         | -                                                                                            | Yes        | TECH (2)                     | 
+| Principles of Professional Communication 1 | 2 (Spring) | Spring, Autumn | -                                                                                            | Yes        | -                            | 
+| Computer Networking                        | 2 (Spring) | Spring         | -                                                                                            | Yes        | -                            | 
+| Programming Fundamentals                   | 2 (Spring) | Spring, Autumn | -                                                                                            | Yes        | PROG (1)                     | 
+| Social Web Analytics                       | 2 (Spring) | Spring         | Statistical Decision Making, Biometry, Statistics for Business                               | Yes        | -                            | 
+| Computer Networks and Internets            | 3 (Autumn) | Autumn         | Computer Networking                                                                          | Yes        | -                            | 
+| Object Oriented Analysis                   | 3 (Autumn) | Autumn         | Systems Analysis and Design                                                                  | Yes        | SWDN (2), DESN (2)           | 
+| Technologies for Web Applications          | 3 (Autumn) | Autumn, Summer | Programming Fundamentals                                                                     | Yes        | -                            | 
+| Introduction to Cloud Computing            | 3 (Autumn) | Autumn         | Computer Networking                                                                          | No         | -                            | 
+| Database Design and Development            | 4 (Spring) | Spring, Summer | -                                                                                            | Yes        | -                            | 
+| Network Security                           | 4 (Spring) | Spring         | Computer Networking                                                                          | No         | PENT (2)                     | 
+| Programming Techniques                     | 4 (Spring) | Spring         | Programming Fundamentals                                                                     | Yes        | PROG (3)                     | 
+| Web Systems Development                    | 4 (Spring) | Spring         | Technologies for Web Applications                                                            | Yes        | -                            | 
+| Computer Graphics                          | 5 (Autumn) | Autumn         | Object Oriented Programming, Programming Techniques, Technologies for Web Applications       | No         | PROG (4)                     | 
+| Human-Computer Interaction                 | 5 (Autumn) | Autumn, Summer | -                                                                                            | Yes        | SWDN (2)                     | 
+| Operating Systems Programming              | 5 (Autumn) | Autumn         | Programming Techniques, Object Oriented Programming                                          | Yes        | PROG (3), TECH (2)           | 
+| Ethical Hacking Principles and Practice    | 5 (Autumn) | Autumn         | Computer Networking, Technologies for Web Applications                                       | No         | PENT (3)                     | 
+| Systems and Network Management             | 6 (Spring) | Spring         | Computer Networks and Internets , Wireless and Mobile Networks                               | No         | -                            | 
+| Professional Experience                    | 6 (Spring) | Spring, Autumn | Database Design and Development, Technologies for Web Applications, Professional Development | Yes        | DESN (4)                     | 
+| Video Games Development                    | 6 (Spring) | Spring         | Programming Fundamentals                                                                     | No         | PROG (3), TECH (1)           | 
+| Cloud Computing Architecture               | 6 (Spring) | Spring         | Introduction to Cloud Computing , Programming Fundamentals                                   | No         | TECH (4), DESN (4)           | 
+
+Question: Why is Ethical Hacking Principles and Practice not planned after semester 5? 
+
+Write a brief explanation without listing reasons. 

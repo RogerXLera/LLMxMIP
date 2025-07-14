@@ -1,0 +1,12 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects         | semesters  | credits | compulsory | 
+|------------------|------------|---------|------------| 
+| Network Security | 6 (Spring) | 10      | No         | 
+
+Question: Why is Network Security not planned at semester 3? 
+Reasons: 
+0: Network Security is not planned at semester 3 
+1: Network Security cannot be planned during autumn semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

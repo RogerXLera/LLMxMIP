@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                                   | semesters  | credits | compulsory | 
+|--------------------------------------------|------------|---------|------------| 
+| Human-Computer Interaction                 | 1 (Autumn) | 10      | Yes        | 
+| Principles of Professional Communication 1 | 2 (Spring) | 10      | Yes        | 
+
+Question: Why is Principles of Professional Communication 1 planned at semester 2 instead of Human-Computer Interaction? 
+Reasons: 
+0: Principles of Professional Communication 1 is planned at semester 2 instead of course Human-Computer Interaction 
+1: Human-Computer Interaction cannot be planned during spring semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

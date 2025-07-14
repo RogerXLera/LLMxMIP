@@ -1,0 +1,67 @@
+------------------------------------------
+---------------- Solution ----------------
+------------------------------------------
+0. Activity: 1 t: 0 EF: 0
+1. Activity: 2 t: 1 EF: 1
+2. Activity: 3 t: 7 EF: 7
+3. Activity: 4 t: 6 EF: 6
+4. Activity: 5 t: 8 EF: 8
+5. Activity: 6 t: 15 EF: 15
+6. Activity: 7 t: 13 EF: 13
+7. Activity: 8 t: 24 EF: 22
+8. Activity: 9 t: 18 EF: 18
+9. Activity: 10 t: 11 EF: 11
+10. Activity: 11 t: 11 EF: 11
+11. Activity: 12 t: 34 EF: 28
+12. Activity: 13 t: 14 EF: 14
+13. Activity: 14 t: 15 EF: 15
+14. Activity: 15 t: 25 EF: 25
+15. Activity: 16 t: 80 EF: 15
+16. Activity: 17 t: 31 EF: 22
+17. Activity: 18 t: 10 EF: 10
+18. Activity: 19 t: 16 EF: 16
+19. Activity: 20 t: 20 EF: 16
+20. Activity: 21 t: 53 EF: 32
+21. Activity: 22 t: 50 EF: 29
+22. Activity: 23 t: 17 EF: 17
+23. Activity: 24 t: 26 EF: 21
+24. Activity: 25 t: 36 EF: 29
+25. Activity: 26 t: 35 EF: 35
+26. Activity: 27 t: 43 EF: 43
+27. Activity: 28 t: 55 EF: 34
+28. Activity: 29 t: 56 EF: 33
+29. Activity: 30 t: 25 EF: 25
+30. Activity: 31 t: 34 EF: 34
+31. Activity: 32 t: 44 EF: 44
+32. Activity: 33 t: 68 EF: 49
+33. Activity: 34 t: 44 EF: 28
+34. Activity: 35 t: 59 EF: 38
+35. Activity: 36 t: 54 EF: 54
+36. Activity: 37 t: 35 EF: 35
+37. Activity: 38 t: 38 EF: 31
+38. Activity: 39 t: 38 EF: 38
+39. Activity: 40 t: 62 EF: 52
+40. Activity: 41 t: 59 EF: 59
+41. Activity: 42 t: 67 EF: 48
+42. Activity: 43 t: 66 EF: 60
+43. Activity: 44 t: 70 EF: 55
+44. Activity: 45 t: 69 EF: 62
+45. Activity: 46 t: 80 EF: 72
+46. Activity: 47 t: 62 EF: 35
+47. Activity: 48 t: 81 EF: 73
+48. Activity: 49 t: 43 EF: 43
+49. Activity: 50 t: 62 EF: 62
+50. Activity: 51 t: 51 EF: 51
+51. Activity: 52 t: 72 EF: 72
+52. Activity: 53 t: 56 EF: 56
+53. Activity: 54 t: 81 EF: 43
+54. Activity: 55 t: 81 EF: 81
+55. Activity: 56 t: 77 EF: 62
+56. Activity: 57 t: 77 EF: 62
+57. Activity: 58 t: 81 EF: 66
+58. Activity: 59 t: 85 EF: 85
+59. Activity: 60 t: 85 EF: 67
+60. Activity: 61 t: 85 EF: 77
+61. Activity: 62 t: 85 EF: 85
+Objective value: 85.0
+Solving time: 7.91451

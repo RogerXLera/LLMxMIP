@@ -1,0 +1,17 @@
+IIS generation
+Instance: j9014_6
+----------------------------
+Query: 6
+Query element:15,35
+Query element:21,35
+Query element:37,35
+Query element:45,35
+Query element:24,34
+Query scope: 6321
+Query scope: 9083
+Query scope: 16383
+Query scope: 20050
+Query scope: 10439
+----------------------------
+IIS optimality: optimal
+IIS solution time: 459.61798

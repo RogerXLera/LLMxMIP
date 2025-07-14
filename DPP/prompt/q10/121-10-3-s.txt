@@ -1,0 +1,43 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects             | semesters  | credits | compulsory | 
+|----------------------|------------|---------|------------| 
+| Management Analytics | 4 (Spring) | 10      | No         | 
+
+Question: Why is Management Analytics planned instead of Thinking About Data? 
+Reasons: 
+0: Management Analytics is planned instead of Thinking About Data 
+1: Level 4 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+2: Level 5 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+3: Level 3 of skill Requirement Definition and Management is acquired by coursing Object Oriented Analysis,  or Systems Analysis and Design 
+4: Level 4 of skill Requirement Definition and Management is acquired by coursing Object Oriented Analysis,  or Systems Analysis and Design 
+5: Level 5 of skill Requirement Definition and Management is acquired by coursing Object Oriented Analysis,  or Systems Analysis and Design 
+6: Level 3 of skill Business Process Improvement is acquired by coursing Social Computing 
+7: Level 4 of skill Business Process Improvement is acquired by coursing Social Computing 
+8: Level 5 of skill Business Process Improvement is acquired by coursing Social Computing 
+9: Level 3 of skill Data Modelling and Design is acquired by coursing Database Design and Development,  or Introduction to Health Informatics 
+10: Level 4 of skill Data Modelling and Design is acquired by coursing Database Design and Development,  or Introduction to Health Informatics 
+11: There is no course that teaches level 1 of skill Business Analysis 
+12: There is no course that teaches level 2 of skill Business Analysis 
+13: There is no course that teaches level 3 of skill Business Analysis 
+14: There is no course that teaches level 4 of skill Business Analysis 
+15: There is no course that teaches level 5 of skill Business Analysis 
+16: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+17: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+18: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+19: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+20: There is no course that teaches level 5 of skill Stakeholder Relationship Management 
+21: There is no course that teaches level 1 of skill Benefits Management 
+22: There is no course that teaches level 2 of skill Benefits Management 
+23: There is no course that teaches level 3 of skill Benefits Management 
+24: There is no course that teaches level 4 of skill Benefits Management 
+25: There is no course that teaches level 5 of skill Benefits Management 
+26: Level 3 of skill Business Modelling is acquired by coursing Introduction to Health Informatics, Healthcare Software and Systems,  or Management Analytics 
+27: Level 4 of skill Business Modelling is acquired by coursing Introduction to Health Informatics, Healthcare Software and Systems,  or Management Analytics 
+28: Level 1 of skill Measurement is acquired by coursing Management Analytics 
+29: Level 2 of skill Measurement is acquired by coursing Management Analytics 
+30: Level 3 of skill Measurement is acquired by coursing Management Analytics 
+31: Level 4 of skill Measurement is acquired by coursing Management Analytics 
+32: reduce the percentage of skills learnt below 40%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

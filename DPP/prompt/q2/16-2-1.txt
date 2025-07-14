@@ -1,0 +1,81 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                               | semesters  | credits | compulsory | 
+|----------------------------------------|------------|---------|------------| 
+| Programming Fundamentals               | 1 (Autumn) | 10      | Yes        | 
+| Information Systems in Context         | 3 (Autumn) | 10      | No         | 
+| Technologies for Web Applications      | 3 (Autumn) | 10      | Yes        | 
+| Emerging Trends in Information Systems | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Programming Fundamentals not planned at semester 3? 
+Reasons: 
+0: Programming Fundamentals is not planned at semester 3 
+1: Programming Fundamentals cannot be planned more than ones 
+2: Programming Fundamentals must be planned before Technologies for Web Applications 
+3: Technologies for Web Applications must be planned before Emerging Trends in Information Systems 
+4: Technologies for Web Applications cannot be planned during spring semesters 
+5: Level 3 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+6: Emerging Trends in Information Systems cannot be planned during spring semesters 
+7: Information Systems in Context must be planned before Emerging Trends in Information Systems 
+8: reduce the percentage of skills learnt below 26%  
+9: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+10: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+11: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+12: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+13: There is no course that teaches level 5 of skill Stakeholder Relationship Management 
+14: There is no course that teaches level 1 of skill User Research 
+15: There is no course that teaches level 2 of skill User Research 
+16: There is no course that teaches level 3 of skill User Research 
+17: There is no course that teaches level 4 of skill User Research 
+18: There is no course that teaches level 5 of skill User Research 
+19: Level 4 of skill User Experience Evaluation is acquired by coursing Human-Computer Interaction 
+20: Level 4 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+21: Level 5 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+22: Level 6 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+23: There is no course that teaches level 1 of skill Change Implementation Planning and Management 
+24: There is no course that teaches level 2 of skill Change Implementation Planning and Management 
+25: There is no course that teaches level 3 of skill Change Implementation Planning and Management 
+26: There is no course that teaches level 4 of skill Change Implementation Planning and Management 
+27: There is no course that teaches level 5 of skill Change Implementation Planning and Management 
+28: There is no course that teaches level 1 of skill Information Content Publishing 
+29: There is no course that teaches level 2 of skill Information Content Publishing 
+30: There is no course that teaches level 3 of skill Information Content Publishing 
+31: There is no course that teaches level 4 of skill Information Content Publishing 
+32: There is no course that teaches level 5 of skill Information Content Publishing 
+33: There is no course that teaches level 6 of skill Information Content Publishing 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+(3-4) 
+(3-5) 
+(5-6) 
+(5-7) 
+(5-8) 
+(8-9) 
+(8-10) 
+(8-11) 
+(8-12) 
+(8-13) 
+(8-14) 
+(8-15) 
+(8-16) 
+(8-17) 
+(8-18) 
+(8-19) 
+(8-20) 
+(8-21) 
+(8-22) 
+(8-23) 
+(8-24) 
+(8-25) 
+(8-26) 
+(8-27) 
+(8-28) 
+(8-29) 
+(8-30) 
+(8-31) 
+(8-32) 
+(8-33) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

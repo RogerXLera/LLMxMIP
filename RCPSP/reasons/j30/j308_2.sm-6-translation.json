@@ -1,0 +1,1 @@
+{"query": "The subset of activities 7, 12, 16, 13, 23 is not completed at time period 23", "c:16": "activity 16 must be completed", "p:16/13": "activity 13 must be completed before starting activity 16"}

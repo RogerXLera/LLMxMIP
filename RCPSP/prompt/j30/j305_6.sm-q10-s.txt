@@ -1,0 +1,74 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, use the reasons below, which are related to the project schedule restrictions. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 2        | 13         | 13              | 1        | 1            | 1             | 7              | 
+| 4        | 1          | 8               | 8        | 1            | 1             | 9              | 
+| 5        | 11         | 11              | 1        | 4            | 1             | 4              | 
+| 7        | 21         | 24              | 4        | 3            | 1             | 9              | 
+| 8        | 18         | 20              | 3        | 5            | 1             | 10             | 
+| 9        | 21         | 27              | 7        | 8            | 4             | 5              | 
+| 10       | 9          | 17              | 9        | 3            | 1             | 8              | 
+| 14       | 33         | 34              | 2        | 6            | 1             | 8              | 
+| 15       | 26         | 33              | 8        | 7            | 2             | 6              | 
+| 19       | 25         | 32              | 8        | 2            | 1             | 10             | 
+| 21       | 23         | 27              | 5        | 10           | 1             | 5              | 
+| 22       | 28         | 32              | 5        | 9            | 2             | 8              | 
+| 23       | 51         | 58              | 8        | 13, 15, 22   | 2             | 9              | 
+| 25       | 34         | 34              | 1        | 13, 15, 19   | 1             | 3              | 
+| 26       | 35         | 44              | 10       | 14, 21, 25   | 1             | 8              | 
+| 28       | 45         | 54              | 10       | 16, 20, 26   | 1             | 4              | 
+| 29       | 59         | 61              | 3        | 2, 18, 23    | 2             | 1              | 
+| 31       | 55         | 64              | 10       | 17, 27, 28   | 3             | 2              | 
+| 32       | 64         | 64              | 0        | 29, 30, 31   | -             | -              | 
+Question: Why is activity 15 completed at time period 33 instead of activity 14? 
+Reasons: 
+0: Activity 15 completed at time period 33 instead of activity 14 
+1: activity 2 must be completed 
+2: activity 4 must be completed 
+3: activity 7 must be completed 
+4: activity 10 must be completed 
+5: activity 4 must be completed before starting activity 5 
+6: activity 5 must be completed before starting activity 8 
+7: activity 8 must be completed before starting activity 9 
+8: activity 7 must be completed before starting activity 15 
+9: activity 2 must be completed before starting activity 19 
+10: activity 10 must be completed before starting activity 21 
+11: activity 9 must be completed before starting activity 22 
+12: activity 22 must be completed before starting activity 23 
+13: activity 15 must be completed before starting activity 25 
+14: activity 19 must be completed before starting activity 25 
+15: activity 21 must be completed before starting activity 26 
+16: activity 25 must be completed before starting activity 26 
+17: activity 26 must be completed before starting activity 28 
+18: activity 23 must be completed before starting activity 29 
+19: activity 28 must be completed before starting activity 31 
+20: activity 29 must be completed before starting activity 32 
+21: activity 31 must be completed before starting activity 32 
+22: resource 1 is scarce at time period 1 due to activities 2, 4 
+23: resource 1 is scarce at time period 2 due to activities 19, 2, 4 
+24: resource 1 is scarce at time period 3 due to activities 19, 2, 4 
+25: resource 1 is scarce at time period 4 due to activities 10, 19, 2, 4, 7 
+26: resource 1 is scarce at time period 5 due to activities 10, 19, 2, 4, 7 
+27: resource 1 is scarce at time period 6 due to activities 10, 19, 2, 4, 7 
+28: resource 1 is scarce at time period 7 due to activities 10, 19, 2, 4, 7 
+29: resource 1 is scarce at time period 8 due to activities 10, 19, 2, 4, 7 
+30: resource 1 is scarce at time period 9 due to activities 10, 19, 2, 4, 5, 6, 7 
+31: resource 1 is scarce at time period 12 due to activities 10, 11, 19, 2, 4, 5, 6, 7, 8 
+32: resource 1 is scarce at time period 15 due to activities 10, 11, 14, 19, 2, 21, 24, 4, 5, 6, 7, 8 
+33: resource 1 is scarce at time period 17 due to activities 10, 11, 14, 19, 2, 21, 24, 25, 4, 5, 6, 7, 8 
+34: resource 1 is scarce at time period 20 due to activities 10, 11, 14, 19, 2, 21, 24, 25, 26, 4, 5, 6, 7, 8 
+35: resource 1 is scarce at time period 21 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 4, 5, 6, 7, 8 
+36: resource 1 is scarce at time period 24 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 4, 5, 6, 7, 8 
+37: resource 1 is scarce at time period 26 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 4, 5, 6, 7, 8 
+38: resource 1 is scarce at time period 29 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 27, 28, 4, 5, 6, 7, 8 
+39: resource 1 is scarce at time period 32 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 27, 28, 4, 5, 6, 7, 8 
+40: resource 1 is scarce at time period 33 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 27, 28, 4, 5, 6, 7, 8 
+41: resource 1 is scarce at time period 36 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 27, 28, 4, 5, 6, 7, 8 
+42: resource 1 is scarce at time period 39 due to activities 10, 11, 14, 17, 19, 2, 21, 24, 25, 26, 27, 28, 4, 5, 6, 7, 8 
+43: extends the length of the project beyond time period 64 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
+
+OUTPUT:

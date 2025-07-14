@@ -1,0 +1,14 @@
+IIS generation
+Instance: j302_10
+----------------------------
+Query: 1
+Query element:25,22
+Query scope: 2865
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 36044.01349
+IIS Constraint: 252; renewable; {resource:2,t:21}
+IIS Constraint: 254; renewable; {resource:2,t:23}
+IIS Constraint: 259; renewable; {resource:2,t:28}
+IIS Constraint: 684; query; {activity:25,t:22,query:1}
+IIS Constraint: 685; max; {f:43.0,objective:max}

@@ -1,0 +1,117 @@
+IIS generation
+Instance: j3016_8
+----------------------------
+Query: 4
+Query element:25,25
+Query scope: 2803
+Query scope: 2804
+Query scope: 2805
+Query scope: 2806
+Query scope: 2807
+Query scope: 2808
+Query scope: 2809
+Query scope: 2810
+Query scope: 2811
+Query scope: 2812
+Query scope: 2813
+Query scope: 2814
+Query scope: 2815
+Query scope: 2816
+Query scope: 2817
+Query scope: 2818
+Query scope: 2819
+Query scope: 2820
+Query scope: 2821
+Query scope: 2822
+Query scope: 2823
+Query scope: 2824
+Query scope: 2825
+Query scope: 2826
+Query scope: 2827
+Query scope: 2828
+Query scope: 2829
+Query scope: 2830
+Query scope: 2831
+Query scope: 2832
+Query scope: 2833
+Query scope: 2834
+Query scope: 2835
+Query scope: 2836
+Query scope: 2837
+Query scope: 2838
+Query scope: 2839
+Query scope: 2840
+Query scope: 2841
+Query scope: 2842
+Query scope: 2843
+Query scope: 2844
+Query scope: 2845
+Query scope: 2846
+Query scope: 2847
+Query scope: 2848
+Query scope: 2849
+Query scope: 2850
+Query scope: 2851
+Query scope: 2852
+Query scope: 2853
+Query scope: 2854
+Query scope: 2855
+Query scope: 2856
+Query scope: 2857
+Query scope: 2858
+Query scope: 2859
+Query scope: 2860
+Query scope: 2861
+Query scope: 2862
+Query scope: 2863
+Query scope: 2864
+Query scope: 2865
+Query scope: 2866
+Query scope: 2867
+Query scope: 2868
+Query scope: 2869
+Query scope: 2870
+Query scope: 2871
+Query scope: 2872
+Query scope: 2873
+Query scope: 2874
+Query scope: 2875
+Query scope: 2876
+Query scope: 2877
+Query scope: 2878
+Query scope: 2879
+Query scope: 2880
+Query scope: 2881
+Query scope: 2882
+Query scope: 2883
+Query scope: 2884
+Query scope: 2885
+Query scope: 2886
+Query scope: 2887
+Query scope: 2888
+Query scope: 2889
+Query scope: 2890
+Query scope: 2891
+Query scope: 2892
+Query scope: 2893
+Query scope: 2894
+Query scope: 2895
+Query scope: 2896
+Query scope: 2897
+Query scope: 2898
+Query scope: 2899
+Query scope: 2900
+Query scope: 2901
+Query scope: 2902
+Query scope: 2903
+Query scope: 2904
+Query scope: 2905
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.10055
+IIS Constraint: 63; precedence; {activity:26,predecessor:25}
+IIS Constraint: 67; precedence; {activity:28,predecessor:26}
+IIS Constraint: 76; precedence; {activity:31,predecessor:28}
+IIS Constraint: 79; precedence; {activity:32,predecessor:31}
+IIS Constraint: 668; query; {activity:25,t:25,query:4}
+IIS Constraint: 669; max; {f:44.0,objective:max}

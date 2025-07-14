@@ -1,0 +1,29 @@
+IIS generation
+Instance: j6041_5
+----------------------------
+Query: 2
+Query element:45,58
+Query scope: 12667
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 24.51445
+IIS Constraint: 5; completion; {activity:6}
+IIS Constraint: 6; completion; {activity:7}
+IIS Constraint: 11; completion; {activity:12}
+IIS Constraint: 34; completion; {activity:35}
+IIS Constraint: 44; completion; {activity:45}
+IIS Constraint: 69; precedence; {activity:9,predecessor:6}
+IIS Constraint: 72; precedence; {activity:11,predecessor:9}
+IIS Constraint: 76; precedence; {activity:15,predecessor:7}
+IIS Constraint: 77; precedence; {activity:16,predecessor:12}
+IIS Constraint: 78; precedence; {activity:17,predecessor:15}
+IIS Constraint: 89; precedence; {activity:25,predecessor:11}
+IIS Constraint: 101; precedence; {activity:30,predecessor:16}
+IIS Constraint: 102; precedence; {activity:30,predecessor:17}
+IIS Constraint: 103; precedence; {activity:30,predecessor:25}
+IIS Constraint: 141; precedence; {activity:45,predecessor:30}
+IIS Constraint: 142; precedence; {activity:45,predecessor:35}
+IIS Constraint: 207; renewable; {resource:1,t:14}
+IIS Constraint: 223; renewable; {resource:1,t:30}
+IIS Constraint: 1273; renewable; {resource:4,t:45}
+IIS Constraint: 1573; query; {activity:45,t:58,query:2}

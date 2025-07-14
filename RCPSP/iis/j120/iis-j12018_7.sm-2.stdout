@@ -1,0 +1,16 @@
+IIS generation
+Instance: j12018_7
+----------------------------
+Query: 2
+Query element:87,295
+Query scope: 50581
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 118.12266
+IIS Constraint: 268; precedence; {activity:110,predecessor:87}
+IIS Constraint: 281; precedence; {activity:114,predecessor:110}
+IIS Constraint: 292; precedence; {activity:118,predecessor:114}
+IIS Constraint: 301; precedence; {activity:121,predecessor:118}
+IIS Constraint: 304; precedence; {activity:122,predecessor:121}
+IIS Constraint: 2885; query; {activity:87,t:295,query:2}
+IIS Constraint: 2886; max; {f:139.0,objective:max}

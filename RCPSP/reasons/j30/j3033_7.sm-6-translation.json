@@ -1,0 +1,1 @@
+{"query": "The subset of activities 9, 17 is not completed at time period 42", "r:1/42": "resource 1 is scarce at time period 42 due to activities 13, 14, 17, 2, 20, 3, 4, 5, 7, 9"}

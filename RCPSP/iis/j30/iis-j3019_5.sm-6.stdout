@@ -1,0 +1,20 @@
+IIS generation
+Instance: j3019_5
+----------------------------
+Query: 6
+Query element:20,29
+Query element:21,29
+Query element:23,29
+Query element:14,27
+Query element:24,27
+Query scope: 2345
+Query scope: 2471
+Query scope: 2719
+Query scope: 1614
+Query scope: 2837
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.03815
+IIS Constraint: 22; completion; {activity:23}
+IIS Constraint: 62; precedence; {activity:23,predecessor:14}
+IIS Constraint: 742; query; {activities:[20,21,23,14,24],t:29,query:6}

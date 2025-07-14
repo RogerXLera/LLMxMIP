@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                  | semesters  | credits | compulsory | 
+|---------------------------|------------|---------|------------| 
+| 3D Modelling Fundamentals | 3 (Autumn) | 10      | No         | 
+| Computer Networking       | 4 (Spring) | 10      | Yes        | 
+
+Question: Why is 3D Modelling Fundamentals planned at semester 3 instead of Computer Networking? 
+Reasons: 
+0: 3D Modelling Fundamentals is planned at semester 3 instead of course Computer Networking 
+1: Computer Networking cannot be planned during autumn semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

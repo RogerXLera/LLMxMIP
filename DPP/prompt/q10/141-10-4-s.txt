@@ -1,0 +1,89 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                                   | semesters  | credits | compulsory | 
+|--------------------------------------------|------------|---------|------------| 
+| Human-Computer Interaction                 | 1 (Autumn) | 10      | Yes        | 
+| Professional Development                   | 1 (Autumn) | 10      | Yes        | 
+| Programming Fundamentals                   | 1 (Autumn) | 10      | Yes        | 
+| Systems Analysis and Design                | 1 (Autumn) | 10      | Yes        | 
+| Programming Techniques                     | 2 (Spring) | 10      | Yes        | 
+| Mathematics 1A                             | 2 (Spring) | 10      | No         | 
+| Video Games Development                    | 2 (Spring) | 10      | No         | 
+| Operating Systems Programming              | 3 (Autumn) | 10      | Yes        | 
+| Statistical Decision Making                | 3 (Autumn) | 10      | Yes        | 
+| Database Design and Development            | 4 (Spring) | 10      | Yes        | 
+| Computer Networking                        | 4 (Spring) | 10      | Yes        | 
+| Computer Networks and Internets            | 5 (Autumn) | 10      | Yes        | 
+| Object Oriented Analysis                   | 5 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications          | 5 (Autumn) | 10      | Yes        | 
+| Principles of Professional Communication 1 | 6 (Spring) | 10      | Yes        | 
+| Professional Experience                    | 6 (Spring) | 10      | Yes        | 
+| Web Systems Development                    | 6 (Spring) | 10      | Yes        | 
+| Social Web Analytics                       | 6 (Spring) | 10      | Yes        | 
+
+Question: Why is Video Games Development planned instead of Analysis? 
+Reasons: 
+0: Video Games Development is planned instead of Analysis 
+1: Analysis cannot be planned during spring semesters 
+2: Discrete Mathematics cannot be planned during spring semesters 
+3: Advanced Calculus cannot be planned during spring semesters 
+4: Abstract Algebra cannot be planned during spring semesters 
+5: Computer Networks and Internets  cannot be planned during spring semesters 
+6: Data Structures and Algorithms cannot be planned during spring semesters 
+7: Object Oriented Analysis cannot be planned during spring semesters 
+8: Human-Computer Interaction cannot be planned during spring semesters 
+9: Professional Development cannot be planned during spring semesters 
+10: Technologies for Web Applications cannot be planned during spring semesters 
+11: Systems Analysis and Design cannot be planned during spring semesters 
+12: Operating Systems Programming cannot be planned during spring semesters 
+13: Statistical Decision Making cannot be planned during spring semesters 
+14: Clinical Classification and Coding cannot be planned during spring semesters 
+15: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+16: 40 must be planned during semester 1 
+17: 40 must be planned during semester 2 
+18: 40 must be planned during semester 3 
+19: 40 must be planned during semester 4 
+20: 40 must be planned during semester 5 
+21: 40 must be planned during semester 6 
+22: Advanced Calculus must be planned before Analysis 
+23: Mathematics 1B must be planned before Advanced Calculus 
+24: Mathematics 1A must be planned before Mathematics 1B 
+25: Programming Techniques,  or Object Oriented Programming must be planned before Operating Systems Programming 
+26: Fundamentals of Medical Concepts and Terminology must be planned before Clinical Classification and Coding 
+27: Principles of Professional Communication 1 is compulsory 
+28: Computer Networks and Internets  is compulsory 
+29: Database Design and Development is compulsory 
+30: Object Oriented Analysis is compulsory 
+31: Computer Networking is compulsory 
+32: Human-Computer Interaction is compulsory 
+33: Professional Development is compulsory 
+34: Professional Experience is compulsory 
+35: Programming Fundamentals is compulsory 
+36: Technologies for Web Applications is compulsory 
+37: Web Systems Development is compulsory 
+38: Systems Analysis and Design is compulsory 
+39: Operating Systems Programming is compulsory 
+40: Statistical Decision Making is compulsory 
+41: Social Web Analytics is compulsory 
+42: students must complete one major 
+43: Data Structures and Algorithms is compulsory for completing Cyber Security major 
+44: Ethical Hacking Principles and Practice is compulsory for completing Cyber Security major 
+45: Video Games Development is compulsory for completing Entertainment Computing major 
+46: Clinical Classification and Coding is compulsory for completing Health Informatics major 
+47: Healthcare Data Environments is compulsory for completing Health Informatics major 
+48: Healthcare Software and Systems is compulsory for completing Health Informatics major 
+49: Introduction to Health Informatics is compulsory for completing Health Informatics major 
+50: Discrete Mathematics is compulsory for completing Mathematics major 
+51: Abstract Algebra is compulsory for completing Mathematics major 
+52: Mobile Applications Development is compulsory for completing Mobile Computing major 
+53: Network Security is compulsory for completing Mobile Computing major 
+54: Social Computing is compulsory for completing Mobile Computing major 
+55: Wireless and Mobile Networks is compulsory for completing Mobile Computing major 
+56: Information Systems Deployment and Management is compulsory for completing Mobile Computing major 
+57: LAN Workshop is compulsory for completing Networking major 
+58: Network Security is compulsory for completing Networking major 
+59: Networked Systems Design is compulsory for completing Networking major 
+60: Systems and Network Management is compulsory for completing Networking major 
+61: 1 electives from the set of courses Computer Security, Ethical Hacking Principles and Practice must be complete to obtain Networking major 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

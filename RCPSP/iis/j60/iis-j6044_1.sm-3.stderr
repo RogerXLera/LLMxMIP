@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/iis.py", line 159, in <module>
+    Q = query_generation(I,args.q)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/generate_query.py", line 424, in query_generation
+    function(I,Q,n_q)
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/generate_query.py", line 62, in generate_query_3
+    raise ValueError(f"Query 3 cannot be generated because all activities already finished in the earliest time.")
+ValueError: Query 3 cannot be generated because all activities already finished in the earliest time.
+srun: error: c07: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5954188.0

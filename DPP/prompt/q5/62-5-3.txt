@@ -1,0 +1,36 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Information Systems in Context | 6 (Spring) | 10      | No         | 
+
+Question: Why is Information Systems in Context planned? 
+Reasons: 
+0: Information Systems in Context is planned 
+1: Level 1 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+2: Level 2 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+3: reduce the percentage of skills learnt below 55%  
+4: There is no course that teaches level 1 of skill User Research 
+5: There is no course that teaches level 2 of skill User Research 
+6: There is no course that teaches level 3 of skill User Research 
+7: There is no course that teaches level 1 of skill Information Content Publishing 
+8: There is no course that teaches level 2 of skill Information Content Publishing 
+9: There is no course that teaches level 3 of skill Information Content Publishing 
+10: There is no course that teaches level 4 of skill Information Content Publishing 
+11: Level 3 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+Connections: 
+(0-1) 
+(0-2) 
+(1-2) 
+(1-3) 
+(2-3) 
+(3-4) 
+(3-5) 
+(3-6) 
+(3-7) 
+(3-8) 
+(3-9) 
+(3-10) 
+(3-11) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

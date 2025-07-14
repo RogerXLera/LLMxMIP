@@ -1,0 +1,40 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects         | semesters  | credits | compulsory | 
+|------------------|------------|---------|------------| 
+| Visual Analytics | 2 (Spring) | 10      | No         | 
+
+Question: Why is Visual Analytics planned? 
+Reasons: 
+0: Visual Analytics is planned 
+1: Level 4 of skill Data Visualisation is acquired by coursing Statistics for Business, Making Sense of Data, Environmental Informatics, Visual Analytics,  or Management Analytics 
+2: reduce the percentage of skills learnt below 54%  
+3: Level 3 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+4: Level 4 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+5: Level 4 of skill Animation Development is acquired by coursing Video Games Development,  or 3D Modelling Fundamentals 
+6: Level 4 of skill User Experience Design is acquired by coursing Human-Computer Interaction 
+7: There is no course that teaches level 1 of skill Information Content Publishing 
+8: There is no course that teaches level 2 of skill Information Content Publishing 
+9: There is no course that teaches level 3 of skill Information Content Publishing 
+10: There is no course that teaches level 4 of skill Information Content Publishing 
+11: Level 3 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+12: There is no course that teaches level 1 of skill Client Services Management 
+13: There is no course that teaches level 2 of skill Client Services Management 
+14: There is no course that teaches level 3 of skill Client Services Management 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+(2-4) 
+(2-5) 
+(2-6) 
+(2-7) 
+(2-8) 
+(2-9) 
+(2-10) 
+(2-11) 
+(2-12) 
+(2-13) 
+(2-14) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

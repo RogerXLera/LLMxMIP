@@ -1,0 +1,33 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                      | semesters  | credits | compulsory | 
+|-------------------------------|------------|---------|------------| 
+| Programming Fundamentals      | 1 (Autumn) | 10      | Yes        | 
+| Programming Techniques        | 2 (Spring) | 10      | Yes        | 
+| Management Analytics          | 4 (Spring) | 10      | No         | 
+| Operating Systems Programming | 5 (Autumn) | 10      | Yes        | 
+
+Question: Why is Management Analytics planned at semester 4 instead of Programming Fundamentals? 
+Reasons: 
+0: Management Analytics is planned at semester 4 instead of course Programming Fundamentals 
+1: Programming Fundamentals cannot be planned more than ones 
+2: Programming Fundamentals must be planned before Object Oriented Programming 
+3: Programming Fundamentals must be planned before Programming Techniques 
+4: Programming Techniques,  or Object Oriented Programming must be planned before Operating Systems Programming 
+5: Object Oriented Programming cannot be planned during autumn semesters 
+6: Programming Techniques cannot be planned during autumn semesters 
+7: Operating Systems Programming is compulsory 
+8: Operating Systems Programming cannot be planned during spring semesters 
+Connections: 
+(0-1) 
+(1-2) 
+(1-3) 
+(2-3) 
+(2-4) 
+(3-4) 
+(4-5) 
+(4-6) 
+(4-7) 
+(7-8) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

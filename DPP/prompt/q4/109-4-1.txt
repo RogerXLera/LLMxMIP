@@ -1,0 +1,248 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                                | semesters  | credits | compulsory | 
+|-----------------------------------------|------------|---------|------------| 
+| Professional Development                | 1 (Autumn) | 10      | Yes        | 
+| Systems Analysis and Design             | 1 (Autumn) | 10      | Yes        | 
+| Statistical Decision Making             | 1 (Autumn) | 10      | Yes        | 
+| Computer Networking                     | 2 (Spring) | 10      | Yes        | 
+| Programming Fundamentals                | 2 (Spring) | 10      | Yes        | 
+| Computer Networks and Internets         | 3 (Autumn) | 10      | Yes        | 
+| Object Oriented Analysis                | 3 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications       | 3 (Autumn) | 10      | Yes        | 
+| Introduction to Cloud Computing         | 3 (Autumn) | 10      | No         | 
+| Database Design and Development         | 4 (Spring) | 10      | Yes        | 
+| Programming Techniques                  | 4 (Spring) | 10      | Yes        | 
+| Computer Graphics                       | 5 (Autumn) | 10      | No         | 
+| Human-Computer Interaction              | 5 (Autumn) | 10      | Yes        | 
+| Operating Systems Programming           | 5 (Autumn) | 10      | Yes        | 
+| Ethical Hacking Principles and Practice | 5 (Autumn) | 10      | No         | 
+| Professional Experience                 | 6 (Spring) | 10      | Yes        | 
+| Cloud Computing Architecture            | 6 (Spring) | 10      | No         | 
+
+Question: Why is Programming Fundamentals not planned after semester 2? 
+Reasons: 
+0: Programming Fundamentals is not planned after semester 2 
+1: Programming Fundamentals cannot be planned more than ones 
+2: 40 must be planned during semester 3 
+3: 40 must be planned during semester 5 
+4: Programming Fundamentals must be planned before Object Oriented Programming 
+5: Programming Fundamentals must be planned before Programming Techniques 
+6: 40 must be planned during semester 1 
+7: Programming Fundamentals must be planned before Technologies for Web Applications 
+8: Database Design and Development cannot be planned during autumn semesters 
+9: Object Oriented Programming cannot be planned during autumn semesters 
+10: Formal Software Engineering cannot be planned during autumn semesters 
+11: Programming Techniques cannot be planned during autumn semesters 
+12: Object Oriented Programming,  or Programming Techniques must be planned before Data Structures and Algorithms 
+13: Systems Analysis and Design must be planned before Object Oriented Analysis 
+14: Discrete Mathematics must be planned before Formal Software Engineering 
+15: Data Structures and Algorithms must be planned before Formal Software Engineering 
+16: Technologies for Web Applications must be planned before Professional Experience 
+17: Professional Development must be planned before Professional Experience 
+18: Technologies for Web Applications must be planned before Ethical Hacking Principles and Practice 
+19: Introduction to Cloud Computing  must be planned before Cloud Computing Architecture 
+20: Computer Networks and Internets  is compulsory 
+21: Object Oriented Analysis is compulsory 
+22: Human-Computer Interaction is compulsory 
+23: Professional Experience is compulsory 
+24: Operating Systems Programming is compulsory 
+25: Statistical Decision Making is compulsory 
+26: Ethical Hacking Principles and Practice is compulsory for completing Cyber Security major 
+27: Computer Graphics is compulsory for completing Entertainment Computing major 
+28: Clinical Classification and Coding is compulsory for completing Health Informatics major 
+29: Abstract Algebra is compulsory for completing Mathematics major 
+30: Wireless and Mobile Networks is compulsory for completing Mobile Computing major 
+31: Networked Systems Design is compulsory for completing Networking major 
+32: Level 3 of skill Software Design is acquired by coursing Object Oriented Analysis, Formal Software Engineering, Human-Computer Interaction,  or Systems Analysis and Design 
+33: Level 3 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+34: Level 3 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+35: Database Design and Development must be planned before Professional Experience 
+36: Computer Networking must be planned before Ethical Hacking Principles and Practice 
+37: Systems Analysis and Design cannot be planned during spring semesters 
+38: Discrete Mathematics cannot be planned during spring semesters 
+39: Data Structures and Algorithms cannot be planned during spring semesters 
+40: Technologies for Web Applications cannot be planned during spring semesters 
+41: Professional Development cannot be planned during spring semesters 
+42: Introduction to Cloud Computing  cannot be planned during spring semesters 
+43: Computer Networks and Internets  cannot be planned during spring semesters 
+44: Object Oriented Analysis cannot be planned during spring semesters 
+45: Human-Computer Interaction cannot be planned during spring semesters 
+46: Operating Systems Programming cannot be planned during spring semesters 
+47: Statistical Decision Making cannot be planned during spring semesters 
+48: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+49: students must complete one major 
+50: Computer Graphics cannot be planned during spring semesters 
+51: Clinical Classification and Coding cannot be planned during spring semesters 
+52: Abstract Algebra cannot be planned during spring semesters 
+53: Wireless and Mobile Networks cannot be planned during spring semesters 
+54: Networked Systems Design cannot be planned during spring semesters 
+55: reduce the percentage of skills learnt below 77%  
+56: Robotic Programming cannot be planned during spring semesters 
+57: Level 5 of skill Systems Design is acquired by coursing Object Oriented Analysis, Information Systems in Context, Professional Experience, Systems Analysis and Design, Healthcare Software and Systems,  or Cloud Computing Architecture 
+58: Level 4 of skill Software Design is acquired by coursing Object Oriented Analysis, Formal Software Engineering, Human-Computer Interaction,  or Systems Analysis and Design 
+59: Level 4 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+60: Level 5 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+Connections: 
+(0-1) 
+(0-2) 
+(0-3) 
+(0-4) 
+(0-5) 
+(1-6) 
+(1-2) 
+(1-3) 
+(1-4) 
+(1-5) 
+(1-7) 
+(2-8) 
+(2-9) 
+(2-10) 
+(2-11) 
+(2-12) 
+(2-13) 
+(2-4) 
+(2-14) 
+(2-15) 
+(2-16) 
+(2-17) 
+(2-5) 
+(2-7) 
+(2-18) 
+(2-19) 
+(2-20) 
+(2-21) 
+(2-22) 
+(2-23) 
+(2-24) 
+(2-25) 
+(2-26) 
+(2-27) 
+(2-28) 
+(2-29) 
+(2-30) 
+(2-31) 
+(2-32) 
+(2-33) 
+(2-34) 
+(3-8) 
+(3-9) 
+(3-10) 
+(3-11) 
+(3-12) 
+(3-13) 
+(3-14) 
+(3-15) 
+(3-16) 
+(3-17) 
+(3-18) 
+(3-19) 
+(3-20) 
+(3-21) 
+(3-22) 
+(3-23) 
+(3-24) 
+(3-25) 
+(3-26) 
+(3-27) 
+(3-28) 
+(3-29) 
+(3-30) 
+(3-31) 
+(3-32) 
+(3-33) 
+(3-34) 
+(4-6) 
+(4-12) 
+(4-5) 
+(4-7) 
+(5-6) 
+(5-12) 
+(5-7) 
+(6-8) 
+(6-9) 
+(6-10) 
+(6-11) 
+(6-12) 
+(6-13) 
+(6-14) 
+(6-15) 
+(6-35) 
+(6-16) 
+(6-17) 
+(6-7) 
+(6-36) 
+(6-18) 
+(6-19) 
+(6-20) 
+(6-21) 
+(6-22) 
+(6-23) 
+(6-24) 
+(6-25) 
+(6-26) 
+(6-27) 
+(6-28) 
+(6-29) 
+(6-30) 
+(6-31) 
+(6-32) 
+(6-33) 
+(6-34) 
+(7-16) 
+(7-18) 
+(8-35) 
+(9-12) 
+(10-32) 
+(11-12) 
+(12-15) 
+(13-37) 
+(13-21) 
+(14-38) 
+(14-15) 
+(14-32) 
+(15-39) 
+(15-32) 
+(16-40) 
+(16-17) 
+(16-18) 
+(16-23) 
+(17-41) 
+(17-23) 
+(18-40) 
+(18-26) 
+(18-33) 
+(19-42) 
+(19-34) 
+(20-43) 
+(21-44) 
+(22-45) 
+(23-35) 
+(24-46) 
+(25-47) 
+(26-48) 
+(26-36) 
+(26-49) 
+(26-33) 
+(27-50) 
+(27-49) 
+(28-51) 
+(28-49) 
+(29-52) 
+(29-49) 
+(30-53) 
+(30-49) 
+(31-54) 
+(31-49) 
+(32-55) 
+(33-48) 
+(33-36) 
+(33-55) 
+(34-56) 
+(34-55) 
+(55-57) 
+(55-58) 
+(55-59) 
+(55-60) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

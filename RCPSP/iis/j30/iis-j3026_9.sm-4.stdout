@@ -1,0 +1,101 @@
+IIS generation
+Instance: j3026_9
+----------------------------
+Query: 4
+Query element:25,40
+Query scope: 2381
+Query scope: 2382
+Query scope: 2383
+Query scope: 2384
+Query scope: 2385
+Query scope: 2386
+Query scope: 2387
+Query scope: 2388
+Query scope: 2389
+Query scope: 2390
+Query scope: 2391
+Query scope: 2392
+Query scope: 2393
+Query scope: 2394
+Query scope: 2395
+Query scope: 2396
+Query scope: 2397
+Query scope: 2398
+Query scope: 2399
+Query scope: 2400
+Query scope: 2401
+Query scope: 2402
+Query scope: 2403
+Query scope: 2404
+Query scope: 2405
+Query scope: 2406
+Query scope: 2407
+Query scope: 2408
+Query scope: 2409
+Query scope: 2410
+Query scope: 2411
+Query scope: 2412
+Query scope: 2413
+Query scope: 2414
+Query scope: 2415
+Query scope: 2416
+Query scope: 2417
+Query scope: 2418
+Query scope: 2419
+Query scope: 2420
+Query scope: 2421
+Query scope: 2422
+Query scope: 2423
+Query scope: 2424
+Query scope: 2425
+Query scope: 2426
+Query scope: 2427
+Query scope: 2428
+Query scope: 2429
+Query scope: 2430
+Query scope: 2431
+Query scope: 2432
+Query scope: 2433
+Query scope: 2434
+Query scope: 2435
+Query scope: 2436
+Query scope: 2437
+Query scope: 2438
+Query scope: 2439
+Query scope: 2440
+Query scope: 2441
+Query scope: 2442
+Query scope: 2443
+Query scope: 2444
+Query scope: 2445
+Query scope: 2446
+Query scope: 2447
+Query scope: 2448
+Query scope: 2449
+Query scope: 2450
+Query scope: 2451
+Query scope: 2452
+Query scope: 2453
+Query scope: 2454
+Query scope: 2455
+Query scope: 2456
+Query scope: 2457
+Query scope: 2458
+Query scope: 2459
+Query scope: 2460
+Query scope: 2461
+Query scope: 2462
+Query scope: 2463
+Query scope: 2464
+Query scope: 2465
+Query scope: 2466
+Query scope: 2467
+Query scope: 2468
+Query scope: 2469
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 1.52966
+IIS Constraint: 82; precedence; {activity:30,predecessor:25}
+IIS Constraint: 88; precedence; {activity:32,predecessor:30}
+IIS Constraint: 618; query; {activity:25,t:40,query:4}
+IIS Constraint: 619; max; {f:43.0,objective:max}

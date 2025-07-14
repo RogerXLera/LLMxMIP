@@ -1,0 +1,5 @@
+numpy==1.22.0
+pandas
+cplex
+docplex==2.27.239
+

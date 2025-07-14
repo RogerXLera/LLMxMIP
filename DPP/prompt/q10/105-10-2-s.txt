@@ -1,0 +1,12 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                        | semesters  | credits | compulsory | 
+|---------------------------------|------------|---------|------------| 
+| Database Design and Development | 4 (Spring) | 10      | Yes        | 
+
+Question: Why is Database Design and Development planned instead of Abstract Algebra? 
+Reasons: 
+0: Database Design and Development is planned instead of Abstract Algebra 
+1: Database Design and Development is compulsory 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

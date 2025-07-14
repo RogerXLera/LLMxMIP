@@ -1,0 +1,1 @@
+query;Why is activity 9 completed at time period 29 instead of activity 14?

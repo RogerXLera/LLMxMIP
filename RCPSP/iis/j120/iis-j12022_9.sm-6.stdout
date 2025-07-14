@@ -1,0 +1,19 @@
+IIS generation
+Instance: j12022_9
+----------------------------
+Query: 6
+Query element:57,71
+Query element:75,71
+Query element:102,71
+Query element:90,70
+Query element:95,70
+Query element:103,70
+Query scope: 35004
+Query scope: 46295
+Query scope: 63054
+Query scope: 55616
+Query scope: 58698
+Query scope: 63666
+----------------------------
+IIS optimality: optimal
+IIS solution time: 36027.90532

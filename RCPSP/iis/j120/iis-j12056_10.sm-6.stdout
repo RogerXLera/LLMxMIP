@@ -1,0 +1,15 @@
+IIS generation
+Instance: j12056_10
+----------------------------
+Query: 6
+Query element:119,316
+Query element:116,315
+Query element:118,315
+Query scope: 68521
+Query scope: 66805
+Query scope: 67950
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 1.056
+IIS Constraint: 695; renewable; {resource:1,t:316}
+IIS Constraint: 3023; query; {activities:[119,116,118],t:316,query:6}

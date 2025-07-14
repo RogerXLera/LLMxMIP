@@ -1,0 +1,34 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300150,1
+Query element: 301109,1
+Query scope: 156
+Query scope: 426
+Query scope: 157
+Query scope: 427
+Query scope: 158
+Query scope: 428
+Query scope: 159
+Query scope: 429
+Query scope: 160
+Query scope: 430
+Query scope: 161
+Query scope: 431
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.108
+IIS Constraint: 613; unit_skill; {skill:PBMG,level:1}
+IIS Constraint: 615; unit_skill; {skill:PBMG,level:2}
+IIS Constraint: 617; unit_skill; {skill:PBMG,level:3}
+IIS Constraint: 619; unit_skill; {skill:AVMT,level:1}
+IIS Constraint: 621; unit_skill; {skill:AVMT,level:2}
+IIS Constraint: 623; unit_skill; {skill:AVMT,level:3}
+IIS Constraint: 625; unit_skill; {skill:AVMT,level:4}
+IIS Constraint: 641; unit_skill; {skill:ITOP,level:4}
+IIS Constraint: 643; unit_skill; {skill:HSIN,level:1}
+IIS Constraint: 645; unit_skill; {skill:HSIN,level:2}
+IIS Constraint: 647; unit_skill; {skill:HSIN,level:3}
+IIS Constraint: 654; query; {unit:300150,query:10}
+IIS Constraint: 656; max; {f:11.0,objective:max}

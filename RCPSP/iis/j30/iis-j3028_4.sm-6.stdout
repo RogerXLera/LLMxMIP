@@ -1,0 +1,20 @@
+IIS generation
+Instance: j3028_4
+----------------------------
+Query: 6
+Query element:22,24
+Query element:10,22
+Query element:20,22
+Query scope: 2634
+Query scope: 1140
+Query scope: 2380
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.10773
+IIS Constraint: 52; precedence; {activity:19,predecessor:10}
+IIS Constraint: 74; precedence; {activity:27,predecessor:19}
+IIS Constraint: 77; precedence; {activity:28,predecessor:27}
+IIS Constraint: 83; precedence; {activity:30,predecessor:28}
+IIS Constraint: 88; precedence; {activity:32,predecessor:30}
+IIS Constraint: 754; query; {activities:[22,10,20],t:24,query:6}
+IIS Constraint: 755; max; {f:49.0,objective:max}

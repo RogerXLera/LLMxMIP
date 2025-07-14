@@ -1,0 +1,15 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                                | semesters  | credits | compulsory | 
+|-----------------------------------------|------------|---------|------------| 
+| Database Design and Development         | 4 (Spring) | 10      | Yes        | 
+| Ethical Hacking Principles and Practice | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Ethical Hacking Principles and Practice planned at semester 5 instead of Database Design and Development? 
+Reasons: 
+0: Ethical Hacking Principles and Practice is planned at semester 5 instead of course Database Design and Development 
+1: Database Design and Development cannot be planned during autumn semesters 
+Connections: 
+(0-1) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

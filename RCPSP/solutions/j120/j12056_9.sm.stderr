@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/problem.py", line 34, in <module>
+    I.print_solution()
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/definitions.py", line 193, in print_solution
+    sol = self.solution()
+  File "/mnt/beegfs/iiia/rlera/ExMIPcopy/RCPSP/definitions.py", line 164, in solution
+    f_ = self.model.objective_value
+  File "/home/rlera/.local/lib/python3.8/site-packages/cplex/lib/python/docplex/mp/model.py", line 5364, in objective_value
+    self._check_has_solution()
+  File "/home/rlera/.local/lib/python3.8/site-packages/cplex/lib/python/docplex/mp/model.py", line 5182, in _check_has_solution
+    self.fatal("Model<{0}> did not solve successfully", self.name)
+  File "/home/rlera/.local/lib/python3.8/site-packages/cplex/lib/python/docplex/mp/model.py", line 1078, in fatal
+    self._error_handler.fatal(msg, args)
+  File "/home/rlera/.local/lib/python3.8/site-packages/cplex/lib/python/docplex/mp/error_handler.py", line 210, in fatal
+    raise DOcplexException(resolved_message)
+docplex.mp.utils.DOcplexException: Model<docplex_model1> did not solve successfully
+srun: error: c10: task 0: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=5955795.0

@@ -1,0 +1,1994 @@
+IIS generation
+Instance: j6042_3
+----------------------------
+Query: 8
+Query element:30,48
+Query element:31,48
+Query element:34,48
+Query element:39,48
+Query element:44,48
+Query element:12,43
+Query element:41,43
+Query scope: 7894
+Query scope: 8171
+Query scope: 8986
+Query scope: 10358
+Query scope: 11687
+Query scope: 2969
+Query scope: 10887
+Query scope: 16962
+Query scope: 7895
+Query scope: 8172
+Query scope: 8987
+Query scope: 10359
+Query scope: 11688
+Query scope: 2970
+Query scope: 10888
+Query scope: 7896
+Query scope: 8173
+Query scope: 8988
+Query scope: 10360
+Query scope: 11689
+Query scope: 2971
+Query scope: 10889
+Query scope: 7897
+Query scope: 8174
+Query scope: 8989
+Query scope: 10361
+Query scope: 11690
+Query scope: 2972
+Query scope: 10890
+Query scope: 7898
+Query scope: 8175
+Query scope: 8990
+Query scope: 10362
+Query scope: 11691
+Query scope: 2973
+Query scope: 10891
+Query scope: 7899
+Query scope: 8176
+Query scope: 8991
+Query scope: 10363
+Query scope: 11692
+Query scope: 2974
+Query scope: 10892
+Query scope: 7900
+Query scope: 8177
+Query scope: 8992
+Query scope: 10364
+Query scope: 11693
+Query scope: 2975
+Query scope: 10893
+Query scope: 7901
+Query scope: 8178
+Query scope: 8993
+Query scope: 10365
+Query scope: 11694
+Query scope: 2976
+Query scope: 10894
+Query scope: 7902
+Query scope: 8179
+Query scope: 8994
+Query scope: 10366
+Query scope: 11695
+Query scope: 2977
+Query scope: 10895
+Query scope: 7903
+Query scope: 8180
+Query scope: 8995
+Query scope: 10367
+Query scope: 11696
+Query scope: 2978
+Query scope: 10896
+Query scope: 7904
+Query scope: 8181
+Query scope: 8996
+Query scope: 10368
+Query scope: 11697
+Query scope: 2979
+Query scope: 10897
+Query scope: 7905
+Query scope: 8182
+Query scope: 8997
+Query scope: 10369
+Query scope: 11698
+Query scope: 2980
+Query scope: 10898
+Query scope: 7906
+Query scope: 8183
+Query scope: 8998
+Query scope: 10370
+Query scope: 11699
+Query scope: 2981
+Query scope: 10899
+Query scope: 7907
+Query scope: 8184
+Query scope: 8999
+Query scope: 10371
+Query scope: 11700
+Query scope: 2982
+Query scope: 10900
+Query scope: 7908
+Query scope: 8185
+Query scope: 9000
+Query scope: 10372
+Query scope: 11701
+Query scope: 2983
+Query scope: 10901
+Query scope: 7909
+Query scope: 8186
+Query scope: 9001
+Query scope: 10373
+Query scope: 11702
+Query scope: 2984
+Query scope: 10902
+Query scope: 7910
+Query scope: 8187
+Query scope: 9002
+Query scope: 10374
+Query scope: 11703
+Query scope: 2985
+Query scope: 10903
+Query scope: 7911
+Query scope: 8188
+Query scope: 9003
+Query scope: 10375
+Query scope: 11704
+Query scope: 2986
+Query scope: 10904
+Query scope: 7912
+Query scope: 8189
+Query scope: 9004
+Query scope: 10376
+Query scope: 11705
+Query scope: 2987
+Query scope: 10905
+Query scope: 7913
+Query scope: 8190
+Query scope: 9005
+Query scope: 10377
+Query scope: 11706
+Query scope: 2988
+Query scope: 10906
+Query scope: 7914
+Query scope: 8191
+Query scope: 9006
+Query scope: 10378
+Query scope: 11707
+Query scope: 2989
+Query scope: 10907
+Query scope: 7915
+Query scope: 8192
+Query scope: 9007
+Query scope: 10379
+Query scope: 11708
+Query scope: 2990
+Query scope: 10908
+Query scope: 7916
+Query scope: 8193
+Query scope: 9008
+Query scope: 10380
+Query scope: 11709
+Query scope: 2991
+Query scope: 10909
+Query scope: 7917
+Query scope: 8194
+Query scope: 9009
+Query scope: 10381
+Query scope: 11710
+Query scope: 2992
+Query scope: 10910
+Query scope: 7918
+Query scope: 8195
+Query scope: 9010
+Query scope: 10382
+Query scope: 11711
+Query scope: 2993
+Query scope: 10911
+Query scope: 7919
+Query scope: 8196
+Query scope: 9011
+Query scope: 10383
+Query scope: 11712
+Query scope: 2994
+Query scope: 10912
+Query scope: 7920
+Query scope: 8197
+Query scope: 9012
+Query scope: 10384
+Query scope: 11713
+Query scope: 2995
+Query scope: 10913
+Query scope: 7921
+Query scope: 8198
+Query scope: 9013
+Query scope: 10385
+Query scope: 11714
+Query scope: 2996
+Query scope: 10914
+Query scope: 7922
+Query scope: 8199
+Query scope: 9014
+Query scope: 10386
+Query scope: 11715
+Query scope: 2997
+Query scope: 10915
+Query scope: 7923
+Query scope: 8200
+Query scope: 9015
+Query scope: 10387
+Query scope: 11716
+Query scope: 2998
+Query scope: 10916
+Query scope: 7924
+Query scope: 8201
+Query scope: 9016
+Query scope: 10388
+Query scope: 11717
+Query scope: 2999
+Query scope: 10917
+Query scope: 7925
+Query scope: 8202
+Query scope: 9017
+Query scope: 10389
+Query scope: 11718
+Query scope: 3000
+Query scope: 10918
+Query scope: 7926
+Query scope: 8203
+Query scope: 9018
+Query scope: 10390
+Query scope: 11719
+Query scope: 3001
+Query scope: 10919
+Query scope: 7927
+Query scope: 8204
+Query scope: 9019
+Query scope: 10391
+Query scope: 11720
+Query scope: 3002
+Query scope: 10920
+Query scope: 7928
+Query scope: 8205
+Query scope: 9020
+Query scope: 10392
+Query scope: 11721
+Query scope: 3003
+Query scope: 10921
+Query scope: 7929
+Query scope: 8206
+Query scope: 9021
+Query scope: 10393
+Query scope: 11722
+Query scope: 3004
+Query scope: 10922
+Query scope: 7930
+Query scope: 8207
+Query scope: 9022
+Query scope: 10394
+Query scope: 11723
+Query scope: 3005
+Query scope: 10923
+Query scope: 7931
+Query scope: 8208
+Query scope: 9023
+Query scope: 10395
+Query scope: 11724
+Query scope: 3006
+Query scope: 10924
+Query scope: 7932
+Query scope: 8209
+Query scope: 9024
+Query scope: 10396
+Query scope: 11725
+Query scope: 3007
+Query scope: 10925
+Query scope: 7933
+Query scope: 8210
+Query scope: 9025
+Query scope: 10397
+Query scope: 11726
+Query scope: 3008
+Query scope: 10926
+Query scope: 7934
+Query scope: 8211
+Query scope: 9026
+Query scope: 10398
+Query scope: 11727
+Query scope: 3009
+Query scope: 10927
+Query scope: 7935
+Query scope: 8212
+Query scope: 9027
+Query scope: 10399
+Query scope: 11728
+Query scope: 3010
+Query scope: 10928
+Query scope: 7936
+Query scope: 8213
+Query scope: 9028
+Query scope: 10400
+Query scope: 11729
+Query scope: 3011
+Query scope: 10929
+Query scope: 7937
+Query scope: 8214
+Query scope: 9029
+Query scope: 10401
+Query scope: 11730
+Query scope: 3012
+Query scope: 10930
+Query scope: 7938
+Query scope: 8215
+Query scope: 9030
+Query scope: 10402
+Query scope: 11731
+Query scope: 3013
+Query scope: 10931
+Query scope: 7939
+Query scope: 8216
+Query scope: 9031
+Query scope: 10403
+Query scope: 11732
+Query scope: 3014
+Query scope: 10932
+Query scope: 7940
+Query scope: 8217
+Query scope: 9032
+Query scope: 10404
+Query scope: 11733
+Query scope: 3015
+Query scope: 10933
+Query scope: 7941
+Query scope: 8218
+Query scope: 9033
+Query scope: 10405
+Query scope: 11734
+Query scope: 3016
+Query scope: 10934
+Query scope: 7942
+Query scope: 8219
+Query scope: 9034
+Query scope: 10406
+Query scope: 11735
+Query scope: 3017
+Query scope: 10935
+Query scope: 7943
+Query scope: 8220
+Query scope: 9035
+Query scope: 10407
+Query scope: 11736
+Query scope: 3018
+Query scope: 10936
+Query scope: 7944
+Query scope: 8221
+Query scope: 9036
+Query scope: 10408
+Query scope: 11737
+Query scope: 3019
+Query scope: 10937
+Query scope: 7945
+Query scope: 8222
+Query scope: 9037
+Query scope: 10409
+Query scope: 11738
+Query scope: 3020
+Query scope: 10938
+Query scope: 7946
+Query scope: 8223
+Query scope: 9038
+Query scope: 10410
+Query scope: 11739
+Query scope: 3021
+Query scope: 10939
+Query scope: 7947
+Query scope: 8224
+Query scope: 9039
+Query scope: 10411
+Query scope: 11740
+Query scope: 3022
+Query scope: 10940
+Query scope: 7948
+Query scope: 8225
+Query scope: 9040
+Query scope: 10412
+Query scope: 11741
+Query scope: 3023
+Query scope: 10941
+Query scope: 7949
+Query scope: 8226
+Query scope: 9041
+Query scope: 10413
+Query scope: 11742
+Query scope: 3024
+Query scope: 10942
+Query scope: 7950
+Query scope: 8227
+Query scope: 9042
+Query scope: 10414
+Query scope: 11743
+Query scope: 3025
+Query scope: 10943
+Query scope: 7951
+Query scope: 8228
+Query scope: 9043
+Query scope: 10415
+Query scope: 11744
+Query scope: 3026
+Query scope: 10944
+Query scope: 7952
+Query scope: 8229
+Query scope: 9044
+Query scope: 10416
+Query scope: 11745
+Query scope: 3027
+Query scope: 10945
+Query scope: 7953
+Query scope: 8230
+Query scope: 9045
+Query scope: 10417
+Query scope: 11746
+Query scope: 3028
+Query scope: 10946
+Query scope: 7954
+Query scope: 8231
+Query scope: 9046
+Query scope: 10418
+Query scope: 11747
+Query scope: 3029
+Query scope: 10947
+Query scope: 7955
+Query scope: 8232
+Query scope: 9047
+Query scope: 10419
+Query scope: 11748
+Query scope: 3030
+Query scope: 10948
+Query scope: 7956
+Query scope: 8233
+Query scope: 9048
+Query scope: 10420
+Query scope: 11749
+Query scope: 3031
+Query scope: 10949
+Query scope: 7957
+Query scope: 8234
+Query scope: 9049
+Query scope: 10421
+Query scope: 11750
+Query scope: 3032
+Query scope: 10950
+Query scope: 7958
+Query scope: 8235
+Query scope: 9050
+Query scope: 10422
+Query scope: 11751
+Query scope: 3033
+Query scope: 10951
+Query scope: 7959
+Query scope: 8236
+Query scope: 9051
+Query scope: 10423
+Query scope: 11752
+Query scope: 3034
+Query scope: 10952
+Query scope: 7960
+Query scope: 8237
+Query scope: 9052
+Query scope: 10424
+Query scope: 11753
+Query scope: 3035
+Query scope: 10953
+Query scope: 7961
+Query scope: 8238
+Query scope: 9053
+Query scope: 10425
+Query scope: 11754
+Query scope: 3036
+Query scope: 10954
+Query scope: 7962
+Query scope: 8239
+Query scope: 9054
+Query scope: 10426
+Query scope: 11755
+Query scope: 3037
+Query scope: 10955
+Query scope: 7963
+Query scope: 8240
+Query scope: 9055
+Query scope: 10427
+Query scope: 11756
+Query scope: 3038
+Query scope: 10956
+Query scope: 7964
+Query scope: 8241
+Query scope: 9056
+Query scope: 10428
+Query scope: 11757
+Query scope: 3039
+Query scope: 10957
+Query scope: 7965
+Query scope: 8242
+Query scope: 9057
+Query scope: 10429
+Query scope: 11758
+Query scope: 3040
+Query scope: 10958
+Query scope: 7966
+Query scope: 8243
+Query scope: 9058
+Query scope: 10430
+Query scope: 11759
+Query scope: 3041
+Query scope: 10959
+Query scope: 7967
+Query scope: 8244
+Query scope: 9059
+Query scope: 10431
+Query scope: 11760
+Query scope: 3042
+Query scope: 10960
+Query scope: 7968
+Query scope: 8245
+Query scope: 9060
+Query scope: 10432
+Query scope: 11761
+Query scope: 3043
+Query scope: 10961
+Query scope: 7969
+Query scope: 8246
+Query scope: 9061
+Query scope: 10433
+Query scope: 11762
+Query scope: 3044
+Query scope: 10962
+Query scope: 7970
+Query scope: 8247
+Query scope: 9062
+Query scope: 10434
+Query scope: 11763
+Query scope: 3045
+Query scope: 10963
+Query scope: 7971
+Query scope: 8248
+Query scope: 9063
+Query scope: 10435
+Query scope: 11764
+Query scope: 3046
+Query scope: 10964
+Query scope: 7972
+Query scope: 8249
+Query scope: 9064
+Query scope: 10436
+Query scope: 11765
+Query scope: 3047
+Query scope: 10965
+Query scope: 7973
+Query scope: 8250
+Query scope: 9065
+Query scope: 10437
+Query scope: 11766
+Query scope: 3048
+Query scope: 10966
+Query scope: 7974
+Query scope: 8251
+Query scope: 9066
+Query scope: 10438
+Query scope: 11767
+Query scope: 3049
+Query scope: 10967
+Query scope: 7975
+Query scope: 8252
+Query scope: 9067
+Query scope: 10439
+Query scope: 11768
+Query scope: 3050
+Query scope: 10968
+Query scope: 7976
+Query scope: 8253
+Query scope: 9068
+Query scope: 10440
+Query scope: 11769
+Query scope: 3051
+Query scope: 10969
+Query scope: 7977
+Query scope: 8254
+Query scope: 9069
+Query scope: 10441
+Query scope: 11770
+Query scope: 3052
+Query scope: 10970
+Query scope: 7978
+Query scope: 8255
+Query scope: 9070
+Query scope: 10442
+Query scope: 11771
+Query scope: 3053
+Query scope: 10971
+Query scope: 7979
+Query scope: 8256
+Query scope: 9071
+Query scope: 10443
+Query scope: 11772
+Query scope: 3054
+Query scope: 10972
+Query scope: 7980
+Query scope: 8257
+Query scope: 9072
+Query scope: 10444
+Query scope: 11773
+Query scope: 3055
+Query scope: 10973
+Query scope: 7981
+Query scope: 8258
+Query scope: 9073
+Query scope: 10445
+Query scope: 11774
+Query scope: 3056
+Query scope: 10974
+Query scope: 7982
+Query scope: 8259
+Query scope: 9074
+Query scope: 10446
+Query scope: 11775
+Query scope: 3057
+Query scope: 10975
+Query scope: 7983
+Query scope: 8260
+Query scope: 9075
+Query scope: 10447
+Query scope: 11776
+Query scope: 3058
+Query scope: 10976
+Query scope: 7984
+Query scope: 8261
+Query scope: 9076
+Query scope: 10448
+Query scope: 11777
+Query scope: 3059
+Query scope: 10977
+Query scope: 7985
+Query scope: 8262
+Query scope: 9077
+Query scope: 10449
+Query scope: 11778
+Query scope: 3060
+Query scope: 10978
+Query scope: 7986
+Query scope: 8263
+Query scope: 9078
+Query scope: 10450
+Query scope: 11779
+Query scope: 3061
+Query scope: 10979
+Query scope: 7987
+Query scope: 8264
+Query scope: 9079
+Query scope: 10451
+Query scope: 11780
+Query scope: 3062
+Query scope: 10980
+Query scope: 7988
+Query scope: 8265
+Query scope: 9080
+Query scope: 10452
+Query scope: 11781
+Query scope: 3063
+Query scope: 10981
+Query scope: 7989
+Query scope: 8266
+Query scope: 9081
+Query scope: 10453
+Query scope: 11782
+Query scope: 3064
+Query scope: 10982
+Query scope: 7990
+Query scope: 8267
+Query scope: 9082
+Query scope: 10454
+Query scope: 11783
+Query scope: 3065
+Query scope: 10983
+Query scope: 7991
+Query scope: 8268
+Query scope: 9083
+Query scope: 10455
+Query scope: 11784
+Query scope: 3066
+Query scope: 10984
+Query scope: 7992
+Query scope: 8269
+Query scope: 9084
+Query scope: 10456
+Query scope: 11785
+Query scope: 3067
+Query scope: 10985
+Query scope: 7993
+Query scope: 8270
+Query scope: 9085
+Query scope: 10457
+Query scope: 11786
+Query scope: 3068
+Query scope: 10986
+Query scope: 7994
+Query scope: 8271
+Query scope: 9086
+Query scope: 10458
+Query scope: 11787
+Query scope: 3069
+Query scope: 10987
+Query scope: 7995
+Query scope: 8272
+Query scope: 9087
+Query scope: 10459
+Query scope: 11788
+Query scope: 3070
+Query scope: 10988
+Query scope: 7996
+Query scope: 8273
+Query scope: 9088
+Query scope: 10460
+Query scope: 11789
+Query scope: 3071
+Query scope: 10989
+Query scope: 7997
+Query scope: 8274
+Query scope: 9089
+Query scope: 10461
+Query scope: 11790
+Query scope: 3072
+Query scope: 10990
+Query scope: 7998
+Query scope: 8275
+Query scope: 9090
+Query scope: 10462
+Query scope: 11791
+Query scope: 3073
+Query scope: 10991
+Query scope: 7999
+Query scope: 8276
+Query scope: 9091
+Query scope: 10463
+Query scope: 11792
+Query scope: 3074
+Query scope: 10992
+Query scope: 8000
+Query scope: 8277
+Query scope: 9092
+Query scope: 10464
+Query scope: 11793
+Query scope: 3075
+Query scope: 10993
+Query scope: 8001
+Query scope: 8278
+Query scope: 9093
+Query scope: 10465
+Query scope: 11794
+Query scope: 3076
+Query scope: 10994
+Query scope: 8002
+Query scope: 8279
+Query scope: 9094
+Query scope: 10466
+Query scope: 11795
+Query scope: 3077
+Query scope: 10995
+Query scope: 8003
+Query scope: 8280
+Query scope: 9095
+Query scope: 10467
+Query scope: 11796
+Query scope: 3078
+Query scope: 10996
+Query scope: 8004
+Query scope: 8281
+Query scope: 9096
+Query scope: 10468
+Query scope: 11797
+Query scope: 3079
+Query scope: 10997
+Query scope: 8005
+Query scope: 8282
+Query scope: 9097
+Query scope: 10469
+Query scope: 11798
+Query scope: 3080
+Query scope: 10998
+Query scope: 8006
+Query scope: 8283
+Query scope: 9098
+Query scope: 10470
+Query scope: 11799
+Query scope: 3081
+Query scope: 10999
+Query scope: 8007
+Query scope: 8284
+Query scope: 9099
+Query scope: 10471
+Query scope: 11800
+Query scope: 3082
+Query scope: 11000
+Query scope: 8008
+Query scope: 8285
+Query scope: 9100
+Query scope: 10472
+Query scope: 11801
+Query scope: 3083
+Query scope: 11001
+Query scope: 8009
+Query scope: 8286
+Query scope: 9101
+Query scope: 10473
+Query scope: 11802
+Query scope: 3084
+Query scope: 11002
+Query scope: 8010
+Query scope: 8287
+Query scope: 9102
+Query scope: 10474
+Query scope: 11803
+Query scope: 3085
+Query scope: 11003
+Query scope: 8011
+Query scope: 8288
+Query scope: 9103
+Query scope: 10475
+Query scope: 11804
+Query scope: 3086
+Query scope: 11004
+Query scope: 8012
+Query scope: 8289
+Query scope: 9104
+Query scope: 10476
+Query scope: 11805
+Query scope: 3087
+Query scope: 11005
+Query scope: 8013
+Query scope: 8290
+Query scope: 9105
+Query scope: 10477
+Query scope: 11806
+Query scope: 3088
+Query scope: 11006
+Query scope: 8014
+Query scope: 8291
+Query scope: 9106
+Query scope: 10478
+Query scope: 11807
+Query scope: 3089
+Query scope: 11007
+Query scope: 8015
+Query scope: 8292
+Query scope: 9107
+Query scope: 10479
+Query scope: 11808
+Query scope: 3090
+Query scope: 11008
+Query scope: 8016
+Query scope: 8293
+Query scope: 9108
+Query scope: 10480
+Query scope: 11809
+Query scope: 3091
+Query scope: 11009
+Query scope: 8017
+Query scope: 8294
+Query scope: 9109
+Query scope: 10481
+Query scope: 11810
+Query scope: 3092
+Query scope: 11010
+Query scope: 8018
+Query scope: 8295
+Query scope: 9110
+Query scope: 10482
+Query scope: 11811
+Query scope: 3093
+Query scope: 11011
+Query scope: 8019
+Query scope: 8296
+Query scope: 9111
+Query scope: 10483
+Query scope: 11812
+Query scope: 3094
+Query scope: 11012
+Query scope: 8020
+Query scope: 8297
+Query scope: 9112
+Query scope: 10484
+Query scope: 11813
+Query scope: 3095
+Query scope: 11013
+Query scope: 8021
+Query scope: 8298
+Query scope: 9113
+Query scope: 10485
+Query scope: 11814
+Query scope: 3096
+Query scope: 11014
+Query scope: 8022
+Query scope: 8299
+Query scope: 9114
+Query scope: 10486
+Query scope: 11815
+Query scope: 3097
+Query scope: 11015
+Query scope: 8023
+Query scope: 8300
+Query scope: 9115
+Query scope: 10487
+Query scope: 11816
+Query scope: 3098
+Query scope: 11016
+Query scope: 8024
+Query scope: 8301
+Query scope: 9116
+Query scope: 10488
+Query scope: 11817
+Query scope: 3099
+Query scope: 11017
+Query scope: 8025
+Query scope: 8302
+Query scope: 9117
+Query scope: 10489
+Query scope: 11818
+Query scope: 3100
+Query scope: 11018
+Query scope: 8026
+Query scope: 8303
+Query scope: 9118
+Query scope: 10490
+Query scope: 11819
+Query scope: 3101
+Query scope: 11019
+Query scope: 8027
+Query scope: 8304
+Query scope: 9119
+Query scope: 10491
+Query scope: 11820
+Query scope: 3102
+Query scope: 11020
+Query scope: 8028
+Query scope: 8305
+Query scope: 9120
+Query scope: 10492
+Query scope: 11821
+Query scope: 3103
+Query scope: 11021
+Query scope: 8029
+Query scope: 8306
+Query scope: 9121
+Query scope: 10493
+Query scope: 11822
+Query scope: 3104
+Query scope: 11022
+Query scope: 8030
+Query scope: 8307
+Query scope: 9122
+Query scope: 10494
+Query scope: 11823
+Query scope: 3105
+Query scope: 11023
+Query scope: 8031
+Query scope: 8308
+Query scope: 9123
+Query scope: 10495
+Query scope: 11824
+Query scope: 3106
+Query scope: 11024
+Query scope: 8032
+Query scope: 8309
+Query scope: 9124
+Query scope: 10496
+Query scope: 11825
+Query scope: 3107
+Query scope: 11025
+Query scope: 8033
+Query scope: 8310
+Query scope: 9125
+Query scope: 10497
+Query scope: 11826
+Query scope: 3108
+Query scope: 11026
+Query scope: 8034
+Query scope: 8311
+Query scope: 9126
+Query scope: 10498
+Query scope: 11827
+Query scope: 3109
+Query scope: 11027
+Query scope: 8035
+Query scope: 8312
+Query scope: 9127
+Query scope: 10499
+Query scope: 11828
+Query scope: 3110
+Query scope: 11028
+Query scope: 8036
+Query scope: 8313
+Query scope: 9128
+Query scope: 10500
+Query scope: 11829
+Query scope: 3111
+Query scope: 11029
+Query scope: 8037
+Query scope: 8314
+Query scope: 9129
+Query scope: 10501
+Query scope: 11830
+Query scope: 3112
+Query scope: 11030
+Query scope: 8038
+Query scope: 8315
+Query scope: 9130
+Query scope: 10502
+Query scope: 11831
+Query scope: 3113
+Query scope: 11031
+Query scope: 8039
+Query scope: 8316
+Query scope: 9131
+Query scope: 10503
+Query scope: 11832
+Query scope: 3114
+Query scope: 11032
+Query scope: 8040
+Query scope: 8317
+Query scope: 9132
+Query scope: 10504
+Query scope: 11833
+Query scope: 3115
+Query scope: 11033
+Query scope: 8041
+Query scope: 8318
+Query scope: 9133
+Query scope: 10505
+Query scope: 11834
+Query scope: 3116
+Query scope: 11034
+Query scope: 8042
+Query scope: 8319
+Query scope: 9134
+Query scope: 10506
+Query scope: 11835
+Query scope: 3117
+Query scope: 11035
+Query scope: 8043
+Query scope: 8320
+Query scope: 9135
+Query scope: 10507
+Query scope: 11836
+Query scope: 3118
+Query scope: 11036
+Query scope: 8044
+Query scope: 8321
+Query scope: 9136
+Query scope: 10508
+Query scope: 11837
+Query scope: 3119
+Query scope: 11037
+Query scope: 8045
+Query scope: 8322
+Query scope: 9137
+Query scope: 10509
+Query scope: 11838
+Query scope: 3120
+Query scope: 11038
+Query scope: 8046
+Query scope: 8323
+Query scope: 9138
+Query scope: 10510
+Query scope: 11839
+Query scope: 3121
+Query scope: 11039
+Query scope: 8047
+Query scope: 8324
+Query scope: 9139
+Query scope: 10511
+Query scope: 11840
+Query scope: 3122
+Query scope: 11040
+Query scope: 8048
+Query scope: 8325
+Query scope: 9140
+Query scope: 10512
+Query scope: 11841
+Query scope: 3123
+Query scope: 11041
+Query scope: 8049
+Query scope: 8326
+Query scope: 9141
+Query scope: 10513
+Query scope: 11842
+Query scope: 3124
+Query scope: 11042
+Query scope: 8050
+Query scope: 8327
+Query scope: 9142
+Query scope: 10514
+Query scope: 11843
+Query scope: 3125
+Query scope: 11043
+Query scope: 8051
+Query scope: 8328
+Query scope: 9143
+Query scope: 10515
+Query scope: 11844
+Query scope: 3126
+Query scope: 11044
+Query scope: 8052
+Query scope: 8329
+Query scope: 9144
+Query scope: 10516
+Query scope: 11845
+Query scope: 3127
+Query scope: 11045
+Query scope: 8053
+Query scope: 8330
+Query scope: 9145
+Query scope: 10517
+Query scope: 11846
+Query scope: 3128
+Query scope: 11046
+Query scope: 8054
+Query scope: 8331
+Query scope: 9146
+Query scope: 10518
+Query scope: 11847
+Query scope: 3129
+Query scope: 11047
+Query scope: 8055
+Query scope: 8332
+Query scope: 9147
+Query scope: 10519
+Query scope: 11848
+Query scope: 3130
+Query scope: 11048
+Query scope: 8056
+Query scope: 8333
+Query scope: 9148
+Query scope: 10520
+Query scope: 11849
+Query scope: 3131
+Query scope: 11049
+Query scope: 8057
+Query scope: 8334
+Query scope: 9149
+Query scope: 10521
+Query scope: 11850
+Query scope: 3132
+Query scope: 11050
+Query scope: 8058
+Query scope: 8335
+Query scope: 9150
+Query scope: 10522
+Query scope: 11851
+Query scope: 3133
+Query scope: 11051
+Query scope: 8059
+Query scope: 8336
+Query scope: 9151
+Query scope: 10523
+Query scope: 11852
+Query scope: 3134
+Query scope: 11052
+Query scope: 8060
+Query scope: 8337
+Query scope: 9152
+Query scope: 10524
+Query scope: 11853
+Query scope: 3135
+Query scope: 11053
+Query scope: 8061
+Query scope: 8338
+Query scope: 9153
+Query scope: 10525
+Query scope: 11854
+Query scope: 3136
+Query scope: 11054
+Query scope: 8062
+Query scope: 8339
+Query scope: 9154
+Query scope: 10526
+Query scope: 11855
+Query scope: 3137
+Query scope: 11055
+Query scope: 8063
+Query scope: 8340
+Query scope: 9155
+Query scope: 10527
+Query scope: 11856
+Query scope: 3138
+Query scope: 11056
+Query scope: 8064
+Query scope: 8341
+Query scope: 9156
+Query scope: 10528
+Query scope: 11857
+Query scope: 3139
+Query scope: 11057
+Query scope: 8065
+Query scope: 8342
+Query scope: 9157
+Query scope: 10529
+Query scope: 11858
+Query scope: 3140
+Query scope: 11058
+Query scope: 8066
+Query scope: 8343
+Query scope: 9158
+Query scope: 10530
+Query scope: 11859
+Query scope: 3141
+Query scope: 11059
+Query scope: 8067
+Query scope: 8344
+Query scope: 9159
+Query scope: 10531
+Query scope: 11860
+Query scope: 3142
+Query scope: 11060
+Query scope: 8068
+Query scope: 8345
+Query scope: 9160
+Query scope: 10532
+Query scope: 11861
+Query scope: 3143
+Query scope: 11061
+Query scope: 8069
+Query scope: 8346
+Query scope: 9161
+Query scope: 10533
+Query scope: 11862
+Query scope: 3144
+Query scope: 11062
+Query scope: 8070
+Query scope: 8347
+Query scope: 9162
+Query scope: 10534
+Query scope: 11863
+Query scope: 3145
+Query scope: 11063
+Query scope: 8071
+Query scope: 8348
+Query scope: 9163
+Query scope: 10535
+Query scope: 11864
+Query scope: 3146
+Query scope: 11064
+Query scope: 8072
+Query scope: 8349
+Query scope: 9164
+Query scope: 10536
+Query scope: 11865
+Query scope: 3147
+Query scope: 11065
+Query scope: 8073
+Query scope: 8350
+Query scope: 9165
+Query scope: 10537
+Query scope: 11866
+Query scope: 3148
+Query scope: 11066
+Query scope: 8074
+Query scope: 8351
+Query scope: 9166
+Query scope: 10538
+Query scope: 11867
+Query scope: 3149
+Query scope: 11067
+Query scope: 8075
+Query scope: 8352
+Query scope: 9167
+Query scope: 10539
+Query scope: 11868
+Query scope: 3150
+Query scope: 11068
+Query scope: 8076
+Query scope: 8353
+Query scope: 9168
+Query scope: 10540
+Query scope: 11869
+Query scope: 3151
+Query scope: 11069
+Query scope: 8077
+Query scope: 8354
+Query scope: 9169
+Query scope: 10541
+Query scope: 11870
+Query scope: 3152
+Query scope: 11070
+Query scope: 8078
+Query scope: 8355
+Query scope: 9170
+Query scope: 10542
+Query scope: 11871
+Query scope: 3153
+Query scope: 11071
+Query scope: 8079
+Query scope: 8356
+Query scope: 9171
+Query scope: 10543
+Query scope: 11872
+Query scope: 3154
+Query scope: 11072
+Query scope: 8080
+Query scope: 8357
+Query scope: 9172
+Query scope: 10544
+Query scope: 11873
+Query scope: 3155
+Query scope: 11073
+Query scope: 8081
+Query scope: 8358
+Query scope: 9173
+Query scope: 10545
+Query scope: 11874
+Query scope: 3156
+Query scope: 11074
+Query scope: 8082
+Query scope: 8359
+Query scope: 9174
+Query scope: 10546
+Query scope: 11875
+Query scope: 3157
+Query scope: 11075
+Query scope: 8083
+Query scope: 8360
+Query scope: 9175
+Query scope: 10547
+Query scope: 11876
+Query scope: 3158
+Query scope: 11076
+Query scope: 8084
+Query scope: 8361
+Query scope: 9176
+Query scope: 10548
+Query scope: 11877
+Query scope: 3159
+Query scope: 11077
+Query scope: 8085
+Query scope: 8362
+Query scope: 9177
+Query scope: 10549
+Query scope: 11878
+Query scope: 3160
+Query scope: 11078
+Query scope: 8086
+Query scope: 8363
+Query scope: 9178
+Query scope: 10550
+Query scope: 11879
+Query scope: 3161
+Query scope: 11079
+Query scope: 8087
+Query scope: 8364
+Query scope: 9179
+Query scope: 10551
+Query scope: 11880
+Query scope: 3162
+Query scope: 11080
+Query scope: 8088
+Query scope: 8365
+Query scope: 9180
+Query scope: 10552
+Query scope: 11881
+Query scope: 3163
+Query scope: 11081
+Query scope: 8089
+Query scope: 8366
+Query scope: 9181
+Query scope: 10553
+Query scope: 11882
+Query scope: 3164
+Query scope: 11082
+Query scope: 8090
+Query scope: 8367
+Query scope: 9182
+Query scope: 10554
+Query scope: 11883
+Query scope: 3165
+Query scope: 11083
+Query scope: 8091
+Query scope: 8368
+Query scope: 9183
+Query scope: 10555
+Query scope: 11884
+Query scope: 3166
+Query scope: 11084
+Query scope: 8092
+Query scope: 8369
+Query scope: 9184
+Query scope: 10556
+Query scope: 11885
+Query scope: 3167
+Query scope: 11085
+Query scope: 8093
+Query scope: 8370
+Query scope: 9185
+Query scope: 10557
+Query scope: 11886
+Query scope: 3168
+Query scope: 11086
+Query scope: 8094
+Query scope: 8371
+Query scope: 9186
+Query scope: 10558
+Query scope: 11887
+Query scope: 3169
+Query scope: 11087
+Query scope: 8095
+Query scope: 8372
+Query scope: 9187
+Query scope: 10559
+Query scope: 11888
+Query scope: 3170
+Query scope: 11088
+Query scope: 8096
+Query scope: 8373
+Query scope: 9188
+Query scope: 10560
+Query scope: 11889
+Query scope: 3171
+Query scope: 11089
+Query scope: 8097
+Query scope: 8374
+Query scope: 9189
+Query scope: 10561
+Query scope: 11890
+Query scope: 3172
+Query scope: 11090
+Query scope: 8098
+Query scope: 8375
+Query scope: 9190
+Query scope: 10562
+Query scope: 11891
+Query scope: 3173
+Query scope: 11091
+Query scope: 8099
+Query scope: 8376
+Query scope: 9191
+Query scope: 10563
+Query scope: 11892
+Query scope: 3174
+Query scope: 11092
+Query scope: 8100
+Query scope: 8377
+Query scope: 9192
+Query scope: 10564
+Query scope: 11893
+Query scope: 3175
+Query scope: 11093
+Query scope: 8101
+Query scope: 8378
+Query scope: 9193
+Query scope: 10565
+Query scope: 11894
+Query scope: 3176
+Query scope: 11094
+Query scope: 8102
+Query scope: 8379
+Query scope: 9194
+Query scope: 10566
+Query scope: 11895
+Query scope: 3177
+Query scope: 11095
+Query scope: 8103
+Query scope: 8380
+Query scope: 9195
+Query scope: 10567
+Query scope: 11896
+Query scope: 3178
+Query scope: 11096
+Query scope: 8104
+Query scope: 8381
+Query scope: 9196
+Query scope: 10568
+Query scope: 11897
+Query scope: 3179
+Query scope: 11097
+Query scope: 8105
+Query scope: 8382
+Query scope: 9197
+Query scope: 10569
+Query scope: 11898
+Query scope: 3180
+Query scope: 11098
+Query scope: 8106
+Query scope: 8383
+Query scope: 9198
+Query scope: 10570
+Query scope: 11899
+Query scope: 3181
+Query scope: 11099
+Query scope: 8107
+Query scope: 8384
+Query scope: 9199
+Query scope: 10571
+Query scope: 11900
+Query scope: 3182
+Query scope: 11100
+Query scope: 8108
+Query scope: 8385
+Query scope: 9200
+Query scope: 10572
+Query scope: 11901
+Query scope: 3183
+Query scope: 11101
+Query scope: 8109
+Query scope: 8386
+Query scope: 9201
+Query scope: 10573
+Query scope: 11902
+Query scope: 3184
+Query scope: 11102
+Query scope: 8110
+Query scope: 8387
+Query scope: 9202
+Query scope: 10574
+Query scope: 11903
+Query scope: 3185
+Query scope: 11103
+Query scope: 8111
+Query scope: 8388
+Query scope: 9203
+Query scope: 10575
+Query scope: 11904
+Query scope: 3186
+Query scope: 11104
+Query scope: 8112
+Query scope: 8389
+Query scope: 9204
+Query scope: 10576
+Query scope: 11905
+Query scope: 3187
+Query scope: 11105
+Query scope: 8113
+Query scope: 8390
+Query scope: 9205
+Query scope: 10577
+Query scope: 11906
+Query scope: 3188
+Query scope: 11106
+Query scope: 8114
+Query scope: 8391
+Query scope: 9206
+Query scope: 10578
+Query scope: 11907
+Query scope: 3189
+Query scope: 11107
+Query scope: 8115
+Query scope: 8392
+Query scope: 9207
+Query scope: 10579
+Query scope: 11908
+Query scope: 3190
+Query scope: 11108
+Query scope: 8116
+Query scope: 8393
+Query scope: 9208
+Query scope: 10580
+Query scope: 11909
+Query scope: 3191
+Query scope: 11109
+Query scope: 8117
+Query scope: 8394
+Query scope: 9209
+Query scope: 10581
+Query scope: 11910
+Query scope: 3192
+Query scope: 11110
+Query scope: 8118
+Query scope: 8395
+Query scope: 9210
+Query scope: 10582
+Query scope: 11911
+Query scope: 3193
+Query scope: 11111
+Query scope: 8119
+Query scope: 8396
+Query scope: 9211
+Query scope: 10583
+Query scope: 11912
+Query scope: 3194
+Query scope: 11112
+Query scope: 8120
+Query scope: 8397
+Query scope: 9212
+Query scope: 10584
+Query scope: 11913
+Query scope: 3195
+Query scope: 11113
+Query scope: 8121
+Query scope: 8398
+Query scope: 9213
+Query scope: 10585
+Query scope: 11914
+Query scope: 3196
+Query scope: 11114
+Query scope: 8122
+Query scope: 8399
+Query scope: 9214
+Query scope: 10586
+Query scope: 11915
+Query scope: 3197
+Query scope: 11115
+Query scope: 8123
+Query scope: 8400
+Query scope: 9215
+Query scope: 10587
+Query scope: 11916
+Query scope: 3198
+Query scope: 11116
+Query scope: 8124
+Query scope: 8401
+Query scope: 9216
+Query scope: 10588
+Query scope: 11917
+Query scope: 3199
+Query scope: 11117
+Query scope: 8125
+Query scope: 8402
+Query scope: 9217
+Query scope: 10589
+Query scope: 11918
+Query scope: 3200
+Query scope: 11118
+Query scope: 8126
+Query scope: 8403
+Query scope: 9218
+Query scope: 10590
+Query scope: 11919
+Query scope: 3201
+Query scope: 11119
+Query scope: 8127
+Query scope: 8404
+Query scope: 9219
+Query scope: 10591
+Query scope: 11920
+Query scope: 3202
+Query scope: 11120
+Query scope: 8128
+Query scope: 8405
+Query scope: 9220
+Query scope: 10592
+Query scope: 11921
+Query scope: 3203
+Query scope: 11121
+Query scope: 8129
+Query scope: 8406
+Query scope: 9221
+Query scope: 10593
+Query scope: 11922
+Query scope: 3204
+Query scope: 11122
+Query scope: 8130
+Query scope: 8407
+Query scope: 9222
+Query scope: 10594
+Query scope: 11923
+Query scope: 3205
+Query scope: 11123
+Query scope: 8131
+Query scope: 8408
+Query scope: 9223
+Query scope: 10595
+Query scope: 11924
+Query scope: 3206
+Query scope: 11124
+Query scope: 8132
+Query scope: 8409
+Query scope: 9224
+Query scope: 10596
+Query scope: 11925
+Query scope: 3207
+Query scope: 11125
+Query scope: 8133
+Query scope: 8410
+Query scope: 9225
+Query scope: 10597
+Query scope: 11926
+Query scope: 3208
+Query scope: 11126
+Query scope: 8134
+Query scope: 8411
+Query scope: 9226
+Query scope: 10598
+Query scope: 11927
+Query scope: 3209
+Query scope: 11127
+Query scope: 8135
+Query scope: 8412
+Query scope: 9227
+Query scope: 10599
+Query scope: 11928
+Query scope: 3210
+Query scope: 11128
+Query scope: 8136
+Query scope: 8413
+Query scope: 9228
+Query scope: 10600
+Query scope: 11929
+Query scope: 3211
+Query scope: 11129
+Query scope: 8137
+Query scope: 8414
+Query scope: 9229
+Query scope: 10601
+Query scope: 11930
+Query scope: 3212
+Query scope: 11130
+Query scope: 8138
+Query scope: 8415
+Query scope: 9230
+Query scope: 10602
+Query scope: 11931
+Query scope: 3213
+Query scope: 11131
+Query scope: 8139
+Query scope: 8416
+Query scope: 9231
+Query scope: 10603
+Query scope: 11932
+Query scope: 3214
+Query scope: 11132
+Query scope: 8140
+Query scope: 8417
+Query scope: 9232
+Query scope: 10604
+Query scope: 11933
+Query scope: 3215
+Query scope: 11133
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 1170.76621
+IIS Constraint: 29; completion; {activity:30}
+IIS Constraint: 103; precedence; {activity:30,predecessor:12}
+IIS Constraint: 1505; query; {activities:[30,31,34,39,44,12,41],t:46,query:8}
+IIS Constraint: 1506; query; {activities:[30,31,34,39,44,12,41],t:47,query:8}
+IIS Constraint: 1507; query; {activities:[30,31,34,39,44,12,41],t:48,query:8}
+IIS Constraint: 1508; query; {activities:[30,31,34,39,44,12,41],t:49,query:8}
+IIS Constraint: 1509; query; {activities:[30,31,34,39,44,12,41],t:50,query:8}
+IIS Constraint: 1510; query; {activities:[30,31,34,39,44,12,41],t:51,query:8}
+IIS Constraint: 1511; query; {activities:[30,31,34,39,44,12,41],t:52,query:8}
+IIS Constraint: 1512; query; {activities:[30,31,34,39,44,12,41],t:53,query:8}
+IIS Constraint: 1513; query; {activities:[30,31,34,39,44,12,41],t:54,query:8}
+IIS Constraint: 1514; query; {activities:[30,31,34,39,44,12,41],t:55,query:8}
+IIS Constraint: 1515; query; {activities:[30,31,34,39,44,12,41],t:56,query:8}
+IIS Constraint: 1516; query; {activities:[30,31,34,39,44,12,41],t:57,query:8}
+IIS Constraint: 1517; query; {activities:[30,31,34,39,44,12,41],t:58,query:8}
+IIS Constraint: 1518; query; {activities:[30,31,34,39,44,12,41],t:59,query:8}
+IIS Constraint: 1519; query; {activities:[30,31,34,39,44,12,41],t:60,query:8}
+IIS Constraint: 1520; query; {activities:[30,31,34,39,44,12,41],t:61,query:8}
+IIS Constraint: 1521; query; {activities:[30,31,34,39,44,12,41],t:62,query:8}
+IIS Constraint: 1522; query; {activities:[30,31,34,39,44,12,41],t:63,query:8}
+IIS Constraint: 1523; query; {activities:[30,31,34,39,44,12,41],t:64,query:8}
+IIS Constraint: 1524; query; {activities:[30,31,34,39,44,12,41],t:65,query:8}
+IIS Constraint: 1525; query; {activities:[30,31,34,39,44,12,41],t:66,query:8}
+IIS Constraint: 1526; query; {activities:[30,31,34,39,44,12,41],t:67,query:8}
+IIS Constraint: 1527; query; {activities:[30,31,34,39,44,12,41],t:68,query:8}
+IIS Constraint: 1528; query; {activities:[30,31,34,39,44,12,41],t:69,query:8}
+IIS Constraint: 1529; query; {activities:[30,31,34,39,44,12,41],t:70,query:8}
+IIS Constraint: 1530; query; {activities:[30,31,34,39,44,12,41],t:71,query:8}
+IIS Constraint: 1531; query; {activities:[30,31,34,39,44,12,41],t:72,query:8}
+IIS Constraint: 1532; query; {activities:[30,31,34,39,44,12,41],t:73,query:8}
+IIS Constraint: 1533; query; {activities:[30,31,34,39,44,12,41],t:74,query:8}
+IIS Constraint: 1534; query; {activities:[30,31,34,39,44,12,41],t:75,query:8}
+IIS Constraint: 1535; query; {activities:[30,31,34,39,44,12,41],t:76,query:8}
+IIS Constraint: 1536; query; {activities:[30,31,34,39,44,12,41],t:77,query:8}
+IIS Constraint: 1537; query; {activities:[30,31,34,39,44,12,41],t:78,query:8}
+IIS Constraint: 1538; query; {activities:[30,31,34,39,44,12,41],t:79,query:8}
+IIS Constraint: 1539; query; {activities:[30,31,34,39,44,12,41],t:80,query:8}
+IIS Constraint: 1540; query; {activities:[30,31,34,39,44,12,41],t:81,query:8}
+IIS Constraint: 1541; query; {activities:[30,31,34,39,44,12,41],t:82,query:8}
+IIS Constraint: 1542; query; {activities:[30,31,34,39,44,12,41],t:83,query:8}
+IIS Constraint: 1543; query; {activities:[30,31,34,39,44,12,41],t:84,query:8}
+IIS Constraint: 1544; query; {activities:[30,31,34,39,44,12,41],t:85,query:8}
+IIS Constraint: 1545; query; {activities:[30,31,34,39,44,12,41],t:86,query:8}
+IIS Constraint: 1546; query; {activities:[30,31,34,39,44,12,41],t:87,query:8}
+IIS Constraint: 1547; query; {activities:[30,31,34,39,44,12,41],t:88,query:8}
+IIS Constraint: 1548; query; {activities:[30,31,34,39,44,12,41],t:89,query:8}
+IIS Constraint: 1549; query; {activities:[30,31,34,39,44,12,41],t:90,query:8}
+IIS Constraint: 1550; query; {activities:[30,31,34,39,44,12,41],t:91,query:8}
+IIS Constraint: 1551; query; {activities:[30,31,34,39,44,12,41],t:92,query:8}
+IIS Constraint: 1552; query; {activities:[30,31,34,39,44,12,41],t:93,query:8}
+IIS Constraint: 1553; query; {activities:[30,31,34,39,44,12,41],t:94,query:8}
+IIS Constraint: 1554; query; {activities:[30,31,34,39,44,12,41],t:95,query:8}
+IIS Constraint: 1555; query; {activities:[30,31,34,39,44,12,41],t:96,query:8}
+IIS Constraint: 1556; query; {activities:[30,31,34,39,44,12,41],t:97,query:8}
+IIS Constraint: 1557; query; {activities:[30,31,34,39,44,12,41],t:98,query:8}
+IIS Constraint: 1558; query; {activities:[30,31,34,39,44,12,41],t:99,query:8}
+IIS Constraint: 1559; query; {activities:[30,31,34,39,44,12,41],t:100,query:8}
+IIS Constraint: 1560; query; {activities:[30,31,34,39,44,12,41],t:101,query:8}
+IIS Constraint: 1561; query; {activities:[30,31,34,39,44,12,41],t:102,query:8}
+IIS Constraint: 1562; query; {activities:[30,31,34,39,44,12,41],t:103,query:8}
+IIS Constraint: 1563; query; {activities:[30,31,34,39,44,12,41],t:104,query:8}
+IIS Constraint: 1564; query; {activities:[30,31,34,39,44,12,41],t:105,query:8}
+IIS Constraint: 1565; query; {activities:[30,31,34,39,44,12,41],t:106,query:8}
+IIS Constraint: 1566; query; {activities:[30,31,34,39,44,12,41],t:107,query:8}
+IIS Constraint: 1567; query; {activities:[30,31,34,39,44,12,41],t:108,query:8}
+IIS Constraint: 1568; query; {activities:[30,31,34,39,44,12,41],t:109,query:8}
+IIS Constraint: 1569; query; {activities:[30,31,34,39,44,12,41],t:110,query:8}
+IIS Constraint: 1570; query; {activities:[30,31,34,39,44,12,41],t:111,query:8}
+IIS Constraint: 1571; query; {activities:[30,31,34,39,44,12,41],t:112,query:8}
+IIS Constraint: 1572; query; {activities:[30,31,34,39,44,12,41],t:113,query:8}
+IIS Constraint: 1573; query; {activities:[30,31,34,39,44,12,41],t:114,query:8}
+IIS Constraint: 1574; query; {activities:[30,31,34,39,44,12,41],t:115,query:8}
+IIS Constraint: 1575; query; {activities:[30,31,34,39,44,12,41],t:116,query:8}
+IIS Constraint: 1576; query; {activities:[30,31,34,39,44,12,41],t:117,query:8}
+IIS Constraint: 1577; query; {activities:[30,31,34,39,44,12,41],t:118,query:8}
+IIS Constraint: 1578; query; {activities:[30,31,34,39,44,12,41],t:119,query:8}
+IIS Constraint: 1579; query; {activities:[30,31,34,39,44,12,41],t:120,query:8}
+IIS Constraint: 1580; query; {activities:[30,31,34,39,44,12,41],t:121,query:8}
+IIS Constraint: 1581; query; {activities:[30,31,34,39,44,12,41],t:122,query:8}
+IIS Constraint: 1582; query; {activities:[30,31,34,39,44,12,41],t:123,query:8}
+IIS Constraint: 1583; query; {activities:[30,31,34,39,44,12,41],t:124,query:8}
+IIS Constraint: 1584; query; {activities:[30,31,34,39,44,12,41],t:125,query:8}
+IIS Constraint: 1585; query; {activities:[30,31,34,39,44,12,41],t:126,query:8}
+IIS Constraint: 1586; query; {activities:[30,31,34,39,44,12,41],t:127,query:8}
+IIS Constraint: 1587; query; {activities:[30,31,34,39,44,12,41],t:128,query:8}
+IIS Constraint: 1588; query; {activities:[30,31,34,39,44,12,41],t:129,query:8}
+IIS Constraint: 1589; query; {activities:[30,31,34,39,44,12,41],t:130,query:8}
+IIS Constraint: 1590; query; {activities:[30,31,34,39,44,12,41],t:131,query:8}
+IIS Constraint: 1591; query; {activities:[30,31,34,39,44,12,41],t:132,query:8}
+IIS Constraint: 1592; query; {activities:[30,31,34,39,44,12,41],t:133,query:8}
+IIS Constraint: 1593; query; {activities:[30,31,34,39,44,12,41],t:134,query:8}
+IIS Constraint: 1594; query; {activities:[30,31,34,39,44,12,41],t:135,query:8}
+IIS Constraint: 1595; query; {activities:[30,31,34,39,44,12,41],t:136,query:8}
+IIS Constraint: 1596; query; {activities:[30,31,34,39,44,12,41],t:137,query:8}
+IIS Constraint: 1597; query; {activities:[30,31,34,39,44,12,41],t:138,query:8}
+IIS Constraint: 1598; query; {activities:[30,31,34,39,44,12,41],t:139,query:8}
+IIS Constraint: 1599; query; {activities:[30,31,34,39,44,12,41],t:140,query:8}
+IIS Constraint: 1600; query; {activities:[30,31,34,39,44,12,41],t:141,query:8}
+IIS Constraint: 1601; query; {activities:[30,31,34,39,44,12,41],t:142,query:8}
+IIS Constraint: 1602; query; {activities:[30,31,34,39,44,12,41],t:143,query:8}
+IIS Constraint: 1603; query; {activities:[30,31,34,39,44,12,41],t:144,query:8}
+IIS Constraint: 1604; query; {activities:[30,31,34,39,44,12,41],t:145,query:8}
+IIS Constraint: 1605; query; {activities:[30,31,34,39,44,12,41],t:146,query:8}
+IIS Constraint: 1606; query; {activities:[30,31,34,39,44,12,41],t:147,query:8}
+IIS Constraint: 1607; query; {activities:[30,31,34,39,44,12,41],t:148,query:8}
+IIS Constraint: 1608; query; {activities:[30,31,34,39,44,12,41],t:149,query:8}
+IIS Constraint: 1609; query; {activities:[30,31,34,39,44,12,41],t:150,query:8}
+IIS Constraint: 1610; query; {activities:[30,31,34,39,44,12,41],t:151,query:8}
+IIS Constraint: 1611; query; {activities:[30,31,34,39,44,12,41],t:152,query:8}
+IIS Constraint: 1612; query; {activities:[30,31,34,39,44,12,41],t:153,query:8}
+IIS Constraint: 1613; query; {activities:[30,31,34,39,44,12,41],t:154,query:8}
+IIS Constraint: 1614; query; {activities:[30,31,34,39,44,12,41],t:155,query:8}
+IIS Constraint: 1615; query; {activities:[30,31,34,39,44,12,41],t:156,query:8}
+IIS Constraint: 1616; query; {activities:[30,31,34,39,44,12,41],t:157,query:8}
+IIS Constraint: 1617; query; {activities:[30,31,34,39,44,12,41],t:158,query:8}
+IIS Constraint: 1618; query; {activities:[30,31,34,39,44,12,41],t:159,query:8}
+IIS Constraint: 1619; query; {activities:[30,31,34,39,44,12,41],t:160,query:8}
+IIS Constraint: 1620; query; {activities:[30,31,34,39,44,12,41],t:161,query:8}
+IIS Constraint: 1621; query; {activities:[30,31,34,39,44,12,41],t:162,query:8}
+IIS Constraint: 1622; query; {activities:[30,31,34,39,44,12,41],t:163,query:8}
+IIS Constraint: 1623; query; {activities:[30,31,34,39,44,12,41],t:164,query:8}
+IIS Constraint: 1624; query; {activities:[30,31,34,39,44,12,41],t:165,query:8}
+IIS Constraint: 1625; query; {activities:[30,31,34,39,44,12,41],t:166,query:8}
+IIS Constraint: 1626; query; {activities:[30,31,34,39,44,12,41],t:167,query:8}
+IIS Constraint: 1627; query; {activities:[30,31,34,39,44,12,41],t:168,query:8}
+IIS Constraint: 1628; query; {activities:[30,31,34,39,44,12,41],t:169,query:8}
+IIS Constraint: 1629; query; {activities:[30,31,34,39,44,12,41],t:170,query:8}
+IIS Constraint: 1630; query; {activities:[30,31,34,39,44,12,41],t:171,query:8}
+IIS Constraint: 1631; query; {activities:[30,31,34,39,44,12,41],t:172,query:8}
+IIS Constraint: 1632; query; {activities:[30,31,34,39,44,12,41],t:173,query:8}
+IIS Constraint: 1633; query; {activities:[30,31,34,39,44,12,41],t:174,query:8}
+IIS Constraint: 1634; query; {activities:[30,31,34,39,44,12,41],t:175,query:8}
+IIS Constraint: 1635; query; {activities:[30,31,34,39,44,12,41],t:176,query:8}
+IIS Constraint: 1636; query; {activities:[30,31,34,39,44,12,41],t:177,query:8}
+IIS Constraint: 1637; query; {activities:[30,31,34,39,44,12,41],t:178,query:8}
+IIS Constraint: 1638; query; {activities:[30,31,34,39,44,12,41],t:179,query:8}
+IIS Constraint: 1639; query; {activities:[30,31,34,39,44,12,41],t:180,query:8}
+IIS Constraint: 1640; query; {activities:[30,31,34,39,44,12,41],t:181,query:8}
+IIS Constraint: 1641; query; {activities:[30,31,34,39,44,12,41],t:182,query:8}
+IIS Constraint: 1642; query; {activities:[30,31,34,39,44,12,41],t:183,query:8}
+IIS Constraint: 1643; query; {activities:[30,31,34,39,44,12,41],t:184,query:8}
+IIS Constraint: 1644; query; {activities:[30,31,34,39,44,12,41],t:185,query:8}
+IIS Constraint: 1645; query; {activities:[30,31,34,39,44,12,41],t:186,query:8}
+IIS Constraint: 1646; query; {activities:[30,31,34,39,44,12,41],t:187,query:8}
+IIS Constraint: 1647; query; {activities:[30,31,34,39,44,12,41],t:188,query:8}
+IIS Constraint: 1648; query; {activities:[30,31,34,39,44,12,41],t:189,query:8}
+IIS Constraint: 1649; query; {activities:[30,31,34,39,44,12,41],t:190,query:8}
+IIS Constraint: 1650; query; {activities:[30,31,34,39,44,12,41],t:191,query:8}
+IIS Constraint: 1651; query; {activities:[30,31,34,39,44,12,41],t:192,query:8}
+IIS Constraint: 1652; query; {activities:[30,31,34,39,44,12,41],t:193,query:8}
+IIS Constraint: 1653; query; {activities:[30,31,34,39,44,12,41],t:194,query:8}
+IIS Constraint: 1654; query; {activities:[30,31,34,39,44,12,41],t:195,query:8}
+IIS Constraint: 1655; query; {activities:[30,31,34,39,44,12,41],t:196,query:8}
+IIS Constraint: 1656; query; {activities:[30,31,34,39,44,12,41],t:197,query:8}
+IIS Constraint: 1657; query; {activities:[30,31,34,39,44,12,41],t:198,query:8}
+IIS Constraint: 1658; query; {activities:[30,31,34,39,44,12,41],t:199,query:8}
+IIS Constraint: 1659; query; {activities:[30,31,34,39,44,12,41],t:200,query:8}
+IIS Constraint: 1660; query; {activities:[30,31,34,39,44,12,41],t:201,query:8}
+IIS Constraint: 1661; query; {activities:[30,31,34,39,44,12,41],t:202,query:8}
+IIS Constraint: 1662; query; {activities:[30,31,34,39,44,12,41],t:203,query:8}
+IIS Constraint: 1663; query; {activities:[30,31,34,39,44,12,41],t:204,query:8}
+IIS Constraint: 1664; query; {activities:[30,31,34,39,44,12,41],t:205,query:8}
+IIS Constraint: 1665; query; {activities:[30,31,34,39,44,12,41],t:206,query:8}
+IIS Constraint: 1666; query; {activities:[30,31,34,39,44,12,41],t:207,query:8}
+IIS Constraint: 1667; query; {activities:[30,31,34,39,44,12,41],t:208,query:8}
+IIS Constraint: 1668; query; {activities:[30,31,34,39,44,12,41],t:209,query:8}
+IIS Constraint: 1669; query; {activities:[30,31,34,39,44,12,41],t:210,query:8}
+IIS Constraint: 1670; query; {activities:[30,31,34,39,44,12,41],t:211,query:8}
+IIS Constraint: 1671; query; {activities:[30,31,34,39,44,12,41],t:212,query:8}
+IIS Constraint: 1672; query; {activities:[30,31,34,39,44,12,41],t:213,query:8}
+IIS Constraint: 1673; query; {activities:[30,31,34,39,44,12,41],t:214,query:8}
+IIS Constraint: 1674; query; {activities:[30,31,34,39,44,12,41],t:215,query:8}
+IIS Constraint: 1675; query; {activities:[30,31,34,39,44,12,41],t:216,query:8}
+IIS Constraint: 1676; query; {activities:[30,31,34,39,44,12,41],t:217,query:8}
+IIS Constraint: 1677; query; {activities:[30,31,34,39,44,12,41],t:218,query:8}
+IIS Constraint: 1678; query; {activities:[30,31,34,39,44,12,41],t:219,query:8}
+IIS Constraint: 1679; query; {activities:[30,31,34,39,44,12,41],t:220,query:8}
+IIS Constraint: 1680; query; {activities:[30,31,34,39,44,12,41],t:221,query:8}
+IIS Constraint: 1681; query; {activities:[30,31,34,39,44,12,41],t:222,query:8}
+IIS Constraint: 1682; query; {activities:[30,31,34,39,44,12,41],t:223,query:8}
+IIS Constraint: 1683; query; {activities:[30,31,34,39,44,12,41],t:224,query:8}
+IIS Constraint: 1684; query; {activities:[30,31,34,39,44,12,41],t:225,query:8}
+IIS Constraint: 1685; query; {activities:[30,31,34,39,44,12,41],t:226,query:8}
+IIS Constraint: 1686; query; {activities:[30,31,34,39,44,12,41],t:227,query:8}
+IIS Constraint: 1687; query; {activities:[30,31,34,39,44,12,41],t:228,query:8}
+IIS Constraint: 1688; query; {activities:[30,31,34,39,44,12,41],t:229,query:8}
+IIS Constraint: 1689; query; {activities:[30,31,34,39,44,12,41],t:230,query:8}
+IIS Constraint: 1690; query; {activities:[30,31,34,39,44,12,41],t:231,query:8}
+IIS Constraint: 1691; query; {activities:[30,31,34,39,44,12,41],t:232,query:8}
+IIS Constraint: 1692; query; {activities:[30,31,34,39,44,12,41],t:233,query:8}
+IIS Constraint: 1693; query; {activities:[30,31,34,39,44,12,41],t:234,query:8}
+IIS Constraint: 1694; query; {activities:[30,31,34,39,44,12,41],t:235,query:8}
+IIS Constraint: 1695; query; {activities:[30,31,34,39,44,12,41],t:236,query:8}
+IIS Constraint: 1696; query; {activities:[30,31,34,39,44,12,41],t:237,query:8}
+IIS Constraint: 1697; query; {activities:[30,31,34,39,44,12,41],t:238,query:8}
+IIS Constraint: 1698; query; {activities:[30,31,34,39,44,12,41],t:239,query:8}
+IIS Constraint: 1699; query; {activities:[30,31,34,39,44,12,41],t:240,query:8}
+IIS Constraint: 1700; query; {activities:[30,31,34,39,44,12,41],t:241,query:8}
+IIS Constraint: 1701; query; {activities:[30,31,34,39,44,12,41],t:242,query:8}
+IIS Constraint: 1702; query; {activities:[30,31,34,39,44,12,41],t:243,query:8}
+IIS Constraint: 1703; query; {activities:[30,31,34,39,44,12,41],t:244,query:8}
+IIS Constraint: 1704; query; {activities:[30,31,34,39,44,12,41],t:245,query:8}
+IIS Constraint: 1705; query; {activities:[30,31,34,39,44,12,41],t:246,query:8}
+IIS Constraint: 1706; query; {activities:[30,31,34,39,44,12,41],t:247,query:8}
+IIS Constraint: 1707; query; {activities:[30,31,34,39,44,12,41],t:248,query:8}
+IIS Constraint: 1708; query; {activities:[30,31,34,39,44,12,41],t:249,query:8}
+IIS Constraint: 1709; query; {activities:[30,31,34,39,44,12,41],t:250,query:8}
+IIS Constraint: 1710; query; {activities:[30,31,34,39,44,12,41],t:251,query:8}
+IIS Constraint: 1711; query; {activities:[30,31,34,39,44,12,41],t:252,query:8}
+IIS Constraint: 1712; query; {activities:[30,31,34,39,44,12,41],t:253,query:8}
+IIS Constraint: 1713; query; {activities:[30,31,34,39,44,12,41],t:254,query:8}
+IIS Constraint: 1714; query; {activities:[30,31,34,39,44,12,41],t:255,query:8}
+IIS Constraint: 1715; query; {activities:[30,31,34,39,44,12,41],t:256,query:8}
+IIS Constraint: 1716; query; {activities:[30,31,34,39,44,12,41],t:257,query:8}
+IIS Constraint: 1717; query; {activities:[30,31,34,39,44,12,41],t:258,query:8}
+IIS Constraint: 1718; query; {activities:[30,31,34,39,44,12,41],t:259,query:8}
+IIS Constraint: 1719; query; {activities:[30,31,34,39,44,12,41],t:260,query:8}
+IIS Constraint: 1720; query; {activities:[30,31,34,39,44,12,41],t:261,query:8}
+IIS Constraint: 1721; query; {activities:[30,31,34,39,44,12,41],t:262,query:8}
+IIS Constraint: 1722; query; {activities:[30,31,34,39,44,12,41],t:263,query:8}
+IIS Constraint: 1723; query; {activities:[30,31,34,39,44,12,41],t:264,query:8}
+IIS Constraint: 1724; query; {activities:[30,31,34,39,44,12,41],t:265,query:8}
+IIS Constraint: 1725; query; {activities:[30,31,34,39,44,12,41],t:266,query:8}
+IIS Constraint: 1726; query; {activities:[30,31,34,39,44,12,41],t:267,query:8}
+IIS Constraint: 1727; query; {activities:[30,31,34,39,44,12,41],t:268,query:8}
+IIS Constraint: 1728; query; {activities:[30,31,34,39,44,12,41],t:269,query:8}
+IIS Constraint: 1729; query; {activities:[30,31,34,39,44,12,41],t:270,query:8}
+IIS Constraint: 1730; query; {activities:[30,31,34,39,44,12,41],t:271,query:8}
+IIS Constraint: 1731; query; {activities:[30,31,34,39,44,12,41],t:272,query:8}
+IIS Constraint: 1732; query; {activities:[30,31,34,39,44,12,41],t:273,query:8}
+IIS Constraint: 1733; query; {activities:[30,31,34,39,44,12,41],t:274,query:8}
+IIS Constraint: 1734; query; {activities:[30,31,34,39,44,12,41],t:275,query:8}
+IIS Constraint: 1735; query; {activities:[30,31,34,39,44,12,41],t:276,query:8}
+IIS Constraint: 1736; query; {activities:[30,31,34,39,44,12,41],t:277,query:8}
+IIS Constraint: 1737; query; {activities:[30,31,34,39,44,12,41],t:278,query:8}
+IIS Constraint: 1738; query; {activities:[30,31,34,39,44,12,41],t:279,query:8}
+IIS Constraint: 1739; query; {activities:[30,31,34,39,44,12,41],t:280,query:8}
+IIS Constraint: 1740; query; {activities:[30,31,34,39,44,12,41],t:281,query:8}
+IIS Constraint: 1741; query; {activities:[30,31,34,39,44,12,41],t:282,query:8}
+IIS Constraint: 1742; query; {activities:[30,31,34,39,44,12,41],t:283,query:8}
+IIS Constraint: 1743; query; {activities:[30,31,34,39,44,12,41],t:284,query:8}
+IIS Constraint: 1744; query; {activities:[30,31,34,39,44,12,41],t:285,query:8}
+IIS Constraint: 1745; query; {activities:[30,31,34,39,44,12,41],t:286,query:8}
+IIS Constraint: 1746; query; {activities:[30,31,34,39,44,12,41],t:287,query:8}
+IIS Constraint: 1747; query; {activities:[30,31,34,39,44,12,41],t:288,query:8}
+IIS Constraint: 1748; query; {activities:[30,31,34,39,44,12,41],t:289,query:8}
+IIS Constraint: 1749; query; {activities:[30,31,34,39,44,12,41],t:290,query:8}
+IIS Constraint: 1750; query; {activities:[30,31,34,39,44,12,41],t:291,query:8}
+IIS Constraint: 1751; query; {activities:[30,31,34,39,44,12,41],t:292,query:8}
+IIS Constraint: 1752; max; {f:79.0,objective:max}

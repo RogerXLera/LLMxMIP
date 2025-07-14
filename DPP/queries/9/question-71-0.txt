@@ -1,0 +1,1 @@
+query;Why is Database Design and Development planned at semester 4 instead of Systems Analysis and Design?

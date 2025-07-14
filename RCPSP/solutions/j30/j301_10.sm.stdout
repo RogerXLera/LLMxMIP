@@ -1,0 +1,37 @@
+------------------------------------------
+---------------- Solution ----------------
+------------------------------------------
+0. Activity: 1 t: 0 EF: 0
+1. Activity: 2 t: 4 EF: 4
+2. Activity: 3 t: 3 EF: 3
+3. Activity: 4 t: 10 EF: 10
+4. Activity: 5 t: 14 EF: 14
+5. Activity: 6 t: 33 EF: 19
+6. Activity: 7 t: 5 EF: 5
+7. Activity: 8 t: 20 EF: 12
+8. Activity: 9 t: 18 EF: 18
+9. Activity: 10 t: 27 EF: 19
+10. Activity: 11 t: 17 EF: 12
+11. Activity: 12 t: 27 EF: 22
+12. Activity: 13 t: 20 EF: 20
+13. Activity: 14 t: 22 EF: 22
+14. Activity: 15 t: 27 EF: 27
+15. Activity: 16 t: 30 EF: 23
+16. Activity: 17 t: 31 EF: 26
+17. Activity: 18 t: 19 EF: 13
+18. Activity: 19 t: 34 EF: 26
+19. Activity: 20 t: 10 EF: 10
+20. Activity: 21 t: 22 EF: 22
+21. Activity: 22 t: 8 EF: 8
+22. Activity: 23 t: 29 EF: 28
+23. Activity: 24 t: 34 EF: 29
+24. Activity: 25 t: 34 EF: 25
+25. Activity: 26 t: 31 EF: 30
+26. Activity: 27 t: 44 EF: 35
+27. Activity: 28 t: 37 EF: 32
+28. Activity: 29 t: 44 EF: 37
+29. Activity: 30 t: 39 EF: 35
+30. Activity: 31 t: 45 EF: 36
+31. Activity: 32 t: 45 EF: 37
+Objective value: 45.0
+Solving time: 1.46635

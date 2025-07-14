@@ -1,0 +1,6 @@
+venv/
+myenv/
+__pycache__/
+.DS_Store
+DPP/__pycache__/
+RCPSP/__pycache__/

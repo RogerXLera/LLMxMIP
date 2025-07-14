@@ -1,0 +1,21 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 5
+Query element: 300404,6
+Query scope: 180
+Query scope: 181
+Query scope: 182
+Query scope: 183
+Query scope: 184
+Query scope: 185
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.031
+IIS Constraint: 617; unit_skill; {skill:REQM,level:3}
+IIS Constraint: 619; unit_skill; {skill:BUAN,level:1}
+IIS Constraint: 621; unit_skill; {skill:BUAN,level:2}
+IIS Constraint: 623; unit_skill; {skill:BUAN,level:3}
+IIS Constraint: 629; unit_skill; {skill:SWDN,level:3}
+IIS Constraint: 634; query; {unit:300404,query:5}
+IIS Constraint: 635; max; {f:7.0,objective:max}

@@ -1,0 +1,1 @@
+query;Why is activity 30 completed at time period 64 instead of activity 32?

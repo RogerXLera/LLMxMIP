@@ -1,0 +1,43 @@
+IIS generation
+Instance: j306_4
+----------------------------
+Query: 2
+Query element:24,30
+Query scope: 3178
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 9.29007
+IIS Constraint: 4; completion; {activity:5}
+IIS Constraint: 5; completion; {activity:6}
+IIS Constraint: 6; completion; {activity:7}
+IIS Constraint: 8; completion; {activity:9}
+IIS Constraint: 12; completion; {activity:13}
+IIS Constraint: 23; completion; {activity:24}
+IIS Constraint: 39; precedence; {activity:8,predecessor:5}
+IIS Constraint: 41; precedence; {activity:10,predecessor:7}
+IIS Constraint: 42; precedence; {activity:11,predecessor:6}
+IIS Constraint: 46; precedence; {activity:15,predecessor:11}
+IIS Constraint: 47; precedence; {activity:16,predecessor:8}
+IIS Constraint: 50; precedence; {activity:18,predecessor:10}
+IIS Constraint: 51; precedence; {activity:19,predecessor:16}
+IIS Constraint: 58; precedence; {activity:24,predecessor:18}
+IIS Constraint: 59; precedence; {activity:24,predecessor:19}
+IIS Constraint: 61; precedence; {activity:26,predecessor:13}
+IIS Constraint: 62; precedence; {activity:26,predecessor:15}
+IIS Constraint: 68; precedence; {activity:29,predecessor:9}
+IIS Constraint: 73; precedence; {activity:30,predecessor:26}
+IIS Constraint: 77; precedence; {activity:32,predecessor:29}
+IIS Constraint: 78; precedence; {activity:32,predecessor:30}
+IIS Constraint: 94; renewable; {resource:1,t:14}
+IIS Constraint: 96; renewable; {resource:1,t:16}
+IIS Constraint: 99; renewable; {resource:1,t:19}
+IIS Constraint: 102; renewable; {resource:1,t:22}
+IIS Constraint: 104; renewable; {resource:1,t:24}
+IIS Constraint: 107; renewable; {resource:1,t:27}
+IIS Constraint: 110; renewable; {resource:1,t:30}
+IIS Constraint: 112; renewable; {resource:1,t:32}
+IIS Constraint: 422; renewable; {resource:3,t:4}
+IIS Constraint: 424; renewable; {resource:3,t:6}
+IIS Constraint: 428; renewable; {resource:3,t:10}
+IIS Constraint: 756; query; {activity:24,t:30,query:2}
+IIS Constraint: 757; max; {f:42.0,objective:max}

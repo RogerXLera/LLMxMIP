@@ -1,0 +1,15 @@
+IIS generation
+Instance: j12020_3
+----------------------------
+Query: 6
+Query element:95,72
+Query element:100,72
+Query element:99,71
+Query element:108,71
+Query scope: 62300
+Query scope: 65607
+Query scope: 64957
+Query scope: 70884
+----------------------------
+IIS optimality: optimal
+IIS solution time: 442.91382

@@ -1,0 +1,13 @@
+IIS generation
+Instance: j9037_7
+----------------------------
+Query: 6
+Query element:63,103
+Query element:74,99
+Query scope: 25356
+Query scope: 29722
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.36951
+IIS Constraint: 1359; renewable; {resource:3,t:103}
+IIS Constraint: 2226; query; {activities:[63,74],t:103,query:6}

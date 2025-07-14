@@ -1,0 +1,16 @@
+IIS generation
+Instance: j12020_4
+----------------------------
+Query: 6
+Query element:93,63
+Query element:113,63
+Query element:90,62
+Query scope: 53163
+Query scope: 64686
+Query scope: 51414
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 1.40111
+IIS Constraint: 92; completion; {activity:93}
+IIS Constraint: 235; precedence; {activity:93,predecessor:90}
+IIS Constraint: 2865; query; {activities:[93,113,90],t:63,query:6}

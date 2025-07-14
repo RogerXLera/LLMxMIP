@@ -1,0 +1,1 @@
+query;Why is activity 31 not completed before time period 53?

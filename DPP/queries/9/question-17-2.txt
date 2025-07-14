@@ -1,0 +1,1 @@
+query;Why is Database Design and Development planned at semester 2 instead of Computer Networks and Internets ?

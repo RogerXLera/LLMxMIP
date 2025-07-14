@@ -1,0 +1,17 @@
+constraint,query,text
+completion,0,activity {a} must be completed
+precedence,0,activity {pred} must be completed before starting activity {a}
+renewable,0,resource {r} is scarce at time period {t} due to activities {A}
+nonrenewable,0,resource {r} is scarce
+query,1,Activity {a} is completed at time period {t}
+query,2,Activity {a} is not completed at time period {t}
+query,3,Activity {a} is not completed before time period {t}
+query,4,Activity {a} is not completed after time period {t}
+query,5,The subset of activities {A} is completed at time period {t}
+query,6,The subset of activities {A} is not completed at time period {t}
+query,7,The subset of activities {A} is completed at the same time period
+query,8,The subset of activities {A} is not completed at the same time period
+query,9,Activity {a} is completed at time period {t} instead of time period {t_}
+query,10,Activity {a} completed at time period {t} instead of activity {a_}
+query,11,There are {type_} than {n_t} activities finished at time {t}
+max,0,extends the length of the project beyond time period {t}

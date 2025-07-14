@@ -1,0 +1,15 @@
+IIS generation
+Instance: j12019_4
+----------------------------
+Query: 5
+Query element:119,124
+Query element:120,124
+Query element:121,124
+Query element:122,124
+Query scope: 68881
+Query scope: 69438
+Query scope: 70020
+Query scope: 70577
+----------------------------
+IIS optimality: optimal
+IIS solution time: 85.45713

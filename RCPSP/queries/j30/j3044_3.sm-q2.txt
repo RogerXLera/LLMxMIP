@@ -1,0 +1,1 @@
+query;Why is activity 23 not completed at time period 95?

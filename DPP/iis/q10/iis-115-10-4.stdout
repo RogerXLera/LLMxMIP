@@ -1,0 +1,47 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300961,1
+Query element: 300136,1
+Query scope: 378
+Query scope: 126
+Query scope: 379
+Query scope: 127
+Query scope: 380
+Query scope: 128
+Query scope: 381
+Query scope: 129
+Query scope: 382
+Query scope: 130
+Query scope: 383
+Query scope: 131
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.140
+IIS Constraint: 617; unit_skill; {skill:BSMO,level:3}
+IIS Constraint: 619; unit_skill; {skill:BSMO,level:4}
+IIS Constraint: 621; unit_skill; {skill:BPRE,level:1}
+IIS Constraint: 623; unit_skill; {skill:BPRE,level:2}
+IIS Constraint: 625; unit_skill; {skill:BPRE,level:3}
+IIS Constraint: 627; unit_skill; {skill:BPRE,level:4}
+IIS Constraint: 629; unit_skill; {skill:BPRE,level:5}
+IIS Constraint: 633; unit_skill; {skill:CNSL,level:2}
+IIS Constraint: 635; unit_skill; {skill:CNSL,level:3}
+IIS Constraint: 637; unit_skill; {skill:CNSL,level:4}
+IIS Constraint: 639; unit_skill; {skill:CNSL,level:5}
+IIS Constraint: 649; unit_skill; {skill:TECH,level:5}
+IIS Constraint: 651; unit_skill; {skill:ITSP,level:1}
+IIS Constraint: 653; unit_skill; {skill:ITSP,level:2}
+IIS Constraint: 655; unit_skill; {skill:ITSP,level:3}
+IIS Constraint: 657; unit_skill; {skill:ITSP,level:4}
+IIS Constraint: 659; unit_skill; {skill:ITSP,level:5}
+IIS Constraint: 665; unit_skill; {skill:EMRG,level:3}
+IIS Constraint: 667; unit_skill; {skill:EMRG,level:4}
+IIS Constraint: 673; unit_skill; {skill:INAS,level:3}
+IIS Constraint: 675; unit_skill; {skill:INAS,level:4}
+IIS Constraint: 677; unit_skill; {skill:INAS,level:5}
+IIS Constraint: 679; unit_skill; {skill:STPL,level:1}
+IIS Constraint: 681; unit_skill; {skill:STPL,level:2}
+IIS Constraint: 688; query; {unit:300961,query:10}
+IIS Constraint: 690; max; {f:15.0,objective:max}

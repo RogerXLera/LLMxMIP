@@ -1,0 +1,11 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 2
+Query element: 300961,3
+Query scope: 380
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.010
+IIS Constraint: 135; offer; {unit:300961,season:au}
+IIS Constraint: 718; query; {unit:300961,semester:3,query:2}

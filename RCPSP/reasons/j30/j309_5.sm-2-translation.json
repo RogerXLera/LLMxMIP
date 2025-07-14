@@ -1,0 +1,1 @@
+{"query": "Activity 16 is not completed at time period 74", "p:30/16": "activity 16 must be completed before starting activity 30", "p:32/30": "activity 30 must be completed before starting activity 32", "m": "extends the length of the project beyond time period 70"}

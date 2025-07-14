@@ -1,0 +1,52 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 5
+Query element: 301204,6
+Query scope: 480
+Query scope: 481
+Query scope: 482
+Query scope: 483
+Query scope: 484
+Query scope: 485
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.184
+IIS Constraint: 619; unit_skill; {skill:CNSL,level:4}
+IIS Constraint: 621; unit_skill; {skill:CNSL,level:5}
+IIS Constraint: 631; unit_skill; {skill:TECH,level:5}
+IIS Constraint: 633; unit_skill; {skill:TECH,level:6}
+IIS Constraint: 635; unit_skill; {skill:INOV,level:1}
+IIS Constraint: 637; unit_skill; {skill:INOV,level:2}
+IIS Constraint: 639; unit_skill; {skill:INOV,level:3}
+IIS Constraint: 641; unit_skill; {skill:INOV,level:4}
+IIS Constraint: 643; unit_skill; {skill:INOV,level:5}
+IIS Constraint: 653; unit_skill; {skill:DESN,level:5}
+IIS Constraint: 655; unit_skill; {skill:ARCH,level:1}
+IIS Constraint: 657; unit_skill; {skill:ARCH,level:2}
+IIS Constraint: 659; unit_skill; {skill:ARCH,level:3}
+IIS Constraint: 661; unit_skill; {skill:ARCH,level:4}
+IIS Constraint: 663; unit_skill; {skill:ARCH,level:5}
+IIS Constraint: 665; unit_skill; {skill:ARCH,level:6}
+IIS Constraint: 671; unit_skill; {skill:GOVN,level:3}
+IIS Constraint: 673; unit_skill; {skill:GOVN,level:4}
+IIS Constraint: 675; unit_skill; {skill:GOVN,level:5}
+IIS Constraint: 677; unit_skill; {skill:DCMA,level:1}
+IIS Constraint: 679; unit_skill; {skill:DCMA,level:2}
+IIS Constraint: 681; unit_skill; {skill:DCMA,level:3}
+IIS Constraint: 683; unit_skill; {skill:DCMA,level:4}
+IIS Constraint: 685; unit_skill; {skill:DCMA,level:5}
+IIS Constraint: 687; unit_skill; {skill:DCMA,level:6}
+IIS Constraint: 693; unit_skill; {skill:EMRG,level:3}
+IIS Constraint: 695; unit_skill; {skill:EMRG,level:4}
+IIS Constraint: 697; unit_skill; {skill:EMRG,level:5}
+IIS Constraint: 699; unit_skill; {skill:EMRG,level:6}
+IIS Constraint: 709; unit_skill; {skill:NTDS,level:5}
+IIS Constraint: 711; unit_skill; {skill:NTDS,level:6}
+IIS Constraint: 719; unit_skill; {skill:NTPL,level:1}
+IIS Constraint: 721; unit_skill; {skill:NTPL,level:2}
+IIS Constraint: 723; unit_skill; {skill:NTPL,level:3}
+IIS Constraint: 725; unit_skill; {skill:NTPL,level:4}
+IIS Constraint: 727; unit_skill; {skill:NTPL,level:5}
+IIS Constraint: 730; query; {unit:301204,query:5}
+IIS Constraint: 731; max; {f:24.0,objective:max}

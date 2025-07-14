@@ -1,0 +1,21 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300103,1
+Query element: 301164,1
+Query scope: 84
+Query scope: 456
+Query scope: 85
+Query scope: 457
+Query scope: 86
+Query scope: 458
+Query scope: 87
+Query scope: 459
+Query scope: 88
+Query scope: 460
+Query scope: 89
+Query scope: 461
+----------------------------
+IIS optimality: optimal
+IIS solution time: 0.023

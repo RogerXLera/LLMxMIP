@@ -1,0 +1,22 @@
+constraint,query,text
+completion,0,{u} cannot be planned more than ones
+offer,0,{u} cannot be planned during {season} semesters
+credits,0,{n_credits} must be planned during semester {l}
+precedence,0,{pred} must be planned before {u}
+core,0,{u} is compulsory
+major_completion,0,students must complete one major
+major_core,0,{u} is compulsory for completing {m} major
+major_electives,0,{n_units} electives from the set of courses {U} must be complete to obtain {m} major
+unit_skill,0,Level {lev} of skill {s} is acquired by coursing {U}
+skill_level,0,{job} requires level {lev} of skill {s}
+query,1,{u} is planned at semester {l}
+query,2,{u} is not planned at semester {l}
+query,3,{u} is not planned before semester {l}
+query,4,{u} is not planned after semester {l}
+query,5,{u} is planned
+query,6,{u} is not planned
+query,7,The subset of courses {U} is planned at semester {l}
+query,8,The subset of courses {U} is not planned at semester {l}
+query,9,{u} is planned at semester {l} instead of course {u_}
+query,10,{u} is planned instead of {u_}
+max,0,reduce the percentage of skills learnt below {job_affinity}% 

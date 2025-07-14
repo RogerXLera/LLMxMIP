@@ -1,0 +1,67 @@
+------------------------------------------
+---------------- Solution ----------------
+------------------------------------------
+0. Activity: 1 t: 0 EF: 0
+1. Activity: 2 t: 3 EF: 3
+2. Activity: 3 t: 14 EF: 6
+3. Activity: 4 t: 1 EF: 1
+4. Activity: 5 t: 22 EF: 14
+5. Activity: 6 t: 9 EF: 9
+6. Activity: 7 t: 13 EF: 11
+7. Activity: 8 t: 8 EF: 8
+8. Activity: 9 t: 36 EF: 14
+9. Activity: 10 t: 18 EF: 18
+10. Activity: 11 t: 12 EF: 12
+11. Activity: 12 t: 51 EF: 13
+12. Activity: 13 t: 30 EF: 23
+13. Activity: 14 t: 32 EF: 23
+14. Activity: 15 t: 45 EF: 30
+15. Activity: 16 t: 44 EF: 33
+16. Activity: 17 t: 25 EF: 25
+17. Activity: 18 t: 59 EF: 23
+18. Activity: 19 t: 38 EF: 8
+19. Activity: 20 t: 23 EF: 14
+20. Activity: 21 t: 79 EF: 42
+21. Activity: 22 t: 62 EF: 37
+22. Activity: 23 t: 54 EF: 42
+23. Activity: 24 t: 35 EF: 24
+24. Activity: 25 t: 59 EF: 21
+25. Activity: 26 t: 38 EF: 15
+26. Activity: 27 t: 69 EF: 23
+27. Activity: 28 t: 64 EF: 33
+28. Activity: 29 t: 45 EF: 30
+29. Activity: 30 t: 82 EF: 28
+30. Activity: 31 t: 93 EF: 47
+31. Activity: 32 t: 54 EF: 35
+32. Activity: 33 t: 53 EF: 23
+33. Activity: 34 t: 73 EF: 51
+34. Activity: 35 t: 111 EF: 29
+35. Activity: 36 t: 84 EF: 47
+36. Activity: 37 t: 99 EF: 45
+37. Activity: 38 t: 69 EF: 47
+38. Activity: 39 t: 64 EF: 27
+39. Activity: 40 t: 84 EF: 38
+40. Activity: 41 t: 131 EF: 50
+41. Activity: 42 t: 101 EF: 61
+42. Activity: 43 t: 123 EF: 69
+43. Activity: 44 t: 88 EF: 51
+44. Activity: 45 t: 91 EF: 51
+45. Activity: 46 t: 110 EF: 60
+46. Activity: 47 t: 115 EF: 64
+47. Activity: 48 t: 111 EF: 71
+48. Activity: 49 t: 83 EF: 61
+49. Activity: 50 t: 113 EF: 73
+50. Activity: 51 t: 99 EF: 54
+51. Activity: 52 t: 120 EF: 79
+52. Activity: 53 t: 111 EF: 61
+53. Activity: 54 t: 123 EF: 71
+54. Activity: 55 t: 128 EF: 62
+55. Activity: 56 t: 137 EF: 73
+56. Activity: 57 t: 129 EF: 77
+57. Activity: 58 t: 137 EF: 87
+58. Activity: 59 t: 145 EF: 87
+59. Activity: 60 t: 147 EF: 97
+60. Activity: 61 t: 147 EF: 82
+61. Activity: 62 t: 147 EF: 97
+Objective value: 147.0
+Solving time: 36000.01362

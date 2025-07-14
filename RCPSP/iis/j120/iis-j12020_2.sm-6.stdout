@@ -1,0 +1,22 @@
+IIS generation
+Instance: j12020_2
+----------------------------
+Query: 6
+Query element:94,73
+Query element:66,69
+Query element:86,69
+Query element:105,69
+Query scope: 55429
+Query scope: 38487
+Query scope: 50605
+Query scope: 61824
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 83.73137
+IIS Constraint: 258; precedence; {activity:106,predecessor:66}
+IIS Constraint: 276; precedence; {activity:112,predecessor:106}
+IIS Constraint: 286; precedence; {activity:116,predecessor:112}
+IIS Constraint: 295; precedence; {activity:119,predecessor:116}
+IIS Constraint: 302; precedence; {activity:122,predecessor:119}
+IIS Constraint: 2941; query; {activities:[94,66,86,105],t:73,query:6}
+IIS Constraint: 2942; max; {f:99.0,objective:max}

@@ -1,0 +1,15 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                      | semesters  | credits | compulsory | 
+|-------------------------------|------------|---------|------------| 
+| Video Games Development       | 2 (Spring) | 10      | No         | 
+| Operating Systems Programming | 5 (Autumn) | 10      | Yes        | 
+
+Question: Why is the subset of courses Operating Systems Programming, Video Games Development not planned at semester 5? 
+Reasons: 
+0: The subset of courses Operating Systems Programming, Video Games Development is not planned at semester 5 
+1: Video Games Development cannot be planned during autumn semesters 
+Connections: 
+(0-1) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

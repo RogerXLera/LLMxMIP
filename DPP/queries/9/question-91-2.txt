@@ -1,0 +1,1 @@
+query;Why is Computer Security planned at semester 6 instead of Operating Systems Programming?

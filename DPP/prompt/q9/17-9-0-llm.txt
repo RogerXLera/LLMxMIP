@@ -1,0 +1,32 @@
+The bachelor's degree planning problem is the problem of finding a bachelor's degree plan of university subjects that respect some precedence and university restrictions (e.g., subjects can only be completed once, subjects are offered in particular semesters, there are compulsory subjects, and not to plan more than 40 credits per semester) while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, reason about the provided solution and the restrictions of a bachelor's degree. 
+Solution: 
+| subjects                                   | semesters  | offered        | predecessors                                                                                 | compulsory | preferred job skills (level) | 
+|--------------------------------------------|------------|----------------|----------------------------------------------------------------------------------------------|------------|------------------------------| 
+| Human-Computer Interaction                 | 1 (Autumn) | Autumn, Summer | -                                                                                            | Yes        | -                            | 
+| Professional Development                   | 1 (Autumn) | Autumn, Summer | -                                                                                            | Yes        | -                            | 
+| Programming Fundamentals                   | 1 (Autumn) | Spring, Autumn | -                                                                                            | Yes        | -                            | 
+| Statistical Decision Making                | 1 (Autumn) | Autumn         | -                                                                                            | Yes        | -                            | 
+| Database Design and Development            | 2 (Spring) | Spring, Summer | -                                                                                            | Yes        | -                            | 
+| Object Oriented Programming                | 2 (Spring) | Spring         | Programming Fundamentals                                                                     | No         | -                            | 
+| Video Games Development                    | 2 (Spring) | Spring         | Programming Fundamentals                                                                     | No         | -                            | 
+| Management Analytics                       | 2 (Spring) | Spring, Autumn | -                                                                                            | No         | -                            | 
+| Computer Graphics                          | 3 (Autumn) | Autumn         | Object Oriented Programming, Programming Techniques, Technologies for Web Applications       | No         | -                            | 
+| Games Technology                           | 3 (Autumn) | Autumn         | -                                                                                            | No         | -                            | 
+| Systems Analysis and Design                | 3 (Autumn) | Autumn         | -                                                                                            | Yes        | REQM (2)                     | 
+| 3D Modelling Fundamentals                  | 3 (Autumn) | Autumn         | -                                                                                            | No         | -                            | 
+| Principles of Professional Communication 1 | 4 (Spring) | Spring, Autumn | -                                                                                            | Yes        | -                            | 
+| Computer Networking                        | 4 (Spring) | Spring         | -                                                                                            | Yes        | -                            | 
+| Analysis of Change                         | 4 (Spring) | Spring         | -                                                                                            | No         | -                            | 
+| Social Web Analytics                       | 4 (Spring) | Spring         | Statistical Decision Making, Biometry, Statistics for Business                               | Yes        | -                            | 
+| Computer Networks and Internets            | 5 (Autumn) | Autumn         | Computer Networking                                                                          | Yes        | -                            | 
+| Object Oriented Analysis                   | 5 (Autumn) | Autumn         | Systems Analysis and Design                                                                  | Yes        | REQM (2)                     | 
+| Technologies for Web Applications          | 5 (Autumn) | Autumn, Summer | Programming Fundamentals                                                                     | Yes        | -                            | 
+| Operating Systems Programming              | 5 (Autumn) | Autumn         | Programming Techniques, Object Oriented Programming                                          | Yes        | -                            | 
+| Quantitative Project                       | 6 (Spring) | Spring         | -                                                                                            | No         | -                            | 
+| Professional Experience                    | 6 (Spring) | Spring, Autumn | Database Design and Development, Technologies for Web Applications, Professional Development | Yes        | -                            | 
+| Programming Techniques                     | 6 (Spring) | Spring         | Programming Fundamentals                                                                     | Yes        | -                            | 
+| Web Systems Development                    | 6 (Spring) | Spring         | Technologies for Web Applications                                                            | Yes        | -                            | 
+
+Question: Why is 3D Modelling Fundamentals planned at semester 3 instead of Object Oriented Programming? 
+
+Write a brief explanation without listing reasons. 

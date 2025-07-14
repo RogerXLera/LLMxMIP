@@ -1,0 +1,13 @@
+IIS generation
+Instance: j6015_7
+----------------------------
+Query: 2
+Query element:45,178
+Query scope: 12668
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.38827
+IIS Constraint: 147; precedence; {activity:60,predecessor:45}
+IIS Constraint: 153; precedence; {activity:62,predecessor:60}
+IIS Constraint: 1487; query; {activity:45,t:178,query:2}
+IIS Constraint: 1488; max; {f:64.0,objective:max}

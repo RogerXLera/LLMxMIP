@@ -1,0 +1,166 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                          | semesters  | credits | compulsory | 
+|-----------------------------------|------------|---------|------------| 
+| Human-Computer Interaction        | 1 (Autumn) | 10      | Yes        | 
+| Professional Development          | 1 (Autumn) | 10      | Yes        | 
+| Statistical Decision Making       | 1 (Autumn) | 10      | Yes        | 
+| Discrete Mathematics              | 3 (Autumn) | 10      | No         | 
+| Data Structures and Algorithms    | 3 (Autumn) | 10      | No         | 
+| Systems Analysis and Design       | 3 (Autumn) | 10      | Yes        | 
+| Operating Systems Programming     | 3 (Autumn) | 10      | Yes        | 
+| Computer Networks and Internets   | 5 (Autumn) | 10      | Yes        | 
+| Object Oriented Analysis          | 5 (Autumn) | 10      | Yes        | 
+| Technologies for Web Applications | 5 (Autumn) | 10      | Yes        | 
+| Wireless and Mobile Networks      | 5 (Autumn) | 10      | No         | 
+
+Question: Why is Wireless and Mobile Networks planned instead of Analysis? 
+Reasons: 
+0: Wireless and Mobile Networks is planned instead of Analysis 
+1: Analysis cannot be planned during spring semesters 
+2: 40 must be planned during semester 1 
+3: 40 must be planned during semester 3 
+4: 40 must be planned during semester 5 
+5: Advanced Calculus must be planned before Analysis 
+6: Wireless and Mobile Networks is compulsory for completing Mobile Computing major 
+7: Wireless and Mobile Networks is compulsory for completing Networking major 
+8: Mathematics 1B must be planned before Advanced Calculus 
+9: Mathematics 1A must be planned before Mathematics 1B 
+10: Computer Networks and Internets  is compulsory 
+11: Object Oriented Analysis is compulsory 
+12: Human-Computer Interaction is compulsory 
+13: Professional Development is compulsory 
+14: Technologies for Web Applications is compulsory 
+15: Systems Analysis and Design is compulsory 
+16: Operating Systems Programming is compulsory 
+17: Statistical Decision Making is compulsory 
+18: Data Structures and Algorithms is compulsory for completing Cyber Security major 
+19: Ethical Hacking Principles and Practice is compulsory for completing Cyber Security major 
+20: Computer Graphics is compulsory for completing Entertainment Computing major 
+21: Games Technology is compulsory for completing Entertainment Computing major 
+22: Clinical Classification and Coding is compulsory for completing Health Informatics major 
+23: Fundamentals of Medical Concepts and Terminology is compulsory for completing Health Informatics major 
+24: Discrete Mathematics is compulsory for completing Mathematics major 
+25: Abstract Algebra is compulsory for completing Mathematics major 
+26: Advanced Calculus cannot be planned during spring semesters 
+27: students must complete one major 
+28: Computer Networks and Internets  cannot be planned during spring semesters 
+29: Object Oriented Analysis cannot be planned during spring semesters 
+30: Human-Computer Interaction cannot be planned during spring semesters 
+31: Professional Development cannot be planned during spring semesters 
+32: Technologies for Web Applications cannot be planned during spring semesters 
+33: Systems Analysis and Design cannot be planned during spring semesters 
+34: Operating Systems Programming cannot be planned during spring semesters 
+35: Statistical Decision Making cannot be planned during spring semesters 
+36: Data Structures and Algorithms cannot be planned during spring semesters 
+37: Ethical Hacking Principles and Practice cannot be planned during spring semesters 
+38: Computer Graphics cannot be planned during spring semesters 
+39: Games Technology cannot be planned during spring semesters 
+40: Clinical Classification and Coding cannot be planned during spring semesters 
+41: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+42: Discrete Mathematics cannot be planned during spring semesters 
+43: Abstract Algebra cannot be planned during spring semesters 
+Connections: 
+(0-1) 
+(0-2) 
+(0-3) 
+(0-4) 
+(0-5) 
+(0-6) 
+(0-7) 
+(2-5) 
+(2-8) 
+(2-9) 
+(2-10) 
+(2-11) 
+(2-12) 
+(2-13) 
+(2-14) 
+(2-15) 
+(2-16) 
+(2-17) 
+(2-18) 
+(2-19) 
+(2-20) 
+(2-21) 
+(2-22) 
+(2-23) 
+(2-24) 
+(2-25) 
+(2-6) 
+(2-7) 
+(3-5) 
+(3-8) 
+(3-10) 
+(3-11) 
+(3-12) 
+(3-13) 
+(3-14) 
+(3-15) 
+(3-16) 
+(3-17) 
+(3-18) 
+(3-19) 
+(3-20) 
+(3-21) 
+(3-22) 
+(3-23) 
+(3-24) 
+(3-25) 
+(3-6) 
+(3-7) 
+(4-5) 
+(4-10) 
+(4-11) 
+(4-12) 
+(4-13) 
+(4-14) 
+(4-15) 
+(4-16) 
+(4-17) 
+(4-18) 
+(4-19) 
+(4-20) 
+(4-21) 
+(4-22) 
+(4-23) 
+(4-24) 
+(4-25) 
+(4-6) 
+(4-7) 
+(5-26) 
+(5-8) 
+(6-27) 
+(6-7) 
+(7-27) 
+(8-9) 
+(10-28) 
+(11-29) 
+(12-30) 
+(13-31) 
+(14-32) 
+(15-33) 
+(16-34) 
+(17-35) 
+(18-36) 
+(18-27) 
+(18-19) 
+(19-37) 
+(19-27) 
+(20-38) 
+(20-27) 
+(20-21) 
+(21-39) 
+(21-27) 
+(22-40) 
+(22-27) 
+(22-23) 
+(23-41) 
+(23-27) 
+(24-42) 
+(24-27) 
+(24-25) 
+(25-43) 
+(25-27) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

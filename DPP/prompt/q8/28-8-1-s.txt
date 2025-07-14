@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects              | semesters  | credits | compulsory | 
+|-----------------------|------------|---------|------------| 
+| Computer Organisation | 4 (Spring) | 10      | No         | 
+| Games Technology      | 5 (Autumn) | 10      | No         | 
+
+Question: Why is the subset of courses Computer Organisation, Games Technology not planned at semester 4? 
+Reasons: 
+0: The subset of courses Computer Organisation, Games Technology is not planned at semester 4 
+1: Games Technology cannot be planned during spring semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

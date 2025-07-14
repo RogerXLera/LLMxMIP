@@ -1,0 +1,1 @@
+query;Why is the subset of activities 14, 19 completed at the same time period?

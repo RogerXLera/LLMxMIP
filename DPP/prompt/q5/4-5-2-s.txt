@@ -1,0 +1,28 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Data Structures and Algorithms | 3 (Autumn) | 10      | No         | 
+| Formal Software Engineering    | 6 (Spring) | 10      | No         | 
+
+Question: Why is Data Structures and Algorithms planned? 
+Reasons: 
+0: Data Structures and Algorithms is planned 
+1: Formal Software Engineering cannot be planned during autumn semesters 
+2: Artificial Intelligence cannot be planned during autumn semesters 
+3: Data Structures and Algorithms must be planned before Formal Software Engineering 
+4: Data Structures and Algorithms must be planned before Artificial Intelligence 
+5: Level 4 of skill Systems Development Management is acquired by coursing Professional Experience 
+6: Level 5 of skill Systems Development Management is acquired by coursing Professional Experience 
+7: There is no course that teaches level 1 of skill Availability Management 
+8: There is no course that teaches level 2 of skill Availability Management 
+9: There is no course that teaches level 3 of skill Availability Management 
+10: There is no course that teaches level 4 of skill Availability Management 
+11: Level 5 of skill Systems Design is acquired by coursing Object Oriented Analysis, Information Systems in Context, Professional Experience, Systems Analysis and Design, Healthcare Software and Systems,  or Cloud Computing Architecture 
+12: Level 4 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+13: Level 5 of skill Methods and Tools is acquired by coursing Statistics for Business, Computer Graphics, Developing Web Applications with XML, Distributed Systems and Programming, LAN Workshop, Object Oriented Programming, Formal Software Engineering, Games Technology, Computer Security, Technologies for Web Applications, Web Systems Development, Video Games Development, Environmental Informatics, Analytics Programming, Thinking About Data, Applications of Big Data, Management Analytics, 3D Modelling Fundamentals, Simulation Fundamentals, Artificial Intelligence, Introduction to Cloud Computing ,  or Robotic Programming 
+14: Level 4 of skill Systems Integration is acquired by coursing Information Systems Deployment and Management, Professional Experience,  or Web Systems Development 
+15: Level 5 of skill Systems Integration is acquired by coursing Information Systems Deployment and Management, Professional Experience,  or Web Systems Development 
+16: reduce the percentage of skills learnt below 64%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

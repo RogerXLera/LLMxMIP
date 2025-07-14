@@ -1,0 +1,28 @@
+IIS generation
+Instance: j12022_2
+----------------------------
+Query: 3
+Query element:92,81
+Query scope: 56724
+Query scope: 56725
+Query scope: 56726
+Query scope: 56727
+Query scope: 56728
+Query scope: 56729
+Query scope: 56730
+Query scope: 56731
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 5221.85292
+IIS Constraint: 102; completion; {activity:103}
+IIS Constraint: 293; precedence; {activity:106,predecessor:103}
+IIS Constraint: 301; precedence; {activity:109,predecessor:106}
+IIS Constraint: 308; precedence; {activity:111,predecessor:109}
+IIS Constraint: 328; precedence; {activity:118,predecessor:111}
+IIS Constraint: 338; precedence; {activity:121,predecessor:118}
+IIS Constraint: 341; precedence; {activity:122,predecessor:121}
+IIS Constraint: 414; renewable; {resource:1,t:72}
+IIS Constraint: 417; renewable; {resource:1,t:75}
+IIS Constraint: 420; renewable; {resource:1,t:78}
+IIS Constraint: 3158; query; {activity:92,t:81,query:3}
+IIS Constraint: 3159; max; {f:107.0,objective:max}

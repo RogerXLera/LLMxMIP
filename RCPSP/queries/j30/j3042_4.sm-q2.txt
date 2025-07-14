@@ -1,0 +1,1 @@
+query;Why is activity 16 not completed at time period 101?

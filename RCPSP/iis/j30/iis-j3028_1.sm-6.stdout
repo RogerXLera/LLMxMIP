@@ -1,0 +1,15 @@
+IIS generation
+Instance: j3028_1
+----------------------------
+Query: 6
+Query element:9,30
+Query element:11,24
+Query element:19,24
+Query element:28,24
+Query scope: 890
+Query scope: 1132
+Query scope: 2024
+Query scope: 3045
+----------------------------
+IIS optimality: optimal
+IIS solution time: 0.25587

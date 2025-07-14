@@ -1,0 +1,19 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 5
+Query element: 300569,6
+Query scope: 204
+Query scope: 205
+Query scope: 206
+Query scope: 207
+Query scope: 208
+Query scope: 209
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 0.014
+IIS Constraint: 613; unit_skill; {skill:DGFS,level:1}
+IIS Constraint: 615; unit_skill; {skill:DGFS,level:2}
+IIS Constraint: 617; unit_skill; {skill:DGFS,level:3}
+IIS Constraint: 620; query; {unit:300569,query:5}
+IIS Constraint: 621; max; {f:2.0,objective:max}

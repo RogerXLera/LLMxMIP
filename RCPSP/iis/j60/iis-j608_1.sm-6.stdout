@@ -1,0 +1,13 @@
+IIS generation
+Instance: j608_1
+----------------------------
+Query: 6
+Query element:23,40
+Query element:42,40
+Query element:45,39
+Query scope: 6072
+Query scope: 11320
+Query scope: 12154
+----------------------------
+IIS optimality: optimal
+IIS solution time: 0.95310

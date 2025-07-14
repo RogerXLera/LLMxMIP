@@ -1,0 +1,17 @@
+IIS generation
+Instance: j12034_5
+----------------------------
+Query: 2
+Query element:86,288
+Query scope: 50580
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 104.14137
+IIS Constraint: 297; precedence; {activity:107,predecessor:86}
+IIS Constraint: 307; precedence; {activity:111,predecessor:107}
+IIS Constraint: 322; precedence; {activity:116,predecessor:111}
+IIS Constraint: 326; precedence; {activity:117,predecessor:116}
+IIS Constraint: 332; precedence; {activity:119,predecessor:117}
+IIS Constraint: 339; precedence; {activity:122,predecessor:119}
+IIS Constraint: 2998; query; {activity:86,t:288,query:2}
+IIS Constraint: 2999; max; {f:113.0,objective:max}

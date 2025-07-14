@@ -1,0 +1,3 @@
+Query: 9 
+Query element: 300144,3 
+Query element: 300565,2 

@@ -1,0 +1,2 @@
+srun: error: c04: task 0: Exited with exit code 124
+srun: launch/slurm: _step_signal: Terminating StepId=5940821.0

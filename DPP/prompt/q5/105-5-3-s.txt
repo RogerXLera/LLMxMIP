@@ -1,0 +1,18 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects          | semesters  | credits | compulsory | 
+|-------------------|------------|---------|------------| 
+| Computer Security | 6 (Spring) | 10      | No         | 
+
+Question: Why is Computer Security planned? 
+Reasons: 
+0: Computer Security is planned 
+1: Level 4 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+2: Level 5 of skill Penetration Testing is acquired by coursing Network Security,  or Ethical Hacking Principles and Practice 
+3: Level 1 of skill Digital Forensics is acquired by coursing Computer Security 
+4: Level 2 of skill Digital Forensics is acquired by coursing Computer Security 
+5: Level 3 of skill Digital Forensics is acquired by coursing Computer Security 
+6: Level 4 of skill Digital Forensics is acquired by coursing Computer Security 
+7: reduce the percentage of skills learnt below 78%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

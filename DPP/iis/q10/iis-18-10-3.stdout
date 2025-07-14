@@ -1,0 +1,34 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300580,1
+Query element: 200022,1
+Query scope: 246
+Query scope: 6
+Query scope: 247
+Query scope: 7
+Query scope: 248
+Query scope: 8
+Query scope: 249
+Query scope: 9
+Query scope: 250
+Query scope: 10
+Query scope: 251
+Query scope: 11
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.028
+IIS Constraint: 94; offer; {unit:300104,season:au}
+IIS Constraint: 117; offer; {unit:300582,season:sp}
+IIS Constraint: 327; precedence; {unit:300579,predecessors:[300104,300941],semester:1}
+IIS Constraint: 328; precedence; {unit:300579,predecessors:[300104,300941],semester:2}
+IIS Constraint: 335; precedence; {unit:300579,predecessors:[300582],semester:3}
+IIS Constraint: 336; precedence; {unit:300579,predecessors:[300582],semester:4}
+IIS Constraint: 337; precedence; {unit:300579,predecessors:[300582],semester:5}
+IIS Constraint: 338; precedence; {unit:300579,predecessors:[300582],semester:6}
+IIS Constraint: 351; precedence; {unit:300582,predecessors:[300580],semester:1}
+IIS Constraint: 353; precedence; {unit:300582,predecessors:[300580],semester:3}
+IIS Constraint: 355; precedence; {unit:300582,predecessors:[300580],semester:5}
+IIS Constraint: 556; core; {unit:300579}
+IIS Constraint: 650; query; {unit:300580,query:10}

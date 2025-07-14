@@ -1,0 +1,1 @@
+query;Why is the subset of activities 7, 12, 16, 13, 23 not completed at the same time period?

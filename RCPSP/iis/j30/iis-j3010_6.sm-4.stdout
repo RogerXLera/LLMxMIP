@@ -1,0 +1,114 @@
+IIS generation
+Instance: j3010_6
+----------------------------
+Query: 4
+Query element:25,41
+Query scope: 2765
+Query scope: 2766
+Query scope: 2767
+Query scope: 2768
+Query scope: 2769
+Query scope: 2770
+Query scope: 2771
+Query scope: 2772
+Query scope: 2773
+Query scope: 2774
+Query scope: 2775
+Query scope: 2776
+Query scope: 2777
+Query scope: 2778
+Query scope: 2779
+Query scope: 2780
+Query scope: 2781
+Query scope: 2782
+Query scope: 2783
+Query scope: 2784
+Query scope: 2785
+Query scope: 2786
+Query scope: 2787
+Query scope: 2788
+Query scope: 2789
+Query scope: 2790
+Query scope: 2791
+Query scope: 2792
+Query scope: 2793
+Query scope: 2794
+Query scope: 2795
+Query scope: 2796
+Query scope: 2797
+Query scope: 2798
+Query scope: 2799
+Query scope: 2800
+Query scope: 2801
+Query scope: 2802
+Query scope: 2803
+Query scope: 2804
+Query scope: 2805
+Query scope: 2806
+Query scope: 2807
+Query scope: 2808
+Query scope: 2809
+Query scope: 2810
+Query scope: 2811
+Query scope: 2812
+Query scope: 2813
+Query scope: 2814
+Query scope: 2815
+Query scope: 2816
+Query scope: 2817
+Query scope: 2818
+Query scope: 2819
+Query scope: 2820
+Query scope: 2821
+Query scope: 2822
+Query scope: 2823
+Query scope: 2824
+Query scope: 2825
+Query scope: 2826
+Query scope: 2827
+Query scope: 2828
+Query scope: 2829
+Query scope: 2830
+Query scope: 2831
+Query scope: 2832
+Query scope: 2833
+Query scope: 2834
+Query scope: 2835
+Query scope: 2836
+Query scope: 2837
+Query scope: 2838
+Query scope: 2839
+Query scope: 2840
+Query scope: 2841
+Query scope: 2842
+Query scope: 2843
+Query scope: 2844
+Query scope: 2845
+Query scope: 2846
+Query scope: 2847
+Query scope: 2848
+Query scope: 2849
+Query scope: 2850
+Query scope: 2851
+Query scope: 2852
+Query scope: 2853
+Query scope: 2854
+Query scope: 2855
+Query scope: 2856
+Query scope: 2857
+Query scope: 2858
+Query scope: 2859
+Query scope: 2860
+Query scope: 2861
+Query scope: 2862
+Query scope: 2863
+Query scope: 2864
+Query scope: 2865
+Query scope: 2866
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 1.53114
+IIS Constraint: 70; precedence; {activity:29,predecessor:25}
+IIS Constraint: 77; precedence; {activity:32,predecessor:29}
+IIS Constraint: 664; query; {activity:25,t:41,query:4}
+IIS Constraint: 665; max; {f:44.0,objective:max}

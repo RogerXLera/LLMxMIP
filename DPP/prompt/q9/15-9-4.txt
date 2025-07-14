@@ -1,0 +1,30 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                          | semesters  | credits | compulsory | 
+|-----------------------------------|------------|---------|------------| 
+| Programming Fundamentals          | 1 (Autumn) | 10      | Yes        | 
+| Database Design and Development   | 4 (Spring) | 10      | Yes        | 
+| Technologies for Web Applications | 5 (Autumn) | 10      | Yes        | 
+| Professional Experience           | 6 (Spring) | 10      | Yes        | 
+| Visual Analytics                  | 6 (Spring) | 10      | No         | 
+
+Question: Why is Visual Analytics planned at semester 6 instead of Programming Fundamentals? 
+Reasons: 
+0: Visual Analytics is planned at semester 6 instead of course Programming Fundamentals 
+1: Programming Fundamentals cannot be planned more than ones 
+2: Programming Fundamentals must be planned before Technologies for Web Applications 
+3: Technologies for Web Applications must be planned before Professional Experience 
+4: Technologies for Web Applications cannot be planned during spring semesters 
+5: Professional Experience is compulsory 
+6: Database Design and Development must be planned before Professional Experience 
+7: Database Design and Development cannot be planned during autumn semesters 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+(3-4) 
+(3-5) 
+(5-6) 
+(6-7) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

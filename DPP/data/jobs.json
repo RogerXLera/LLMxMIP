@@ -1,0 +1,6645 @@
+[{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca779"
+  },
+  "id": "53",
+  "name": "Accessibility Practitioner",
+  "family": "Service Delivery",
+  "familyFunction": "Program Delivery",
+  "familyRole": "Specialist Adviser",
+  "group": "User experience (UX) designer",
+  "aps": "230409",
+  "discipline": "Accessibility",
+  "aka": "",
+  "description": "Accessibility Practitioners identify all current and potential user groups and coordinate their participation in the design, development and testing process to ensure that the services created are inclusive.",
+  "apsClassification": "APS5/6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "QUAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TEST",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77a"
+  },
+  "id": "46",
+  "name": "Associate Engineer",
+  "family": "ICT",
+  "group": "Software developer",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Development and Programming",
+  "aps": "150501",
+  "discipline": "Solution Engineering",
+  "aka": "Junior Developer",
+  "description": "Solution Engineers design, test and implement solutions that deliver a digital service.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PORT",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TEST",
+      "level": 1,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77b"
+  },
+  "id": "26",
+  "name": "Automation Tester",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Automation Testers construct automated tests which confirm that systems and services function appropriately, and they validate the environment in which these things operate to make sure test results are valid.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "BPTS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "SINT",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77c"
+  },
+  "id": "122",
+  "name": "Business Analyst",
+  "group": "Business analyst",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Business Analyst",
+  "aps": "270304",
+  "discipline": "Business Analysis",
+  "aka": "",
+  "description": "Business Analysts seek to understanding business processes and determining business requirements for systems.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BSMO",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77d"
+  },
+  "id": "115",
+  "name": "Business Architect",
+  "group": "Business analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Business Architecture",
+  "aka": "",
+  "description": "Business Architects design and evolve business capabilities in line with the organisation strategy.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77e"
+  },
+  "id": "112",
+  "name": "Chief Architect",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Enterprise Architecture",
+  "aka": "",
+  "description": "Chief Architects oversee, steer and develop the entire enterprise architecture of an organisation.",
+  "apsClassification": "SES1",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BPRE",
+      "level": 7,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 7,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "GOVN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 7,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "BPRE",
+    "CNSL",
+    "STPL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca77f"
+  },
+  "id": "0",
+  "name": "Cloud Service Manager",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Infrastructure and Facilities",
+  "aps": "150303",
+  "discipline": "Cloud Service Management",
+  "aka": "",
+  "description": "Cloud Service Managers monitor cloud usage and work with Cloud Architects and cloud service consumers to ensure cloud service usage is meeting, and can be evolved to better meet, agency objectives. Maintain awareness of cloud service offerings as well as business and customer usage and demands, then advises on, plan and optimises the consumption of cloud services by the agency. ",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CPMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SORC",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SUPP",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITCM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SLMO",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SUPP",
+    "ITCM",
+    "SLMO"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca780"
+  },
+  "id": "62",
+  "name": "Content Designer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Content Design",
+  "aka": "",
+  "description": "Content Designers create, curate, organise, layout, evaluate, review and continuously improve the content of a digital service, designed around user needs.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DTAN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "BSMO",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "ICPM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca781"
+  },
+  "id": "42",
+  "name": "Content Strategist",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Strategic Design",
+  "aps": "260102",
+  "discipline": "Content Strategy",
+  "aka": "",
+  "description": "Content Strategists develop a content strategy that steers the creation of unambiguous, meaningful, cohesive, engaging, and sustainable content. They focus on the planning, structure, process, creation, delivery, and governance of content.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "IRMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INCA",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "INCA",
+    "ICPM",
+    "USEV"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca782"
+  },
+  "id": "63",
+  "name": "Content Writer",
+  "family": "Project and program",
+  "group": "User experience (UX) designer",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Content Design",
+  "aka": "",
+  "description": "Content Writers create, curate, organise, layout, evaluate, review and continuously improve the content of a digital service, designed around user needs.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "ICPM",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 3,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca783"
+  },
+  "id": "67",
+  "name": "Cyber Advisor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Cyber Security Advice and Assessment",
+  "aka": "",
+  "description": "Cyber Advisors  provide ICT security advice and assistance to government, including policy creation, project advice and assistance, and research.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca784"
+  },
+  "id": "77",
+  "name": "Cyber Threat Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Threat Analysis",
+  "aka": "",
+  "description": "Cyber Threat Analysts need to understand cyber intrusion activities then use their research skills to provide reporting on threat modelling and intelligence.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca785"
+  },
+  "id": "119",
+  "name": "Data Architect",
+  "group": "Data Engineer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Data Architecture",
+  "aka": "",
+  "description": "Data Architects design, create, deploy and manage the way data will be structured, stored, used, integrated and managed in IT systems.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "DEMM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "VISL",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CPMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DTAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DATM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DBDS",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DEMM",
+    "VISL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca786"
+  },
+  "id": "28",
+  "name": "Data Migration Tester",
+  "group": "Data Engineer",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Data Migration Testers manage and validate data as it is used or transferred between old and new systems, and within new systems where features of the systems are changing.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DATM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca787"
+  },
+  "id": "20",
+  "name": "Delivery Manager",
+  "group": "Project Manager",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Delivery Management",
+  "aka": "",
+  "description": "Delivery Managers unblock issues, support the delivery team, and monitor and improve performance of the team. They use agile methodologies, learning and iterating the product and processes frequently to meet user needs. They work with Product Managers to define the roadmap for products and services, remove blockers and support the delivery team so that they can maintain delivery throughput.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "MEAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RESC",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DLMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RELM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PEMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PRMG",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS",
+    "RELM",
+    "PEMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca788"
+  },
+  "id": "60",
+  "name": "Design Officer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Design",
+  "aka": "",
+  "description": "Design Officers contribute to the creation, development and improvement of designs for a service.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Novice",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca789"
+  },
+  "id": "5",
+  "name": "DevOps Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Systems Integration and Deployment",
+  "aps": "150601",
+  "discipline": "DevOps Engineering",
+  "aka": "Site Reliability Engineer",
+  "description": "DevOps Engineers work closely with development teams to provide (and support) the environment needed to deliver the organisation's services quickly and efficiently, using automation and self-service.",
+  "apsClassification": "APS6/EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "AVMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78a"
+  },
+  "id": "16",
+  "name": "Digital Information Architect",
+  "group": "User experience (UX) designer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Content Strategy",
+  "aka": "Web Based Information Architect",
+  "description": "Digital Information Architects work with Content Strategists and User Researchers to understand the information needs of users and services, in order to design the information architecture supporting a digital service.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [
+    "UNAN"
+  ],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "CIPM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "INAN",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "URCH",
+    "ICPM"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78b"
+  },
+  "id": "45",
+  "name": "Engineer",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Development and Programming",
+  "aps": "150501",
+  "discipline": "Solution Engineering",
+  "aka": "Developer",
+  "description": "Solution Engineers design, test and implement solutions that deliver a digital service.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PORT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TEST",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78c"
+  },
+  "id": "113",
+  "name": "Enterprise Architect",
+  "group": "Business analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Enterprise Architecture",
+  "aka": "",
+  "description": "Enterprise Architects create and evolve architecture models that inform the design, development and evolution of business processes and supporting ICT systems.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [
+    "BSMO"
+  ],
+  "sfia": [
+    {
+      "id": "BPRE",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "GOVN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "ISCO",
+      "level": 7,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "TECH",
+    "REQM",
+    "ISCO",
+    "EMRG"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78d"
+  },
+  "id": "124",
+  "name": "Entry Level Business Analyst",
+  "group": "Business analyst",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Business Analyst",
+  "aps": "270304",
+  "discipline": "Business Analysis",
+  "aka": "",
+  "description": "Business Analysts seek to understanding business processes and determining business requirements for systems.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "REQM",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "BSMO",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78e"
+  },
+  "id": "129",
+  "name": "Entry Level Systems Analyst",
+  "group": "Business analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Systems Analyst and Content Design",
+  "aps": "150502",
+  "discipline": "Systems Analysis",
+  "aka": "",
+  "description": "Systems Analysts translate business requirements into technical requirements that align with relevant architectures.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "REQM",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 2,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca78f"
+  },
+  "id": "15",
+  "name": "Information Architect",
+  "group": "Data Engineer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Information Architecture",
+  "aka": "",
+  "description": "Information Architects understand, model and design the information requirements and usage of the organisation. They work with other architects to ensure the environment and services within it allow safe and effective management and exploitation of the information holdings of the organisation.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "VISL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DTAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "IRMG",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "VISL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca790"
+  },
+  "id": "118",
+  "name": "Infrastructure Architect",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Infrastructure Architecture",
+  "aka": "Cloud Architect",
+  "description": "Infrastructure Architects design, implement and evolve the infrastructure (on-premises and/or cloud) that support an organisation's IT systems.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "DEMM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CPMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DEMM"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca791"
+  },
+  "id": "2",
+  "name": "Infrastructure Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Infrastructure and Facilities",
+  "aps": "150303",
+  "discipline": "Infrastructure Engineering",
+  "aka": "SysAdmin",
+  "description": "Infrastructure Engineers implement, manage and retire the infrastructure (including physical, virtual, networking and cloud infrastructure) that supports digital services.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PBMG",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "AVMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ITOP",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "HSIN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca792"
+  },
+  "id": "56",
+  "name": "Interaction Designer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Service Design",
+  "aps": "260104",
+  "discipline": "Interaction Design",
+  "aka": "",
+  "description": "Interaction Designers research, design and test the scenarios, interaction patterns and interface systems that make up an interaction with a service. They makes decisions based on the evidence of user needs in pursuit of the best service. They prototype and test products/services. They create user journey maps and assist with and participating in user research. They collaborate and manage stakeholders.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca793"
+  },
+  "id": "27",
+  "name": "Junior Automation Tester",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Automation Testers construct automated tests which confirm that systems and services function appropriately, and they validate the environment in which these things operate to make sure test results are valid.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "SINT",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca794"
+  },
+  "id": "123",
+  "name": "Junior Business Analyst",
+  "group": "Business analyst",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Business Analyst",
+  "aps": "270304",
+  "discipline": "Business Analysis",
+  "aka": "",
+  "description": "Business Analysts seek to understanding business processes and determining business requirements for systems.",
+  "apsClassification": "APS5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "REQM",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "BSMO",
+      "level": 2,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca795"
+  },
+  "id": "116",
+  "name": "Junior Business Architect",
+  "group": "Business analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Business Architecture",
+  "aka": "",
+  "description": "Business Architects design and evolve business capabilities in line with the organisation strategy.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca796"
+  },
+  "id": "6",
+  "name": "Junior DevOps Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Systems Integration and Deployment",
+  "aps": "150601",
+  "discipline": "DevOps Engineering",
+  "aka": "Junior Site Reliability Engineer",
+  "description": "DevOps Engineers work closely with development teams to provide (and support) the environment needed to deliver the organisation's services quickly and efficiently, using automation and self-service.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca797"
+  },
+  "id": "3",
+  "name": "Junior Infrastructure Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Infrastructure and Facilities",
+  "aps": "150303",
+  "discipline": "Infrastructure Engineering",
+  "aka": "Junior SysAdmin",
+  "description": "Infrastructure Engineers implement, manage and retire the infrastructure (including physical, virtual, networking and cloud infrastructure) that supports digital services.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Novice",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "ITOP",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "HSIN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca798"
+  },
+  "id": "134",
+  "name": "Junior Research Analyst",
+  "group": "Research & Development",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "Research Ops",
+  "aka": "",
+  "description": "Research Analysts collect research materials and derive conclusion from those materials to answer specific research questions.",
+  "apsClassification": "APS3/4",
+  "knowledge": "Novice",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TEST",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "INAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca799"
+  },
+  "id": "128",
+  "name": "Junior Systems Analyst",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Systems Analyst and Content Design",
+  "aps": "150502",
+  "discipline": "Systems Analysis",
+  "aka": "",
+  "description": "Systems Analysts translate business requirements into technical requirements that align with relevant architectures.",
+  "apsClassification": "APS5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "REQM",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79a"
+  },
+  "id": "32",
+  "name": "Junior Test Analyst",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Manual Testing",
+  "aka": "",
+  "description": "Test Analysts determine and then carry out testing activities to validate the design and behaviour of systems and services.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 3,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79b"
+  },
+  "id": "51",
+  "name": "Junior User Researcher",
+  "group": "User experience (UX) designer",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "User Research",
+  "aka": "",
+  "description": "User Researchers design, organise, participate in and carry out user-centred research. They develop a deep understanding of the users and advocate for recommendations that improve the user's experiences with the service. They use research findings to solve problems for the user and the team/Agency. They may contribute to the creation of prototypes for user testing.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "UNAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 3,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79c"
+  },
+  "id": "66",
+  "name": "Junior Visual Communication Designer",
+  "group": "User experience (UX) designer",
+  "family": "Communications and Marketing",
+  "familyFunction": "Creative Design",
+  "familyRole": "Graphic Design",
+  "aps": "120201",
+  "discipline": "Graphic Design",
+  "aka": "Junior Graphic Designer",
+  "description": "Visual Communication Designers interpret information content and create visual representations and/or layouts of that content to aid user consumption. They select and implement the best method of delivering content, including forms of online and off-line publication.",
+  "apsClassification": "APS4/5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "ADEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "CSMG",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79d"
+  },
+  "id": "52",
+  "name": "Lead Accessibility Advisor",
+  "group": "User experience (UX) designer",
+  "family": "Service Delivery",
+  "familyFunction": "Program Delivery",
+  "familyRole": "Specialist Adviser",
+  "aps": "230409",
+  "discipline": "Accessibility",
+  "aka": "",
+  "description": "Accessibility Advisors identify all current and potential user groups and advocate for service design & development approaches and practices that ensure their needs are taken into account.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "SWDN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "QUAS",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TEST",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "METL",
+    "RLMT",
+    "TECH",
+    "QUAS",
+    "TEST",
+    "CORE"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79e"
+  },
+  "id": "120",
+  "name": "Lead Business Analyst",
+  "group": "Business analyst",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Business Analyst",
+  "aps": "270304",
+  "discipline": "Business Analysis",
+  "aka": "",
+  "description": "Business Analysts seek to understanding business processes and determining business requirements for systems.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BPRE",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BENM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BSMO",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "REQM",
+    "BUAN",
+    "RLMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca79f"
+  },
+  "id": "114",
+  "name": "Lead Business Architect",
+  "group": "Business analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Business Architecture",
+  "aka": "",
+  "description": "Business Architects design and evolve business capabilities in line with the organisation strategy.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "BPRE",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "GOVN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "ISCO",
+      "level": 7,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "BSMO",
+    "TECH",
+    "REQM",
+    "ISCO"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a0"
+  },
+  "id": "61",
+  "name": "Lead Content Designer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Content Design",
+  "aka": "",
+  "description": "Content Designers create, curate, organise, layout, evaluate, review and continuously improve the content of a digital service, designed around user needs.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "BSMO",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH",
+    "ICPM"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a1"
+  },
+  "id": "41",
+  "name": "Lead Content Strategist",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Strategic Design",
+  "aps": "260102",
+  "discipline": "Content Strategy",
+  "aka": "",
+  "description": "Content Strategists develop a content strategy that steers the creation of unambiguous, meaningful, cohesive, engaging, and sustainable content. They focus on the planning, structure, process, creation, delivery, and governance of content.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CORE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CIPM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "IRMG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 7,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INCA",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "USEV",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "RLMT",
+    "INCA",
+    "USEV"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a2"
+  },
+  "id": "70",
+  "name": "Lead Cyber Advisor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Cyber Security Advice and Assessment",
+  "aka": "",
+  "description": "Cyber Advisors  provide ICT security advice and assistance to government, including policy creation, project advice and assistance, and research.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DLMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a3"
+  },
+  "id": "80",
+  "name": "Lead Cyber Threat Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Threat Analysis",
+  "aka": "",
+  "description": "Cyber Threat Analysts need to understand cyber intrusion activities then use their research skills to provide reporting on threat modelling and intelligence.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a4"
+  },
+  "id": "43",
+  "name": "Lead Engineer",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Development and Programming",
+  "aps": "150501",
+  "discipline": "Engineering Lead",
+  "aka": "Lead Developer",
+  "description": "Solution Engineers design, test and implement solutions that deliver a digital service.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DLMG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "GOVN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "EMRG",
+    "TECH",
+    "METL",
+    "SINT",
+    "SWDN",
+    "PROG"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a5"
+  },
+  "id": "95",
+  "name": "Lead Incident Responder",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Security",
+  "aps": "150305",
+  "discipline": "Incident Response",
+  "aka": "",
+  "description": "Incident Responders analyse and investigate a range of complex cyber and information security tasks, including forensic analysis to find sophisticated malicious cyber actors and provide remediation and mitigation advice to protect and secure Australian government systems and networks.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DGFS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a6"
+  },
+  "id": "14",
+  "name": "Lead Information Architect",
+  "group": "Data Engineer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Information Architecture",
+  "aka": "",
+  "description": "Information Architects understand, model and design the information requirements and usage of the organisation. They work with other architects to ensure the environment and services within it allow safe and effective management and exploitation of the information holdings of the organisation.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "VISL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ISCO",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DTAN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "IRMG",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "VISL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a7"
+  },
+  "id": "117",
+  "name": "Lead Infrastructure Architect",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Infrastructure Architecture",
+  "aka": "Lead Cloud Architect",
+  "description": "Infrastructure Architects design, implement and evolve the infrastructure (on-premises and/or cloud) that support an organisation's IT systems.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "GOVN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DCMA",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "NTPL",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "TECH",
+    "ARCH",
+    "DCMA",
+    "EMRG",
+    "NTDS",
+    "NTPL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a8"
+  },
+  "id": "55",
+  "name": "Lead Interaction Designer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Service Design",
+  "aps": "260104",
+  "discipline": "Interaction Design",
+  "aka": "",
+  "description": "Interaction Designers research, design and test the scenarios, interaction patterns and interface systems that make up an interaction with a service. They makes decisions based on the evidence of user needs in pursuit of the best service. They prototype and test products/services. They create user journey maps and assist with and participating in user research. They collaborate and manage stakeholders.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "URCH",
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7a9"
+  },
+  "id": "85",
+  "name": "Lead Intrusion Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Intrusion Analysis",
+  "aka": "",
+  "description": "Intrusion Analysts identify, track and discover sophisticated malicious cyber activity targeting Australian Government systems and networks.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7aa"
+  },
+  "id": "90",
+  "name": "Lead Malware Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Malware Analysis",
+  "aka": "",
+  "description": "Malware Analysts identify and understanding malware code, then create code that can defend networks against cyber-attacks.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DGFS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ab"
+  },
+  "id": "100",
+  "name": "Lead Operations Coordinator",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Security",
+  "aps": "150305",
+  "discipline": "Operations Coordination",
+  "aka": "",
+  "description": "Operations Coordinators plan and coordinate incident responses for cyber intrusions affecting Australian Government, industry and networks.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ac"
+  },
+  "id": "105",
+  "name": "Lead Penetration Tester",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Penetration Testing",
+  "aka": "",
+  "description": "Penetration Testers analyse IT systems to determine configuration weaknesses and faults that would impact on security and business then produce reports detailing the findings and recommendations for improved network security.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DGFS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ad"
+  },
+  "id": "12",
+  "name": "Lead Security Architect",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Security Architecture",
+  "aka": "",
+  "description": "Security Architects design, review, test and assure the technical environment, solution designs and solution implementations in accordance with current and emerging security best practice. They contribute to the technical architecture and security policies and practices.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ae"
+  },
+  "id": "10",
+  "name": "Lead Solution Architect",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Solution Architecture",
+  "aka": "",
+  "description": "Solution Architects consider the technical and commercial implications of the solution, ensuring it fits with the overall enterprise architecture of the agency. They guide and carry-out the implementation of technology, and maintain an awareness of current and emerging technologies.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DTAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DESN",
+    "CORE",
+    "ARCH",
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7af"
+  },
+  "id": "125",
+  "name": "Lead Systems Analyst",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Systems Analyst and Content Design",
+  "aps": "150502",
+  "discipline": "Systems Analysis",
+  "aka": "",
+  "description": "Systems Analysts translate business requirements into technical requirements that align with relevant architectures.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "REQM",
+    "TECH",
+    "DESN",
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b0"
+  },
+  "id": "7",
+  "name": "Lead Technology Architect",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Technology Architecture",
+  "aka": "",
+  "description": "Technology Architects determine the appropriate technologies to be used in the service development and delivery environment. They monitor emerging technologies and plan technology exploration, implementation and retirement.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "EMRG",
+    "NTDS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b1"
+  },
+  "id": "49",
+  "name": "Lead User Researcher",
+  "group": "User experience (UX) designer",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "User Research",
+  "aka": "",
+  "description": "User Researchers design, organise, participate in and carry out user-centred research. They develop a deep understanding of the users and advocate for recommendations that improve the user's experiences with the service. They use research findings to solve problems for the user and the team/Agency. They may contribute to the creation of prototypes for user testing.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "HCEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b2"
+  },
+  "id": "110",
+  "name": "Lead Vulnerability Assessor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Vulnerability Assessment",
+  "aka": "",
+  "description": "Vulnerability Assessors identify, assess and prioritise threat vulnerabilities identified through penetration testing and report findings to improve security architecture and enhance risk awareness.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DESN",
+    "SWDN",
+    "TECH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b3"
+  },
+  "id": "75",
+  "name": "Lead Vulnerability Researcher",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Vulnerability Research",
+  "aka": "",
+  "description": "Vulnerability Researchers perform research on known vulnerabilities and exploits to develop mitigation strategies and tools that can be deployed on network infrastructures, apps and websites. ",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b4"
+  },
+  "id": "87",
+  "name": "Malware Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Malware Analysis",
+  "aka": "",
+  "description": "Malware Analysts identify and understanding malware code, then create code that can defend networks against cyber-attacks.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b5"
+  },
+  "id": "102",
+  "name": "Penetration Tester",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Penetration Testing",
+  "aka": "",
+  "description": "Penetration Testers analyse IT systems to determine configuration weaknesses and faults that would impact on security and business then produce reports detailing the findings and recommendations for improved network security.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b6"
+  },
+  "id": "24",
+  "name": "Performance Tester",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Performance Testers examine and report on the responsiveness and stability of systems and their components under workloads.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "MEAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "INAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b7"
+  },
+  "id": "147",
+  "name": "PMO Assurance Officer",
+  "group": "Project Manager",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Reporting",
+  "aps": "260302",
+  "discipline": "Project Management Specialist",
+  "aka": "",
+  "description": "PMO Assurance Officers assess and report on the delivery of projects, portfolios and programs to ensure that their expected value will be delivered.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "QUAS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "PROF",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "QUAS",
+    "PROF",
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b8"
+  },
+  "id": "136",
+  "name": "Portfolio Manager",
+  "group": "Project Manager",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Program & Project Management",
+  "aka": "",
+  "description": "Portfolio Managers oversee the development and execution of a collection of programs, projects and related activities that implement the strategic intent of an organisation.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "POMG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "PRMG",
+      "level": 7,
+      "critical": true
+    },
+    {
+      "id": "QUAS",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "FMIT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "POMG",
+    "PRMG",
+    "QUAS",
+    "MEAS",
+    "FMIT",
+    "METL",
+    "RLMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7b9"
+  },
+  "id": "71",
+  "name": "Principal Cyber Advisor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Cyber Security Advice and Assessment",
+  "aka": "",
+  "description": "Cyber Advisors  provide ICT security advice and assistance to government, including policy creation, project advice and assistance, and research.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DLMG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DESN",
+    "RSCH",
+    "TECH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ba"
+  },
+  "id": "81",
+  "name": "Principal Cyber Threat Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Threat Analysis",
+  "aka": "",
+  "description": "Cyber Threat Analysts need to understand cyber intrusion activities then use their research skills to provide reporting on threat modelling and intelligence.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7bb"
+  },
+  "id": "96",
+  "name": "Principal Incident Responder",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Security",
+  "aps": "150305",
+  "discipline": "Incident Response",
+  "aka": "",
+  "description": "Incident Responders analyse and investigate a range of complex cyber and information security tasks, including forensic analysis to find sophisticated malicious cyber actors and provide remediation and mitigation advice to protect and secure Australian government systems and networks.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DGFS",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DGFS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7bc"
+  },
+  "id": "86",
+  "name": "Principal Intrusion Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Intrusion Analysis",
+  "aka": "",
+  "description": "Intrusion Analysts identify, track and discover sophisticated malicious cyber activity targeting Australian Government systems and networks.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7bd"
+  },
+  "id": "91",
+  "name": "Principal Malware Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Malware Analysis",
+  "aka": "",
+  "description": "Malware Analysts identify and understanding malware code, then create code that can defend networks against cyber-attacks.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DGFS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7be"
+  },
+  "id": "101",
+  "name": "Principal Operations Coordinator",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Security",
+  "aps": "150305",
+  "discipline": "Operations Coordination",
+  "aka": "",
+  "description": "Operations Coordinators plan and coordinate incident responses for cyber intrusions affecting Australian Government, industry and networks.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7bf"
+  },
+  "id": "106",
+  "name": "Principal Penetration Tester",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Penetration Testing",
+  "aka": "",
+  "description": "Penetration Testers analyse IT systems to determine configuration weaknesses and faults that would impact on security and business then produce reports detailing the findings and recommendations for improved network security.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "DGFS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN",
+    "PENT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c0"
+  },
+  "id": "111",
+  "name": "Principal Vulnerability Assessor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Vulnerability Assessment",
+  "aka": "",
+  "description": "Vulnerability Assessors identify, assess and prioritise threat vulnerabilities identified through penetration testing and report findings to improve security architecture and enhance risk awareness.",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DESN",
+    "SWDN",
+    "PENT",
+    "TECH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c1"
+  },
+  "id": "76",
+  "name": "Principal Vulnerability Researcher",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Vulnerability Research",
+  "aka": "",
+  "description": "Vulnerability Researchers perform research on known vulnerabilities and exploits to develop mitigation strategies and tools that can be deployed on network infrastructures, apps and websites. ",
+  "apsClassification": "EL2",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN",
+    "TECH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c2"
+  },
+  "id": "9",
+  "name": "Principle Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Technology Architecture",
+  "aka": "",
+  "description": "The Principle Engineer has overall responsibility for the technical environment that supports the development and delivery of digital services. They carryout strategic planning to ensure the internal technical environment is always fit for purpose in a continuously evolving external technical environment.",
+  "apsClassification": "SES1",
+  "knowledge": "Guru",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DLMG",
+      "level": 7,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "GOVN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "ITSP",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "DLMG",
+    "EMRG",
+    "RLMT",
+    "DESN",
+    "ARCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c3"
+  },
+  "id": "17",
+  "name": "Product Manager",
+  "group": "Project Manager",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Product Management",
+  "aka": "",
+  "description": "Product Managers work closely with User Researchers and the rest of the delivery team to create and improve a product or service, ensuring it meets user needs. They are responsible for prioritising product component delivery, according to greatest user needs.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CIPM",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "DEMM",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "PROD",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CIPM",
+    "RLMT",
+    "DEMM",
+    "PROD"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c4"
+  },
+  "id": "18",
+  "name": "Product Owner",
+  "group": "Project Manager",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Product Management",
+  "aka": "",
+  "description": "Product Owners work closely with User Researchers and the rest of the delivery team to create and improve a product or service, ensuring it meets user needs. They are responsible for prioritising product component delivery, according to greatest user needs.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DEMM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROD",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "DEMM",
+    "PROD"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c5"
+  },
+  "id": "137",
+  "name": "Program Manager",
+  "group": "Project Manager",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Program & Project Management",
+  "aka": "",
+  "description": "Program Managers coordinate the delivery of multiple related projects and other change activities, which may include business-as-usual activities.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PRMG",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "PEMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "QUMG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "PROF",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "FMIT",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "PEMT",
+    "QUMG",
+    "RLMT",
+    "FMIT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c6"
+  },
+  "id": "139",
+  "name": "Project Manager",
+  "group": "Project Manager",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Management",
+  "aps": "260301",
+  "discipline": "Project Management",
+  "aka": "",
+  "description": "Project Managers plan and manage the delivery of projects.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [
+    "URCH"
+  ],
+  "sfia": [
+    {
+      "id": "PRMG",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "FMIT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "CIPM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "PEMT",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c7"
+  },
+  "id": "141",
+  "group": "Project Manager",
+  "name": "Project Officer",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Support ",
+  "aps": "260303",
+  "discipline": "Project Support",
+  "aka": "",
+  "description": "Project Officers assist in the operations of a Project/Program/Portfolio Office and the delivery of projects.",
+  "apsClassification": "APS5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Business",
+  "required": [
+    "BUAN"
+  ],
+  "sfia": [
+    {
+      "id": "PRMG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "PROF",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "BSMO",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "CSMG",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "QUMG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "QUAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c8"
+  },
+  "id": "142",
+  "group": "Project Manager",
+  "name": "Project Support Officer",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Support ",
+  "aps": "260303",
+  "discipline": "Project Support",
+  "aka": "",
+  "description": "Project Officers assist in the operations of a Project/Program/Portfolio Office and the delivery of projects.",
+  "apsClassification": "APS4",
+  "knowledge": "Novice",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PROF",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "CSMG",
+      "level": 1,
+      "critical": true
+    },
+    {
+      "id": "QUMG",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 3,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7c9"
+  },
+  "id": "132",
+  "name": "Quantitative Research Analyst",
+  "group": "Research & Development",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "Research Ops",
+  "aka": "",
+  "description": "Quantitative Researchers investigate and quantify the opinions, attitudes, behaviours, etc. of groups of people in order to uncover patterns in behaviour, motivation, preferences etc. that can inform the improvement of government services. \n ",
+  "apsClassification": "APS5/6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "MEAS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ca"
+  },
+  "id": "48",
+  "name": "Quantitative Researcher",
+  "group": "Research & Development",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "User Research",
+  "aka": "",
+  "description": "Quantitative Researchers investigate and quantify the opinions, attitudes, behaviours, etc. of groups of people in order to uncover patterns in behaviour, motivation, preferences etc. that can inform the improvement of government services. \n ",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "VISL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "VISL",
+    "RLMT",
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7cb"
+  },
+  "id": "130",
+  "name": "Research Designer",
+  "group": "Research & Development",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Research Design",
+  "aps": "270305",
+  "discipline": "Research Ops",
+  "aka": "",
+  "description": "Research Designers plan and oversee the specific research activities of an organisation or group, specifying the methodology and approach that will be used for each research activity and ensuring it is used appropriately.",
+  "apsClassification": "EL1",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Strategic",
+  "required": [],
+  "sfia": [
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7cc"
+  },
+  "id": "133",
+  "name": "Research Support Officer",
+  "group": "Research & Development",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "Research Ops",
+  "aka": "",
+  "description": "Research Support Officers provide support and assistance to researchers, including carrying out research activities and drafting reports.",
+  "apsClassification": "APS5",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "RESC",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 2,
+      "critical": true
+    },
+    {
+      "id": "UNAN",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 2,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7cd"
+  },
+  "id": "144",
+  "name": "Risk Manager",
+  "group": "Project Manager",
+  "family": "Monitoring and Audit",
+  "familyFunction": "Risk ",
+  "familyRole": "Risk Management",
+  "aps": "190205",
+  "discipline": "Project Management Specialist",
+  "aka": "",
+  "description": "Risk Managers identify, evaluate and prioritise risks and opportunities, and then coordinate mitigation strategies, monitor and report on the risks.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BURM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "QUAS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "PROF",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ce"
+  },
+  "id": "21",
+  "name": "Scrum Master",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "Business Change",
+  "familyRole": "Program and Project Manager",
+  "aps": "150102",
+  "discipline": "Delivery Management",
+  "aka": "",
+  "description": "Scrum Masters support the delivery team, and monitor and improve performance of the team. They use agile methodologies, learning and iterating the product and processes frequently to meet user needs. They work with Delivery Managers to remove blockers and support the delivery team so that they can maintain delivery throughput.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "RELM",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PEMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PRMG",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RELM"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7cf"
+  },
+  "id": "13",
+  "name": "Security Architect",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Security Architecture",
+  "aka": "",
+  "description": "Security Architects design, review, test and assure the technical environment, solution designs and solution implementations in accordance with current and emerging security best practice. They contribute to the technical architecture and security policies and practices.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d0"
+  },
+  "id": "25",
+  "name": "Senior Automation Tester",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Automation Testers construct automated tests which confirm that systems and services function appropriately, and they validate the environment in which these things operate to make sure test results are valid.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BPTS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SINT",
+      "level": 2,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d1"
+  },
+  "id": "121",
+  "name": "Senior Business Analyst",
+  "group": "Business analyst",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "Business Analyst",
+  "aps": "270304",
+  "discipline": "Business Analysis",
+  "aka": "",
+  "description": "Business Analysts seek to understanding business processes and determining business requirements for systems.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "DTAN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BENM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BSMO",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d2"
+  },
+  "id": "69",
+  "group": "Security engineer",
+  "name": "Senior Cyber Advisor",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Cyber Security Advice and Assessment",
+  "aka": "",
+  "description": "Cyber Advisors  provide ICT security advice and assistance to government, including policy creation, project advice and assistance, and research.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d3"
+  },
+  "id": "79",
+  "group": "Security engineer",
+  "name": "Senior Cyber Threat Analyst",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Threat Analysis",
+  "aka": "",
+  "description": "Cyber Threat Analysts need to understand cyber intrusion activities then use their research skills to provide reporting on threat modelling and intelligence.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d4"
+  },
+  "id": "4",
+  "name": "Senior DevOps Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Systems Integration and Deployment",
+  "aps": "150601",
+  "discipline": "DevOps Engineering",
+  "aka": "Senior Site Reliability Engineer",
+  "description": "DevOps Engineers work closely with development teams to provide (and support) the environment needed to deliver the organisation's services quickly and efficiently, using automation and self-service.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DLMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "AVMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d5"
+  },
+  "id": "44",
+  "name": "Senior Engineer",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Development and Programming",
+  "aps": "150501",
+  "discipline": "Solution Engineering",
+  "aka": "Senior Developer",
+  "description": "Solution Engineers design, test and implement solutions that deliver a digital service.",
+  "apsClassification": "EL1",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "PORT",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "EMRG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TEST",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SINT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "PORT",
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d6"
+  },
+  "id": "94",
+  "name": "Senior Incident Responder",
+  "group": "Security engineer",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Security",
+  "aps": "150305",
+  "discipline": "Incident Response",
+  "aka": "",
+  "description": "Incident Responders analyse and investigate a range of complex cyber and information security tasks, including forensic analysis to find sophisticated malicious cyber actors and provide remediation and mitigation advice to protect and secure Australian government systems and networks.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DGFS",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d7"
+  },
+  "id": "1",
+  "name": "Senior Infrastructure Engineer",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Service Delivery",
+  "familyRole": "ICT Infrastructure and Facilities",
+  "aps": "150303",
+  "discipline": "Infrastructure Engineering",
+  "aka": "Senior SysAdmin",
+  "description": "Infrastructure Engineers implement, manage and retire the infrastructure (including physical, virtual, networking and cloud infrastructure) that supports digital services.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CPMG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PBMG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "AVMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ITOP",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "HSIN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "AVMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d8"
+  },
+  "id": "89",
+  "name": "Senior Malware Analyst",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Malware Analysis",
+  "aka": "",
+  "description": "Malware Analysts identify and understanding malware code, then create code that can defend networks against cyber-attacks.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DGFS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7d9"
+  },
+  "id": "104",
+  "name": "Senior Penetration Tester",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Performance Review",
+  "aps": "170505",
+  "discipline": "Penetration Testing",
+  "aka": "",
+  "description": "Penetration Testers analyse IT systems to determine configuration weaknesses and faults that would impact on security and business then produce reports detailing the findings and recommendations for improved network security.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7da"
+  },
+  "id": "23",
+  "name": "Senior Performance Tester",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Digital Testing",
+  "aka": "",
+  "description": "Performance Testers examine and report on the responsiveness and stability of systems and their components under workloads.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "MEAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "INAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7db"
+  },
+  "id": "138",
+  "name": "Senior Project Manager",
+  "group": "Project Manager",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Management",
+  "aps": "260301",
+  "discipline": "Project Management",
+  "aka": "",
+  "description": "Project Managers plan and manage the delivery of projects.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [
+    "URCH"
+  ],
+  "sfia": [
+    {
+      "id": "PRMG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "FMIT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CIPM",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "PEMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "QUMG",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "PRMG",
+    "CIPM",
+    "RLMT",
+    "PEMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7dc"
+  },
+  "id": "140",
+  "group": "Project Manager",
+  "name": "Senior Project Officer",
+  "family": "Project and program",
+  "familyFunction": "Project",
+  "familyRole": "Project Support ",
+  "aps": "260303",
+  "discipline": "Project Support",
+  "aka": "",
+  "description": "Project Officers assist in the operations of a Project/Program/Portfolio Office and the delivery of projects.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [
+    "BSMO",
+    "BUAN"
+  ],
+  "sfia": [
+    {
+      "id": "PRMG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "PROF",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "CSMG",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "QUMG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "QUAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "MEAS",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "PROF",
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7dd"
+  },
+  "id": "58",
+  "name": "Senior Service Designer",
+  "group": "User experience (UX) designer",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Service Design",
+  "aka": "",
+  "description": "Service Designers research, prototype and test service deigns, create customer journey maps and carryout stakeholder management. ",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [
+    "URCH",
+    "PRMG"
+  ],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CIPM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ORDI",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "MEAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "MEAS"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7de"
+  },
+  "id": "126",
+  "name": "Senior Systems Analyst",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Systems Analyst and Content Design",
+  "aps": "150502",
+  "discipline": "Systems Analysis",
+  "aka": "",
+  "description": "Systems Analysts translate business requirements into technical requirements that align with relevant architectures.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7df"
+  },
+  "id": "30",
+  "name": "Senior Test Analyst",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Manual Testing",
+  "aka": "",
+  "description": "Test Analysts determine and then carry out testing activities to validate the design and behaviour of systems and services.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "QUMG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "QUAS",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BPTS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e0"
+  },
+  "id": "64",
+  "name": "Senior Visual Communication Designer",
+  "group": "User experience (UX) designer",
+  "family": "Communications and Marketing",
+  "familyFunction": "Creative Design",
+  "familyRole": "Graphic Design",
+  "aps": "120201",
+  "discipline": "Graphic Design",
+  "aka": "Senior Graphic Designer",
+  "description": "Visual Communication Designers interpret information content and create visual representations and/or layouts of that content to aid user consumption. They select and implement the best method of delivering content, including forms of online and off-line publication.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "MKTG",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": false
+    },
+    {
+      "id": "VISL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "ADEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "MKTG",
+    "EMRG",
+    "VISL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e1"
+  },
+  "id": "109",
+  "name": "Senior Vulnerability Assessor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Vulnerability Assessment",
+  "aka": "",
+  "description": "Vulnerability Assessors identify, assess and prioritise threat vulnerabilities identified through penetration testing and report findings to improve security architecture and enhance risk awareness.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PENT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e2"
+  },
+  "id": "74",
+  "name": "Senior Vulnerability Researcher",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Vulnerability Research",
+  "aka": "",
+  "description": "Vulnerability Researchers perform research on known vulnerabilities and exploits to develop mitigation strategies and tools that can be deployed on network infrastructures, apps and websites. ",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e3"
+  },
+  "id": "59",
+  "name": "Service Designer",
+  "group": "Computer systems analyst",
+  "family": "Project and program",
+  "familyFunction": "Design",
+  "familyRole": "Content and Useability Design and Testing",
+  "aps": "260103",
+  "discipline": "Service Design",
+  "aka": "",
+  "description": "Service Designers research, prototype and test service deigns, create customer journey maps and carryout stakeholder management. ",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "URCH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e4"
+  },
+  "id": "11",
+  "name": "Solution Architect",
+  "group": "Software developer",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Solution Architecture",
+  "aka": "",
+  "description": "Solution Architects consider the technical and commercial implications of the solution, ensuring it fits with the overall enterprise architecture of the agency. They guide and carry-out the implementation of technology, and maintain an awareness of current and emerging technologies.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BSMO",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BPRE",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DTAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e5"
+  },
+  "id": "127",
+  "name": "Systems Analyst",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "Solutions Development",
+  "familyRole": "Systems Analyst and Content Design",
+  "aps": "150502",
+  "discipline": "Systems Analysis",
+  "aka": "",
+  "description": "Systems Analysts translate business requirements into technical requirements that align with relevant architectures.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Business",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "BUAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "SWDN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "SWDN"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e6"
+  },
+  "id": "8",
+  "name": "Technology Architect",
+  "group": "Computer systems analyst",
+  "family": "ICT",
+  "familyFunction": "IT Business Management",
+  "familyRole": "IT architect",
+  "aps": "150204",
+  "discipline": "Technology Architecture",
+  "aka": "",
+  "description": "Technology Architects determine the appropriate technologies to be used in the service development and delivery environment. They monitor emerging technologies and plan technology exploration, implementation and retirement.",
+  "apsClassification": "EL1",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "CNSL",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "INOV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "DESN",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "REQM",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "CORE",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ARCH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "INAS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "NTDS",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "SCTY",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "STPL",
+      "level": 5,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "CORE",
+    "EMRG"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e7"
+  },
+  "id": "31",
+  "name": "Test Analyst",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Manual Testing",
+  "aka": "",
+  "description": "Test Analysts determine and then carry out testing activities to validate the design and behaviour of systems and services.",
+  "apsClassification": "APS5",
+  "knowledge": "Competent",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "QUAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "BPTS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e8"
+  },
+  "id": "29",
+  "name": "Test Lead",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Manual Testing",
+  "aka": "",
+  "description": "Test Leads manage testing activities for a project or service, usually leading a team of testers and providing high-level testing expertise.",
+  "apsClassification": "APS6",
+  "knowledge": "Expert",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "PEMT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "QUMG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "QUAS",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "BPTS",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "METL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 5,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7e9"
+  },
+  "id": "22",
+  "name": "Test Manager",
+  "group": "Software tester",
+  "family": "ICT",
+  "familyFunction": "Solutions Implementation",
+  "familyRole": "Testing ",
+  "aps": "150602",
+  "discipline": "Manual Testing",
+  "aka": "Testing Practice Lead",
+  "description": "Test Managers oversee the whole testing practice and manage the deployment of testing resources and testing approaches.",
+  "apsClassification": "EL1",
+  "knowledge": "Guru",
+  "spanOfInfluence": "Organisation",
+  "required": [],
+  "sfia": [
+    {
+      "id": "QUMG",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "QUAS",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "BPTS",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "METL",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "TEST",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "PEMT",
+      "level": 5,
+      "critical": true
+    },
+    {
+      "id": "RLMT",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "EMRG",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "BPTS",
+    "TEST",
+    "PEMT"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ea"
+  },
+  "id": "50",
+  "name": "User Researcher",
+  "group": "User experience (UX) designer",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "User Research",
+  "aka": "",
+  "description": "User Researchers design, organise, participate in and carry out user-centred research. They develop a deep understanding of the users and advocate for recommendations that improve the user's experiences with the service. They use research findings to solve problems for the user and the team/Agency. They may contribute to the creation of prototypes for user testing.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "BUAN",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "UNAN",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "HCEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 4,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7eb"
+  },
+  "id": "47",
+  "name": "User Researcher Director",
+  "group": "User experience (UX) designer",
+  "family": "Research",
+  "familyFunction": "Research",
+  "familyRole": "User Research",
+  "aps": "270306",
+  "discipline": "User Research",
+  "aka": "",
+  "description": "User Researcher Directors oversee the user-centred research discipline within an organisation. They ensure the user research practice develops a deep understanding of the users and uses that research to improve the user's experience.",
+  "apsClassification": "EL2",
+  "knowledge": "Expert",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "RLMT",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "TECH",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "RSCH",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "HCEV",
+      "level": 5,
+      "critical": false
+    },
+    {
+      "id": "USEV",
+      "level": 6,
+      "critical": true
+    },
+    {
+      "id": "URCH",
+      "level": 6,
+      "critical": true
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "RLMT",
+    "TECH",
+    "RSCH",
+    "USEV",
+    "URCH"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ec"
+  },
+  "id": "65",
+  "name": "Visual Communication Designer",
+  "group": "User experience (UX) designer",
+  "family": "Communications and Marketing",
+  "familyFunction": "Creative Design",
+  "familyRole": "Graphic Design",
+  "aps": "120201",
+  "discipline": "Graphic Design",
+  "aka": "Graphic Designer",
+  "description": "Visual Communication Designers interpret information content and create visual representations and/or layouts of that content to aid user consumption. They select and implement the best method of delivering content, including forms of online and off-line publication.",
+  "apsClassification": "APS6",
+  "knowledge": "Competent",
+  "spanOfInfluence": "",
+  "required": [],
+  "sfia": [
+    {
+      "id": "EMRG",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "VISL",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "ADEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "HCEV",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "ICPM",
+      "level": 4,
+      "critical": true
+    },
+    {
+      "id": "INCA",
+      "level": 3,
+      "critical": true
+    },
+    {
+      "id": "CSMG",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": [
+    "VISL"
+  ]
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ed"
+  },
+  "id": "107",
+  "name": "Vulnerability Assessor",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Advisor",
+  "aps": "170503",
+  "discipline": "Vulnerability Assessment",
+  "aka": "",
+  "description": "Vulnerability Assessors identify, assess and prioritise threat vulnerabilities identified through penetration testing and report findings to improve security architecture and enhance risk awareness.",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "DESN",
+      "level": 4,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 3,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+},{
+  "_id": {
+    "$oid": "605accf03eb54558e0eca7ee"
+  },
+  "id": "72",
+  "name": "Vulnerability Researcher",
+  "group": "Security engineer",
+  "family": "Intelligence",
+  "familyFunction": "Security",
+  "familyRole": "Security Investigation",
+  "aps": "170504",
+  "discipline": "Vulnerability Research",
+  "aka": "",
+  "description": "Vulnerability Researchers perform research on known vulnerabilities and exploits to develop mitigation strategies and tools that can be deployed on network infrastructures, apps and websites. ",
+  "apsClassification": "APS4",
+  "knowledge": "Beginner",
+  "spanOfInfluence": "Service",
+  "required": [],
+  "sfia": [
+    {
+      "id": "SWDN",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "PROG",
+      "level": 2,
+      "critical": false
+    },
+    {
+      "id": "RSCH",
+      "level": 3,
+      "critical": false
+    },
+    {
+      "id": "TECH",
+      "level": 4,
+      "critical": false
+    }
+  ],
+  "skills": [],
+  "invalid": []
+}]

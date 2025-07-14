@@ -1,0 +1,48 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                     | semesters  | credits | compulsory | 
+|------------------------------|------------|---------|------------| 
+| Cloud Computing Architecture | 4 (Spring) | 10      | No         | 
+
+Question: Why is Cloud Computing Architecture planned? 
+Reasons: 
+0: Cloud Computing Architecture is planned 
+1: Level 4 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+2: Level 5 of skill Consultancy is acquired by coursing Social Computing,  or Analytics Programming 
+3: Level 5 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+4: Level 6 of skill Specialist Advice is acquired by coursing LAN Workshop, Operating Systems Programming, Statistical Decision Making, Video Games Development, Advanced Clinical Classification, Predictive Modelling, Cloud Computing Architecture,  or Robotic Programming 
+5: There is no course that teaches level 1 of skill Innovation 
+6: There is no course that teaches level 2 of skill Innovation 
+7: There is no course that teaches level 3 of skill Innovation 
+8: There is no course that teaches level 4 of skill Innovation 
+9: There is no course that teaches level 5 of skill Innovation 
+10: Level 5 of skill Systems Design is acquired by coursing Object Oriented Analysis, Information Systems in Context, Professional Experience, Systems Analysis and Design, Healthcare Software and Systems,  or Cloud Computing Architecture 
+11: There is no course that teaches level 1 of skill Solution Architecture 
+12: There is no course that teaches level 2 of skill Solution Architecture 
+13: There is no course that teaches level 3 of skill Solution Architecture 
+14: There is no course that teaches level 4 of skill Solution Architecture 
+15: There is no course that teaches level 5 of skill Solution Architecture 
+16: There is no course that teaches level 6 of skill Solution Architecture 
+17: Level 3 of skill Enterprise IT Governance is acquired by coursing Systems Analysis and Design 
+18: Level 4 of skill Enterprise IT Governance is acquired by coursing Systems Analysis and Design 
+19: Level 5 of skill Enterprise IT Governance is acquired by coursing Systems Analysis and Design 
+20: There is no course that teaches level 1 of skill Facilities Management 
+21: There is no course that teaches level 2 of skill Facilities Management 
+22: There is no course that teaches level 3 of skill Facilities Management 
+23: There is no course that teaches level 4 of skill Facilities Management 
+24: There is no course that teaches level 5 of skill Facilities Management 
+25: There is no course that teaches level 6 of skill Facilities Management 
+26: Level 3 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+27: Level 4 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+28: Level 5 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+29: Level 6 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+30: Level 5 of skill Network Design is acquired by coursing Computer Networks and Internets , Distributed Systems and Programming, Network Security, Systems and Network Management, Computer Networking,  or Networked Systems Design 
+31: Level 6 of skill Network Design is acquired by coursing Computer Networks and Internets , Distributed Systems and Programming, Network Security, Systems and Network Management, Computer Networking,  or Networked Systems Design 
+32: Level 1 of skill Network planning is acquired by coursing Cloud Computing Architecture 
+33: Level 2 of skill Network planning is acquired by coursing Cloud Computing Architecture 
+34: Level 3 of skill Network planning is acquired by coursing Cloud Computing Architecture 
+35: Level 4 of skill Network planning is acquired by coursing Cloud Computing Architecture 
+36: Level 5 of skill Network planning is acquired by coursing Cloud Computing Architecture 
+37: reduce the percentage of skills learnt below 41%  
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

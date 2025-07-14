@@ -1,0 +1,15 @@
+IIS generation
+Instance: j6047_3
+----------------------------
+Query: 5
+Query element:37,44
+Query element:39,44
+Query element:46,44
+Query element:52,44
+Query scope: 9489
+Query scope: 10002
+Query scope: 11889
+Query scope: 13477
+----------------------------
+IIS optimality: optimal
+IIS solution time: 2.57107

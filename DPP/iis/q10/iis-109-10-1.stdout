@@ -1,0 +1,26 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 301203,1
+Query element: 300167,1
+Query scope: 474
+Query scope: 174
+Query scope: 475
+Query scope: 175
+Query scope: 476
+Query scope: 176
+Query scope: 477
+Query scope: 177
+Query scope: 478
+Query scope: 178
+Query scope: 479
+Query scope: 179
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.015
+IIS Constraint: 107; offer; {unit:300167,season:sp}
+IIS Constraint: 285; precedence; {unit:300167,predecessors:[300581,300582,300147,300027],semester:1}
+IIS Constraint: 293; precedence; {unit:300167,predecessors:[300018],semester:3}
+IIS Constraint: 295; precedence; {unit:300167,predecessors:[300018],semester:5}
+IIS Constraint: 657; query; {unit:301203,query:10}

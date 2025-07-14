@@ -1,0 +1,1 @@
+query;Why is activity 22 not completed before time period 38?

@@ -1,0 +1,15 @@
+PROMPT:
+The project schedule problem is the problem of finding a schedule of activities that respect some precedence and resource restrictions while minimising the project completion time. In this context, provide an explanation to answer the following question about the solution of 32-activity project schedule problem. To do so, use the reasons below, which are related to the project schedule restrictions. 
+Solution: 
+| activity | start_time | completion_time | duration | predecessors | resource_type | resource_units | 
+|----------|------------|-----------------|----------|--------------|---------------|----------------| 
+| 25       | 86         | 89              | 4        | 10, 19, 21   | 1             | 5              | 
+| 26       | 90         | 90              | 1        | 9, 23, 24    | 1             | 1              | 
+Question: Why is the subset of activities 26, 25 not completed at time period 90? 
+Reasons: 
+0: The subset of activities 26, 25 is not completed at time period 90 
+1: resource 2 is scarce at time period 90 due to activities 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 25, 26, 27, 28, 29, 31, 4, 5, 6, 9 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
+
+OUTPUT:

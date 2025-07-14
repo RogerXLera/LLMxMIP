@@ -1,0 +1,18 @@
+IIS generation
+Instance: j6023_9
+----------------------------
+Query: 6
+Query element:39,37
+Query element:22,35
+Query element:34,35
+Query element:52,35
+Query scope: 9775
+Query scope: 5442
+Query scope: 8501
+Query scope: 13092
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.16227
+IIS Constraint: 38; completion; {activity:39}
+IIS Constraint: 113; precedence; {activity:39,predecessor:34}
+IIS Constraint: 1406; query; {activities:[39,22,34,52],t:37,query:6}

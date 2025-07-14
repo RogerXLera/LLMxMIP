@@ -1,0 +1,66 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                       | semesters  | credits | compulsory | 
+|--------------------------------|------------|---------|------------| 
+| Information Systems in Context | 6 (Spring) | 10      | No         | 
+
+Question: Why is Information Systems in Context planned instead of Computer Organisation? 
+Reasons: 
+0: Information Systems in Context is planned instead of Computer Organisation 
+1: Level 1 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+2: Level 2 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+3: reduce the percentage of skills learnt below 37%  
+4: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+5: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+6: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+7: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+8: There is no course that teaches level 1 of skill Digital Marketing 
+9: There is no course that teaches level 2 of skill Digital Marketing 
+10: There is no course that teaches level 3 of skill Digital Marketing 
+11: There is no course that teaches level 4 of skill Digital Marketing 
+12: Level 3 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+13: Level 4 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+14: Level 5 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+15: Level 6 of skill Emerging technology monitoring is acquired by coursing Technologies for Web Applications, Web Systems Development, Emerging Trends in Information Systems, Video Games Development,  or Mobile Applications Development 
+16: Level 5 of skill Data Visualisation is acquired by coursing Statistics for Business, Making Sense of Data, Environmental Informatics, Visual Analytics,  or Management Analytics 
+17: Level 4 of skill Animation Development is acquired by coursing Video Games Development,  or 3D Modelling Fundamentals 
+18: Level 5 of skill Animation Development is acquired by coursing Video Games Development,  or 3D Modelling Fundamentals 
+19: Level 4 of skill User Experience Design is acquired by coursing Human-Computer Interaction 
+20: Level 5 of skill User Experience Design is acquired by coursing Human-Computer Interaction 
+21: There is no course that teaches level 1 of skill Information Content Publishing 
+22: There is no course that teaches level 2 of skill Information Content Publishing 
+23: There is no course that teaches level 3 of skill Information Content Publishing 
+24: There is no course that teaches level 4 of skill Information Content Publishing 
+25: There is no course that teaches level 5 of skill Information Content Publishing 
+26: Level 3 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+Connections: 
+(0-1) 
+(0-2) 
+(1-2) 
+(1-3) 
+(2-3) 
+(3-4) 
+(3-5) 
+(3-6) 
+(3-7) 
+(3-8) 
+(3-9) 
+(3-10) 
+(3-11) 
+(3-12) 
+(3-13) 
+(3-14) 
+(3-15) 
+(3-16) 
+(3-17) 
+(3-18) 
+(3-19) 
+(3-20) 
+(3-21) 
+(3-22) 
+(3-23) 
+(3-24) 
+(3-25) 
+(3-26) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

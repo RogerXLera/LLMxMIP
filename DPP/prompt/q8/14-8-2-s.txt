@@ -1,0 +1,13 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. 
+Partial Solution: 
+| subjects                                         | semesters  | credits | compulsory | 
+|--------------------------------------------------|------------|---------|------------| 
+| Fundamentals of Medical Concepts and Terminology | 3 (Autumn) | 10      | No         | 
+| Healthcare Software and Systems                  | 4 (Spring) | 10      | No         | 
+
+Question: Why is the subset of courses Healthcare Software and Systems, Fundamentals of Medical Concepts and Terminology not planned at semester 4? 
+Reasons: 
+0: The subset of courses Healthcare Software and Systems, Fundamentals of Medical Concepts and Terminology is not planned at semester 4 
+1: Fundamentals of Medical Concepts and Terminology cannot be planned during spring semesters 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 

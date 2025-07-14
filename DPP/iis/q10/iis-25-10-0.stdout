@@ -1,0 +1,23 @@
+IIS generation
+Instance: 0
+----------------------------
+Query: 10
+Query element: 300700,1
+Query element: 300167,1
+Query scope: 300
+Query scope: 174
+Query scope: 301
+Query scope: 175
+Query scope: 302
+Query scope: 176
+Query scope: 303
+Query scope: 177
+Query scope: 304
+Query scope: 178
+Query scope: 305
+Query scope: 179
+----------------------------
+IIS optimality: infeasible
+IIS solution time: 0.010
+IIS Constraint: 563; core; {unit:300700}
+IIS Constraint: 660; query; {unit:300700,query:10}

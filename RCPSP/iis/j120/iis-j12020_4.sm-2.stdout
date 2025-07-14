@@ -1,0 +1,15 @@
+IIS generation
+Instance: j12020_4
+----------------------------
+Query: 2
+Query element:88,377
+Query scope: 50582
+----------------------------
+IIS optimality: suboptimal
+IIS solution time: 76.22871
+IIS Constraint: 254; precedence; {activity:105,predecessor:88}
+IIS Constraint: 291; precedence; {activity:118,predecessor:105}
+IIS Constraint: 295; precedence; {activity:119,predecessor:118}
+IIS Constraint: 302; precedence; {activity:122,predecessor:119}
+IIS Constraint: 2865; query; {activity:88,t:377,query:2}
+IIS Constraint: 2866; max; {f:89.0,objective:max}

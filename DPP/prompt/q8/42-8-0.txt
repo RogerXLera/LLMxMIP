@@ -1,0 +1,91 @@
+The bachelor's degree planning problem is the problem of finding a planning of university subjects that respect some precedence and university restrictions while maximising the skills learnt. Specifically, the goal is to acquire the required level for the student's desired job role by coursing subjects. In this context, provide an explanation to answer the following question about the solution of 6-semester bachelor's degree planning problem. To do so, use the reasons below, which are related to the bachelor's degree restrictions. Moreover, such reasons are connected to each other like nodes in a graph. Use the reasons and their connections to write the explanation. 
+Partial Solution: 
+| subjects                               | semesters  | credits | compulsory | 
+|----------------------------------------|------------|---------|------------| 
+| Technologies for Web Applications      | 3 (Autumn) | 10      | Yes        | 
+| Information Systems in Context         | 4 (Spring) | 10      | No         | 
+| Emerging Trends in Information Systems | 5 (Autumn) | 10      | No         | 
+| Operating Systems Programming          | 5 (Autumn) | 10      | Yes        | 
+
+Question: Why is the subset of courses Operating Systems Programming, Technologies for Web Applications not planned at semester 5? 
+Reasons: 
+0: The subset of courses Operating Systems Programming, Technologies for Web Applications is not planned at semester 5 
+1: Technologies for Web Applications cannot be planned more than ones 
+2: Technologies for Web Applications must be planned before Emerging Trends in Information Systems 
+3: Level 3 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+4: Emerging Trends in Information Systems cannot be planned during spring semesters 
+5: Information Systems in Context must be planned before Emerging Trends in Information Systems 
+6: reduce the percentage of skills learnt below 40%  
+7: There is no course that teaches level 1 of skill Strategic planning 
+8: There is no course that teaches level 2 of skill Strategic planning 
+9: There is no course that teaches level 3 of skill Strategic planning 
+10: There is no course that teaches level 4 of skill Strategic planning 
+11: There is no course that teaches level 5 of skill Strategic planning 
+12: Level 4 of skill Information Governance is acquired by coursing Information Systems in Context, Healthcare Software and Systems,  or Social Web Analytics 
+13: Level 5 of skill Information Governance is acquired by coursing Information Systems in Context, Healthcare Software and Systems,  or Social Web Analytics 
+14: There is no course that teaches level 1 of skill Stakeholder Relationship Management 
+15: There is no course that teaches level 2 of skill Stakeholder Relationship Management 
+16: There is no course that teaches level 3 of skill Stakeholder Relationship Management 
+17: There is no course that teaches level 4 of skill Stakeholder Relationship Management 
+18: There is no course that teaches level 5 of skill Stakeholder Relationship Management 
+19: Level 4 of skill User Experience Design is acquired by coursing Human-Computer Interaction 
+20: Level 5 of skill User Experience Design is acquired by coursing Human-Computer Interaction 
+21: Level 4 of skill User Experience Analysis is acquired by coursing Human-Computer Interaction 
+22: Level 5 of skill Systems Design is acquired by coursing Object Oriented Analysis, Information Systems in Context, Professional Experience, Systems Analysis and Design, Healthcare Software and Systems,  or Cloud Computing Architecture 
+23: Level 3 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+24: Level 4 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+25: Level 5 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+26: Level 6 of skill Information Content Authoring is acquired by coursing Information Systems in Context 
+27: Level 4 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+28: Level 5 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+29: Level 6 of skill Information Systems Coordination is acquired by coursing Emerging Trends in Information Systems,  or Healthcare Data Environments 
+30: There is no course that teaches level 1 of skill Information Content Publishing 
+31: There is no course that teaches level 2 of skill Information Content Publishing 
+32: There is no course that teaches level 3 of skill Information Content Publishing 
+33: There is no course that teaches level 4 of skill Information Content Publishing 
+34: There is no course that teaches level 5 of skill Information Content Publishing 
+35: There is no course that teaches level 6 of skill Information Content Publishing 
+36: Level 4 of skill User Experience Evaluation is acquired by coursing Human-Computer Interaction 
+37: Level 5 of skill User Experience Evaluation is acquired by coursing Human-Computer Interaction 
+38: Level 6 of skill User Experience Evaluation is acquired by coursing Human-Computer Interaction 
+Connections: 
+(0-1) 
+(1-2) 
+(2-3) 
+(3-4) 
+(3-5) 
+(3-6) 
+(6-7) 
+(6-8) 
+(6-9) 
+(6-10) 
+(6-11) 
+(6-12) 
+(6-13) 
+(6-14) 
+(6-15) 
+(6-16) 
+(6-17) 
+(6-18) 
+(6-19) 
+(6-20) 
+(6-21) 
+(6-22) 
+(6-23) 
+(6-24) 
+(6-25) 
+(6-26) 
+(6-27) 
+(6-28) 
+(6-29) 
+(6-30) 
+(6-31) 
+(6-32) 
+(6-33) 
+(6-34) 
+(6-35) 
+(6-36) 
+(6-37) 
+(6-38) 
+
+Write a brief explanation without listing reasons and do not refer to the number of the reason. 
