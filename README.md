@@ -21,12 +21,12 @@ Dataset
 Results
 ----------
  - **Explanation Quality**: [`explanation_comparison.xlsx`](DPP/explanation_comparison.xlsx) files within the DPP and RCPSP folders contain the textual explanations and the data of the quantitative analysis. 
- - **Empirical Hardness**: [`iis.py`](DPP/iis.py) folder contains files that save the extracted IIS. Within such files, there is saved the runtime to compute the IIS. 
+ - **Empirical Hardness**: [`iis`](DPP/iis) directory contains files that save the extracted IIS. Within such files, there is saved the runtime to compute the IIS. To compare the runtime needed to extract an IIS with respect to solve the optimisation problem, we save also the runtime to solve the optimisation problem in the files within the [`solutions`](DPP/solutions) directory, which they contain the solution of the optimisation problems. 
 
 Execution
 ----------
 
-Here, we describe the steps to run our code. 
+Here, we describe the commands to run our code. 
 
  1. **Solve an optimisation problem instance**, run [`problem.py`](DPP/problem.py) Python script,
 ```
