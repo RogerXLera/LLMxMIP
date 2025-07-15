@@ -302,6 +302,8 @@ if __name__ == '__main__':
     parser.add_argument('-s', action='store_true',help='s: sequence true, graph false')
     args, additional = parser.parse_known_args()
     
-    
-    print(build_prompt(args.j,args.q,args.i))
+    if args.s:
+        print(build_sequence(args.j,args.q,args.i))
+    else:
+        print(build_prompt(args.j,args.q,args.i))
     

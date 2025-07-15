@@ -148,7 +148,8 @@ if __name__ == '__main__':
     import os
     parser = ap.ArgumentParser()
     parser.add_argument('-n', type=int, default=30, help='n: Number of activities')
-    parser.add_argument('-s', type=int, default=60, help='s: Time limit in seconds')
+    parser.add_argument('--time', type=int, default=60, help='s: Time limit in seconds')
+    parser.add_argument('--threads', type=int, default=1, help='threads: number of threads')
     parser.add_argument('-q', type=int, default=1, help='q: Query type')
     parser.add_argument('-e', type=float, default=0.0, help='e: Optimality epsylon')
     parser.add_argument('-f', type=str, default = 'j301_1.sm', help='filename of the instance')
@@ -176,5 +177,5 @@ if __name__ == '__main__':
     q.read(I,q_filename)
     q.query_transcription(I)
     iis = IIS(id=instance_id,instance=I,query=q)
-    iis.compute(e=args.e,time_limit=args.s)
+    iis.compute(e=args.e,time_limit=args.time,n_threads=args.threads)
     iis.print_iis()

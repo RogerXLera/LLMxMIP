@@ -157,11 +157,12 @@ class Instance:
         return None
 
 
-    def solve(self,solution_time:int = 60,log:bool = False):
+    def solve(self,solution_time:int = 60,log:bool = False,n_threads:int=1):
         self.build_model()
         from formalisation import objective_generation
         objective_generation(self)
         self.model.parameters.timelimit = solution_time
+        self.model.parameters.threads = n_threads
         self.model.solve(log_output=log)
         return None
 

@@ -14,7 +14,8 @@ if __name__ == '__main__':
     parser = ap.ArgumentParser()
     parser.add_argument('-n', type=int, default=30, help='n: Number of activities')
     parser.add_argument('-f', type=str, default = 'j301_1.sm', help='filename of the instance')
-    parser.add_argument('-s', type=int, default=60, help='s: Time limit in seconds')
+    parser.add_argument('--time', type=int, default=60, help='time: Time limit in seconds')
+    parser.add_argument('--threads', type=int, default=1, help='threads: number of threads')
     args = parser.parse_args()
     
     path = os.getcwd()
@@ -26,7 +27,7 @@ if __name__ == '__main__':
 
     from definitions import Instance
     I = Instance(id=0,project=P)
-    I.solve(solution_time=args.s,log=True)
+    I.solve(solution_time=args.time,log=True,n_threads=args.threads)
     I.print_solution()
         
     
