@@ -1,7 +1,4 @@
-"""
-Roger X. Lera-Leri
-2024/04/23
-"""
+
 import json
 import os
 import numpy as np

@@ -1,7 +1,4 @@
-"""
-Author: Roger X. Lera Leri
-Date: 2024/04/01
-"""
+
 import numpy as np
 import pandas as pd
 import copy

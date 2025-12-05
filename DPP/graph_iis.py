@@ -1,7 +1,4 @@
-"""
-Roger X. Lera Leri
-2025/04/29
-"""
+
 
 import numpy as np
 import itertools

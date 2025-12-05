@@ -1,7 +1,4 @@
-"""
-Roger X. Lera-Leri
-2025/04/23
-"""
+
 import numpy as np
 from docplex.mp.model import Model
 import pandas as pd

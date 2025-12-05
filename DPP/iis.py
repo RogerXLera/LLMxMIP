@@ -1,7 +1,4 @@
-"""
-Author: Roger X. Lera Leri
-Date: 2025/04/26
-"""
+
 
 def maximality_constraint(IIS,e:float = 0.0):
     """
