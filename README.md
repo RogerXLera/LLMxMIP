@@ -1,4 +1,4 @@
-ExMIP: Experimental Evaluation
+LLMxMIP: Experimental Evaluation
 ===================
 This repository contains the implementation of the algorithms and data of the experimental section of the paper
 "Constraint Reasoning and Large Language Models Join Forces: Providing Contrastive Explanations for Real-World Optimisation-Based Applications".
